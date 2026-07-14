@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A personalized Canada and United States internship board for Katherine Du, focused on business, law, compliance, finance, policy, contracts, and analytics.">
+  <meta name="theme-color" content="#0b1f33">
+  <title>Katherine Du · Business + Law Internship Board</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#jobResults">Skip to job results</a>
+
+  <header class="hero" id="top">
+    <nav class="nav-shell" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="Katherine Du internship board home">
+        <span class="brand-mark" aria-hidden="true">KD</span>
+        <span>
+          <strong>Opportunity Board</strong>
+          <small>Business × Law</small>
+        </span>
+      </a>
+      <div class="nav-links">
+        <a href="#jobs">Jobs</a>
+        <a href="#automation">Daily refresh</a>
+        <a href="outreach/cold_emails.md">Email library</a>
+      </div>
+    </nav>
+
+    <div class="hero-content shell">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Personalized for Katherine Du</p>
+        <h1>Find the roles where <span>business judgment</span> meets <span>legal thinking.</span></h1>
+        <p class="hero-lede">A focused Canada + U.S. internship board for contracts, compliance, finance, policy, legal operations, governance, and analytics—ranked against your résumé and screened for eligibility risks.</p>
+
+        <div class="profile-strip" aria-label="Candidate profile">
+          <span>BCom/JD candidate</span>
+          <span>9.5/10 CGPA</span>
+          <span>RBC Client Advisor</span>
+          <span>English · French · Mandarin</span>
+          <span>Power BI · Python · SQL</span>
+        </div>
+
+        <div class="hero-actions">
+          <a class="button button-primary" href="#jobs">Explore matches <span aria-hidden="true">↓</span></a>
+          <button class="button button-ghost" type="button" data-open-method>How matching works</button>
+        </div>
+
+        <p class="refresh-line">
+          <span aria-hidden="true">↻</span>
+          Data snapshot <strong id="heroRefreshDate">loading…</strong>. <span id="sourceHealth">Loading source health…</span>
+        </p>
+      </div>
+
+      <aside class="hero-panel" aria-label="Priority search lanes">
+        <div class="panel-kicker">Your strongest lanes</div>
+        <ol class="lane-list">
+          <li>
+            <span class="lane-rank">01</span>
+            <div><strong>Legal operations & contracts</strong><small>Contract administration, drafting, research, document systems</small></div>
+          </li>
+          <li>
+            <span class="lane-rank">02</span>
+            <div><strong>Compliance & governance</strong><small>Privacy, risk, controls, trade, data governance, ESG</small></div>
+          </li>
+          <li>
+            <span class="lane-rank">03</span>
+            <div><strong>Finance & analytics</strong><small>Product analysis, strategy, Power BI, tax, commercial banking</small></div>
+          </li>
+        </ol>
+        <div class="panel-note">
+          <span aria-hidden="true">!</span>
+          U.S. roles are retained but clearly flagged when authorization, ABA-school, citizenship, or graduation-year rules may block eligibility.
+        </div>
+      </aside>
+    </div>
+  </header>
+
+  <main>
+    <section class="stats-section shell" aria-label="Board summary">
+      <div class="stats-grid">
+        <article class="stat-card">
+          <div class="stat-icon" aria-hidden="true">◎</div>
+          <div><strong id="statTotal">—</strong><span>Tracked opportunities</span></div>
+          <small>Open roles, program leads & watchlists</small>
+        </article>
+        <article class="stat-card">
+          <div class="stat-icon" aria-hidden="true">CA</div>
+          <div><strong id="statCanada">—</strong><span>Canada</span></div>
+          <small>Primary market</small>
+        </article>
+        <article class="stat-card">
+          <div class="stat-icon" aria-hidden="true">US</div>
+          <div><strong id="statUS">—</strong><span>United States</span></div>
+          <small>Authorization screened</small>
+        </article>
+        <article class="stat-card">
+          <div class="stat-icon" aria-hidden="true">★</div>
+          <div><strong id="statStrong">—</strong><span>Strongest fits</span></div>
+          <small>Fit score 90+</small>
+        </article>
+      </div>
+    </section>
+
+    <section class="jobs-section shell" id="jobs">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow dark">Tracked opportunities</p>
+          <h2>Your internship pipeline</h2>
+          <p>Search broadly, then use the eligibility and fit signals to decide where to apply, network, or save for a future cycle.</p>
+        </div>
+        <button class="coverage-button" type="button" data-open-method>
+          <span aria-hidden="true">i</span>
+          Coverage & limitations
+        </button>
+      </div>
+
+      <div class="controls" aria-label="Job filters">
+        <div class="search-wrap">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+          <label class="sr-only" for="searchInput">Search jobs</label>
+          <input id="searchInput" type="search" placeholder="Search company, title, skill, city…" autocomplete="off">
+          <kbd aria-hidden="true">/</kbd>
+        </div>
+
+        <div class="filter-grid">
+          <label>
+            <span>Country</span>
+            <select id="countryFilter">
+              <option value="all">Canada + U.S.</option>
+              <option value="Canada">Canada</option>
+              <option value="United States">United States</option>
+            </select>
+          </label>
+          <label>
+            <span>Career lane</span>
+            <select id="laneFilter"><option value="all">All lanes</option></select>
+          </label>
+          <label>
+            <span>Term</span>
+            <select id="termFilter"><option value="all">All terms</option></select>
+          </label>
+          <label>
+            <span>Eligibility</span>
+            <select id="eligibilityFilter">
+              <option value="all">All eligibility</option>
+              <option value="likely">Likely match</option>
+              <option value="check">Check requirements</option>
+              <option value="future">Future watchlist</option>
+              <option value="conflict">Current conflict</option>
+            </select>
+          </label>
+          <label>
+            <span>Work mode</span>
+            <select id="modeFilter"><option value="all">All modes</option></select>
+          </label>
+          <label>
+            <span>Source quality</span>
+            <select id="sourceFilter">
+              <option value="all">All sources</option>
+              <option value="government">Government programs & jobs</option>
+              <option value="official">Official sources only</option>
+              <option value="discovery">Discovery leads</option>
+            </select>
+          </label>
+          <label>
+            <span>Sort by</span>
+            <select id="sortFilter">
+              <option value="fit">Best résumé fit</option>
+              <option value="newest">Newest first</option>
+              <option value="deadline">Deadline first</option>
+              <option value="company">Company A–Z</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="control-footer">
+          <div class="quick-toggles">
+            <label class="toggle-pill"><input id="recentOnly" type="checkbox"><span>Posted / verified in 7 days</span></label>
+            <label class="toggle-pill"><input id="savedOnly" type="checkbox"><span>Saved roles only</span></label>
+          </div>
+          <button class="text-button" id="clearFilters" type="button">Clear filters</button>
+        </div>
+      </div>
+
+      <div class="results-toolbar" id="jobResults" tabindex="-1">
+        <div>
+          <h3><span id="resultCount">0</span> opportunities</h3>
+          <p id="resultSummary" aria-live="polite">Loading your board…</p>
+        </div>
+        <div class="legend" aria-label="Eligibility legend">
+          <span><i class="legend-dot likely"></i>Likely</span>
+          <span><i class="legend-dot check"></i>Check</span>
+          <span><i class="legend-dot conflict"></i>Conflict</span>
+        </div>
+      </div>
+
+      <div class="job-grid" id="jobGrid" aria-live="polite"></div>
+
+      <div class="empty-state" id="emptyState" hidden>
+        <div aria-hidden="true">⌕</div>
+        <h3>No roles match those filters</h3>
+        <p>Try broadening the location, eligibility, or career-lane filters.</p>
+        <button class="button button-secondary" type="button" id="emptyClear">Reset filters</button>
+      </div>
+
+      <div class="load-more-wrap">
+        <button class="button button-secondary" id="loadMore" type="button">Show more opportunities</button>
+      </div>
+    </section>
+
+    <section class="automation-section" id="automation">
+      <div class="shell automation-grid">
+        <div class="automation-copy">
+          <p class="eyebrow">Built to stay current</p>
+          <h2>A daily-refresh workflow—not a one-time spreadsheet.</h2>
+          <p>The included Python pipeline searches Government of Canada Job Bank feeds and federal student programs, USAJOBS, official Greenhouse/Lever/Ashby/SmartRecruiters/Workday/SuccessFactors endpoints, Canadian law-firm recruiting pages, public internship feeds, and optional authorized search APIs. It then filters, deduplicates, ranks, writes cold emails, and publishes only when strict source-health checks pass.</p>
+          <p><strong>Deployment is required:</strong> the daily schedule begins after this project is placed in a GitHub repository and the workflow is enabled.</p>
+          <div class="automation-actions">
+            <a class="button button-light" href="README.md">Setup instructions</a>
+            <a class="button button-outline-light" href="SOURCES.md">Coverage registry</a>
+            <a class="button button-outline-light" href="data/jobs.csv">Download current CSV</a>
+          </div>
+        </div>
+
+        <ol class="workflow" aria-label="Daily update workflow">
+          <li><span>1</span><div><strong>Discover</strong><small>Job Bank, FSWEP and public-sector programs, USAJOBS, 100 official ATS boards, law-firm pages, and authorized APIs</small></div></li>
+          <li><span>2</span><div><strong>Verify</strong><small>Track official provenance, source response status, retrieval count, accepted count, and failures</small></div></li>
+          <li><span>3</span><div><strong>Screen & rank</strong><small>Canada/U.S., recency, business-law relevance, résumé fit, eligibility, and duplicate removal</small></div></li>
+          <li><span>4</span><div><strong>Publish safely</strong><small>Block seed-only or under-covered refreshes; preserve the last successful public board</small></div></li>
+        </ol>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="shell footer-grid">
+      <div>
+        <div class="brand footer-brand"><span class="brand-mark">KD</span><span><strong>Opportunity Board</strong><small>Built around your résumé</small></span></div>
+        <p>Job availability and eligibility can change without notice. Always verify the official posting before applying.</p>
+      </div>
+      <div class="footer-links">
+        <a href="#top">Back to top</a>
+        <a href="outreach/cold_emails.md">Cold email library</a>
+        <a href="README.md">Deployment guide</a>
+      </div>
+    </div>
+  </footer>
+
+  <dialog class="modal" id="emailDialog" aria-labelledby="emailTitle">
+    <div class="modal-card">
+      <button class="modal-close" type="button" data-close-dialog aria-label="Close email dialog">×</button>
+      <p class="modal-eyebrow">Ready-to-personalize outreach</p>
+      <h2 id="emailTitle">Cold email</h2>
+      <p class="modal-context" id="emailContext"></p>
+      <label>
+        <span>Subject</span>
+        <input id="emailSubject" type="text">
+      </label>
+      <label>
+        <span>Email</span>
+        <textarea id="emailBody" rows="16"></textarea>
+      </label>
+      <div class="modal-actions">
+        <button class="button button-primary" id="copyEmail" type="button">Copy subject + email</button>
+        <a class="button button-secondary" id="openMail" href="#">Open in email app</a>
+      </div>
+      <p class="modal-tip">Best practice: replace <code>[Name]</code>, reference one specific team detail, and contact a person—not a generic inbox—when possible.</p>
+    </div>
+  </dialog>
+
+  <dialog class="modal" id="methodDialog" aria-labelledby="methodTitle">
+    <div class="modal-card method-card">
+      <button class="modal-close" type="button" data-close-dialog aria-label="Close methodology dialog">×</button>
+      <p class="modal-eyebrow">Coverage & methodology</p>
+      <h2 id="methodTitle">What this board does—and does not claim</h2>
+      <div class="method-grid">
+        <section>
+          <h3>Résumé matching</h3>
+          <p>Scores emphasize your combined commerce-law program, RBC client and compliance work, 9.5/10 CGPA, trilingual communication, and analytics toolkit.</p>
+        </section>
+        <section>
+          <h3>Eligibility screening</h3>
+          <p>Class year, U.S. authorization, citizenship, ABA-school, Canadian work eligibility, co-op registration, and term-length issues are surfaced rather than hidden.</p>
+        </section>
+        <section>
+          <h3>Daily discovery</h3>
+          <p>The deployed workflow checks Government of Canada Job Bank searches and student programs, provincial and parliamentary programs, U.S. federal sources, official employer ATS endpoints, Canadian law-firm recruiting pages, public feeds, and credentialed search APIs. Each source is logged as success, empty, skipped, or error.</p>
+        </section>
+        <section>
+          <h3>Fail-visible publication</h3>
+          <p>Curated records are not counted as live discovery. A refresh is blocked when Job Bank produces no relevant result, too few source families complete, or too few unique live opportunities survive screening.</p>
+        </section>
+        <section>
+          <h3>Important limitation</h3>
+          <p>No system can guarantee every job posted across the internet. The project avoids prohibited scraping, labels aggregator records as discovery leads, and provides auditable source-health files rather than claiming universal coverage.</p>
+        </section>
+      </div>
+      <button class="button button-primary" type="button" data-close-dialog>Got it</button>
+    </div>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="data/jobs.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

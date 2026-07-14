@@ -1,0 +1,139 @@
+name: Refresh and deploy internship board
+
+on:
+  schedule:
+    - cron: "15 6 * * *"
+      timezone: "America/Los_Angeles"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: internship-board-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Rebuild source registry documentation
+        run: python scripts/build_source_registry.py
+
+      - name: Validate broad source registry
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          config = json.loads(Path("scripts/sources.json").read_text())
+          ats = sum(len(config[key]) for key in (
+              "greenhouse_boards", "lever_boards", "ashby_boards",
+              "smartrecruiters_boards", "workday_boards", "successfactors_boards",
+          ))
+          assert len(config["government_canada"]["job_bank_searches"]) >= 20
+          assert len(config["government_canada"]["programs"]) >= 12
+          assert len(config["monitored_opportunity_pages"]) >= 8
+          assert len(config["rss_feeds"]) >= 1
+          assert ats >= 80
+          print(f"Registry validated: {len(config['government_canada']['job_bank_searches'])} Job Bank searches, "
+                f"{len(config['government_canada']['programs'])} Canadian public-sector programs, "
+                f"{len(config['monitored_opportunity_pages'])} law-firm program pages, {ats} ATS boards.")
+          PY
+
+      - name: Refresh jobs and outreach library
+        env:
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          CAREERONESTOP_TOKEN: ${{ secrets.CAREERONESTOP_TOKEN }}
+          CAREERONESTOP_USER_ID: ${{ secrets.CAREERONESTOP_USER_ID }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
+        run: >-
+          python scripts/refresh_jobs.py
+          --strict
+          --max-age-days 60
+          --minimum-successful-core-sources 3
+          --minimum-successful-source-families 3
+          --minimum-dynamic-jobs 10
+          --require-job-bank-success
+          --max-workers 8
+          --source-delay 0.25
+
+      - name: Upload source diagnostics
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: internship-source-diagnostics
+          path: |
+            data/refresh_report.json
+            data/source_coverage.csv
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Rebuild single-file board
+        run: python scripts/build_standalone.py
+
+      - name: Run pipeline tests
+        run: |
+          python -m unittest discover -s tests -v
+          node --check app.js
+          node tests/front_end_smoke.js
+
+      - name: Commit refreshed data when changed
+        run: |
+          git config user.name "job-board-bot"
+          git config user.email "job-board-bot@users.noreply.github.com"
+          git add \
+            data/jobs.json data/jobs.js data/jobs.csv \
+            data/refresh_report.json data/source_coverage.csv \
+            outreach/cold_emails.md standalone.html SOURCES.md
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: refresh internship board"
+            git push
+          fi
+
+      - name: Build privacy-safer public site
+        run: python scripts/build_public_site.py
+
+      - name: Confirm contact details are redacted from deployment
+        run: |
+          ! grep -R --fixed-strings "kdu039@uottawa.ca" _site
+          ! grep -R --fixed-strings "613-447-2562" _site
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

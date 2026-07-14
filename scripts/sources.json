@@ -1,0 +1,2107 @@
+{
+  "schema_version": 2,
+  "notes": "Broad, auditable source registry. Official sources are preferred. Aggregators are discovery-only and must be verified before application.",
+  "government_canada": {
+    "job_bank_searches": [
+      {
+        "name": "Federal government student and internship roles",
+        "tier": "core",
+        "params": {
+          "fet": 3,
+          "searchstring": "student"
+        },
+        "days": 90,
+        "rows": 100,
+        "fallback_pages": 5,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "All Canadian student jobs — broad scan",
+        "tier": "core",
+        "params": {
+          "fjsf": 1
+        },
+        "days": 45,
+        "rows": 100,
+        "fallback_pages": 5,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Business and operations student roles",
+        "tier": "core",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "business"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Finance and banking student roles",
+        "tier": "core",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "finance"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Accounting and tax student roles",
+        "tier": "standard",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "accounting"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Legal and law student roles",
+        "tier": "core",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "legal"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Compliance and regulatory student roles",
+        "tier": "core",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "compliance"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Policy and public administration student roles",
+        "tier": "core",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "policy"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Audit and controls student roles",
+        "tier": "standard",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "audit"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Communications and public affairs student roles",
+        "tier": "standard",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "communications"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Marketing and commercial student roles",
+        "tier": "standard",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "marketing"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Data and business analytics student roles",
+        "tier": "standard",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "data analyst"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Human resources student roles",
+        "tier": "standard",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "human resources"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Procurement and contracts student roles",
+        "tier": "standard",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "procurement"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Administration and program support student roles",
+        "tier": "standard",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "administrative"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Insurance and risk student roles",
+        "tier": "standard",
+        "params": {
+          "fjsf": 1,
+          "searchstring": "insurance"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Federal government internships",
+        "tier": "core",
+        "params": {
+          "fet": 3,
+          "searchstring": "intern"
+        },
+        "days": 90,
+        "rows": 100,
+        "fallback_pages": 4,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Federal government co-op roles",
+        "tier": "core",
+        "params": {
+          "fet": 3,
+          "searchstring": "co-op"
+        },
+        "days": 90,
+        "rows": 100,
+        "fallback_pages": 4,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Federal government legal roles for students",
+        "tier": "standard",
+        "params": {
+          "fet": 3,
+          "searchstring": "legal"
+        },
+        "days": 90,
+        "rows": 100,
+        "fallback_pages": 4,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Federal government policy roles for students",
+        "tier": "standard",
+        "params": {
+          "fet": 3,
+          "searchstring": "policy"
+        },
+        "days": 90,
+        "rows": 100,
+        "fallback_pages": 4,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Federal government finance roles for students",
+        "tier": "standard",
+        "params": {
+          "fet": 3,
+          "searchstring": "finance"
+        },
+        "days": 90,
+        "rows": 100,
+        "fallback_pages": 4,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Federal government compliance roles for students",
+        "tier": "standard",
+        "params": {
+          "fet": 3,
+          "searchstring": "compliance"
+        },
+        "days": 90,
+        "rows": 100,
+        "fallback_pages": 4,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Federal government communications roles for students",
+        "tier": "standard",
+        "params": {
+          "fet": 3,
+          "searchstring": "communications"
+        },
+        "days": 90,
+        "rows": 100,
+        "fallback_pages": 4,
+        "status": "open_when_verified"
+      },
+      {
+        "name": "Canada Summer Jobs — business",
+        "tier": "standard",
+        "params": {
+          "fsrc": 21,
+          "searchstring": "business"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "lead_verify_open"
+      },
+      {
+        "name": "Canada Summer Jobs — administration",
+        "tier": "standard",
+        "params": {
+          "fsrc": 21,
+          "searchstring": "administrative"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "lead_verify_open"
+      },
+      {
+        "name": "Canada Summer Jobs — finance",
+        "tier": "standard",
+        "params": {
+          "fsrc": 21,
+          "searchstring": "finance"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "lead_verify_open"
+      },
+      {
+        "name": "Canada Summer Jobs — legal",
+        "tier": "standard",
+        "params": {
+          "fsrc": 21,
+          "searchstring": "legal"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "lead_verify_open"
+      },
+      {
+        "name": "Canada Summer Jobs — marketing and communications",
+        "tier": "standard",
+        "params": {
+          "fsrc": 21,
+          "searchstring": "marketing"
+        },
+        "days": 60,
+        "rows": 100,
+        "fallback_pages": 3,
+        "force_student": true,
+        "status": "lead_verify_open"
+      }
+    ],
+    "programs": [
+      {
+        "id": "gc-fswep-index",
+        "title": "Federal Student Work Experience Program (FSWEP)",
+        "company": "Government of Canada",
+        "url": "https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html",
+        "location": "Across Canada",
+        "source_name": "Government of Canada — FSWEP",
+        "parser": "federal_index",
+        "tier": "core",
+        "required_phrases": [
+          "Federal Student Work Experience Program",
+          "Ongoing Student Recruitment Inventory"
+        ],
+        "description": "Year-round federal student inventory plus specialized departmental inventories. Roles can span administration, finance, policy, communications, research, operations, and other fields.",
+        "season": "Year-round / ongoing",
+        "status": "ongoing_program"
+      },
+      {
+        "id": "gc-research-affiliate-program",
+        "title": "Research Affiliate Program",
+        "company": "Government of Canada",
+        "url": "https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/research-affiliate-program.html",
+        "location": "Across Canada",
+        "source_name": "Government of Canada — Research Affiliate Program",
+        "tier": "core",
+        "required_phrases": [
+          "Research Affiliate Program",
+          "full-time student"
+        ],
+        "description": "Part-time federal research work while pursuing studies. Research must relate to the student’s degree or program.",
+        "season": "Year-round / current inventories",
+        "status": "program_inventory"
+      },
+      {
+        "id": "gc-postsecondary-coop-internship",
+        "title": "Post-Secondary Co-op/Internship Program",
+        "company": "Government of Canada",
+        "url": "https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/coop-internship.html",
+        "location": "Across Canada",
+        "source_name": "Government of Canada — Co-op/Internship Program",
+        "tier": "core",
+        "required_phrases": [
+          "Post-Secondary Co-op/Internship Program",
+          "academic requirement"
+        ],
+        "description": "Federal co-op and internship placements advertised through validated academic programs and school coordinators.",
+        "season": "Academic work terms",
+        "status": "program_inventory"
+      },
+      {
+        "id": "gc-youth-student-hub",
+        "title": "Government of Canada Youth and Student Employment Hub",
+        "company": "Government of Canada",
+        "url": "https://www.canada.ca/en/services/jobs/youth.html",
+        "location": "Across Canada",
+        "source_name": "Government of Canada — Youth and Student Employment",
+        "tier": "core",
+        "required_phrases": [
+          "Youth and student employment",
+          "Government jobs and internships"
+        ],
+        "description": "Official index covering FSWEP, specialized federal programs, co-op, Parks Canada, research jobs, Job Bank youth roles, and other student pathways.",
+        "season": "Year-round / program-specific",
+        "status": "program_index"
+      },
+      {
+        "id": "gc-cbsa-student-border-officer-2027",
+        "title": "Student Border Services Officer — Summer 2027",
+        "company": "Canada Border Services Agency",
+        "url": "https://www.cbsa-asfc.gc.ca/job-emploi/student-etudiant/sbso-aesf-eng.html",
+        "location": "Various locations in Canada",
+        "source_name": "Canada Border Services Agency",
+        "tier": "core",
+        "required_phrases": [
+          "Student Border Services Officer"
+        ],
+        "description": "Paid student border-services employment involving public service, legislation, operational judgment, client interaction, and enforcement-related responsibilities.",
+        "season": "Summer 2027",
+        "deadline": "2026-09-17",
+        "status": "open_program"
+      },
+      {
+        "id": "gc-parks-student-youth-jobs",
+        "title": "Parks Canada Student and Youth Employment",
+        "company": "Parks Canada",
+        "url": "https://parks.canada.ca/agence-agency/emplois-jobs/etudiants-students",
+        "location": "Across Canada",
+        "source_name": "Parks Canada",
+        "tier": "standard",
+        "required_phrases": [
+          "student",
+          "Parks Canada"
+        ],
+        "description": "Student and youth opportunities across Parks Canada, including visitor services, administration, communications, finance, operations, and program support where available.",
+        "season": "Seasonal and current postings",
+        "status": "program_inventory"
+      },
+      {
+        "id": "gc-cra-students-graduates",
+        "title": "CRA Student and Graduate Hiring",
+        "company": "Canada Revenue Agency",
+        "url": "https://www.canada.ca/en/revenue-agency/corporate/careers-cra/browse-job-types/student-graduate-hiring.html",
+        "location": "Across Canada",
+        "source_name": "Canada Revenue Agency Careers",
+        "tier": "standard",
+        "required_phrases": [
+          "student",
+          "Canada Revenue Agency"
+        ],
+        "description": "Official CRA pathway for student and graduate opportunities in taxation, audit, finance, administration, data, policy, service, and related functions.",
+        "season": "Current and recurring opportunities",
+        "status": "program_inventory"
+      },
+      {
+        "id": "gc-nrc-student-employment",
+        "title": "NRC Student Employment Program",
+        "company": "National Research Council Canada",
+        "url": "https://nrc.canada.ca/en/corporate/careers/nrc-student-employment-program",
+        "location": "Across Canada",
+        "source_name": "National Research Council Canada",
+        "tier": "standard",
+        "required_phrases": [
+          "NRC Student Employment Program",
+          "students"
+        ],
+        "description": "Career-related student work across research and development plus communications, marketing, library sciences, administration, and other support areas.",
+        "season": "Current and recurring opportunities",
+        "status": "program_inventory"
+      },
+      {
+        "id": "gc-cfia-student-opportunities",
+        "title": "CFIA Student Opportunities",
+        "company": "Canadian Food Inspection Agency",
+        "url": "https://inspection.canada.ca/en/about-cfia/job-opportunities/how-apply/students",
+        "location": "Across Canada",
+        "source_name": "Canadian Food Inspection Agency",
+        "tier": "standard",
+        "required_phrases": [
+          "students",
+          "CFIA"
+        ],
+        "description": "Student assignments through direct institutional hiring and federal student programs, including regulatory, policy, program, administrative, science, and operational work.",
+        "season": "Current and recurring opportunities",
+        "status": "program_inventory"
+      },
+      {
+        "id": "gc-student-work-placement-program",
+        "title": "Student Work Placement Program",
+        "company": "Employment and Social Development Canada",
+        "url": "https://www.canada.ca/en/employment-social-development/services/student-work-placements-wage-subsidies.html",
+        "location": "Across Canada",
+        "source_name": "Government of Canada — Student Work Placement Program",
+        "tier": "standard",
+        "required_phrases": [
+          "Student Work Placement Program"
+        ],
+        "description": "Government-supported work-integrated learning placements delivered through partner organizations and employers across Canadian industries.",
+        "season": "Academic and seasonal work terms",
+        "status": "program_inventory"
+      },
+      {
+        "id": "bank-canada-students-recent-grads",
+        "title": "Bank of Canada Students and Recent Graduates",
+        "company": "Bank of Canada",
+        "url": "https://www.bankofcanada.ca/careers/students-and-recent-graduates/",
+        "location": "Ottawa and other Canadian locations",
+        "source_name": "Bank of Canada Careers",
+        "tier": "standard",
+        "required_phrases": [
+          "students",
+          "Bank of Canada"
+        ],
+        "description": "Official student and recent-graduate recruiting pathway for economics, finance, business, data, communications, administration, policy, and related work.",
+        "season": "Current and recurring opportunities",
+        "status": "program_inventory"
+      },
+      {
+        "id": "house-of-commons-student-employment",
+        "title": "House of Commons Student Employment Program",
+        "company": "House of Commons of Canada",
+        "url": "https://www.ourcommons.ca/en/employment/students",
+        "location": "Ottawa, ON",
+        "source_name": "House of Commons Student Employment",
+        "description": "Paid student employment and co-op placements in the House of Commons, with winter, summer and fall work terms across operational and administrative fields.",
+        "required_phrases": [
+          "student employment",
+          "co-op opportunities"
+        ],
+        "season": "Winter, summer and fall work terms",
+        "status": "program_inventory",
+        "tier": "standard"
+      },
+      {
+        "id": "library-parliament-guide-2026-27",
+        "title": "Parliamentary Guide Program — Fall-Winter 2026–2027",
+        "company": "Library of Parliament",
+        "url": "https://lop.parl.ca/sites/jobs/default/en_CA/guides",
+        "location": "Ottawa, ON",
+        "source_name": "Library of Parliament",
+        "description": "Paid bilingual student work delivering tours and interpreting Parliament’s work, history and architecture for visitors while supporting a professional public-service environment.",
+        "interest": "it places bilingual communication, public education, parliamentary procedure and public service at the centre of a paid student role.",
+        "required_phrases": [
+          "currently hiring for fall-winter 2026-2027",
+          "23 July 2026"
+        ],
+        "deadline": "2026-07-23",
+        "season": "Fall-Winter 2026–2027",
+        "status": "open_program",
+        "tier": "core",
+        "category": "student bilingual parliamentary public affairs communications law policy visitor services",
+        "lane": "Policy & Government",
+        "fit_score": 93,
+        "fit_label": "Strong match",
+        "fit_reasons": [
+          "English/French bilingual profile",
+          "BCom/JD interest in Parliament and public policy",
+          "High-volume RBC client communication"
+        ],
+        "skills": [
+          "Bilingual communication",
+          "Public speaking",
+          "Parliamentary knowledge",
+          "Visitor service",
+          "Professional judgment"
+        ],
+        "eligibility_status": "check",
+        "eligibility_label": "Check citizenship and schedule requirements",
+        "eligibility_notes": "The official program requires Canadian citizenship or permanent residence, study at a Canadian university, and bilingual English/French ability. Confirm fall-winter availability and all application documents before the July 23, 2026 deadline.",
+        "work_auth": "Canadian citizen or permanent resident required",
+        "class_year": "Current Canadian university student",
+        "warning": "Confirm citizenship or permanent-resident status and the program’s fall-winter work schedule."
+      },
+      {
+        "id": "senate-student-employment",
+        "title": "Senate of Canada Student Employment Program",
+        "company": "Senate of Canada",
+        "url": "https://sencanada.ca/en/about/careers/student-employment/",
+        "location": "Ottawa, ON",
+        "source_name": "Senate of Canada",
+        "description": "Year-round student employment across Senate Administration functions such as chamber and committee operations, finance and procurement, communications, human resources and other public-service teams.",
+        "interest": "it offers direct exposure to parliamentary administration and lets students contribute across policy-adjacent, financial, operational and communications functions.",
+        "required_phrases": [
+          "hires students throughout the year"
+        ],
+        "season": "Year-round / ongoing",
+        "status": "program_inventory",
+        "tier": "core",
+        "category": "student parliament policy finance procurement communications human resources public service",
+        "lane": "Policy & Government",
+        "fit_score": 92,
+        "fit_label": "Strong match",
+        "fit_reasons": [
+          "BCom/JD business-law perspective",
+          "Ottawa-based bilingual profile",
+          "RBC client service and regulated-environment experience"
+        ],
+        "skills": [
+          "Parliamentary operations",
+          "Policy awareness",
+          "Finance and procurement",
+          "Communications",
+          "Professional judgment"
+        ],
+        "eligibility_status": "check",
+        "eligibility_label": "Check student-inventory requirements",
+        "eligibility_notes": "Confirm current enrolment, return-to-studies expectations, Canadian work authorization, term availability and any team-specific security or language requirements.",
+        "work_auth": "Canadian work authorization and Senate requirements apply",
+        "class_year": "High school, CEGEP, college or university student",
+        "warning": "This is a year-round student inventory; openings and team requirements vary."
+      },
+      {
+        "id": "justice-legal-excellence-program",
+        "title": "Legal Excellence Program — Law Student and Articling Recruitment",
+        "company": "Department of Justice Canada",
+        "url": "https://www.justice.gc.ca/eng/abt-apd/recru/lep-pea/index.html",
+        "location": "Multiple offices across Canada",
+        "source_name": "Department of Justice Canada",
+        "description": "Office-specific law-student, summer and articling recruitment offering exposure to government litigation, legal advisory work, legislation, policy and public-law practice.",
+        "interest": "it combines legal research, litigation and advisory work with the policy and institutional responsibilities of the federal government.",
+        "required_phrases": [
+          "Legal Excellence Program"
+        ],
+        "season": "Future office-specific cycles",
+        "status": "program_watchlist",
+        "tier": "core",
+        "category": "law student summer articling legal litigation advisory legislation policy government",
+        "lane": "Legal & Contracts",
+        "fit_score": 94,
+        "fit_label": "Strong future match",
+        "fit_reasons": [
+          "Combined BCom/JD trajectory",
+          "Bilingual public-service interest",
+          "RBC compliance and confidential-information experience"
+        ],
+        "skills": [
+          "Legal research",
+          "Litigation support",
+          "Legal writing",
+          "Public law",
+          "Policy analysis"
+        ],
+        "eligibility_status": "future",
+        "eligibility_label": "Future upper-year law-student recruiting cycle",
+        "eligibility_notes": "Justice Canada offices recruit on different schedules and many summer or articling streams target students who have reached a specified stage of law school. Monitor office pages as your JD progression aligns.",
+        "work_auth": "Office-specific Canadian legal-recruiting requirements",
+        "class_year": "Typically upper-year law student or articling candidate",
+        "warning": "Treat this as a future-cycle networking and application target until the office-specific academic-year requirement is met."
+      },
+      {
+        "id": "bc-public-service-coop",
+        "title": "BC Public Service Co-op Employment Program",
+        "company": "Government of British Columbia",
+        "url": "https://www2.gov.bc.ca/gov/content/careers-myhr/job-seekers/internship-co-op-opportunities/co-op",
+        "location": "British Columbia",
+        "source_name": "BC Public Service student programs",
+        "description": "Co-op placements for post-secondary students enrolled in recognized co-operative education programs, including students at accredited institutions outside British Columbia.",
+        "required_phrases": [
+          "Co-op Employment Program",
+          "post-secondary students"
+        ],
+        "season": "Academic co-op work terms",
+        "status": "program_inventory",
+        "tier": "standard"
+      },
+      {
+        "id": "bc-public-service-student-employment",
+        "title": "BC Public Service Student Employment Program",
+        "company": "Government of British Columbia",
+        "url": "https://www2.gov.bc.ca/gov/content/careers-myhr/job-seekers/internship-co-op-opportunities/student-employment-program",
+        "location": "British Columbia",
+        "source_name": "BC Public Service student programs",
+        "description": "Student employment opportunities across the BC Public Service intended to provide practical experience and exposure to public-sector careers.",
+        "required_phrases": [
+          "Student Employment Program",
+          "BC Public Service"
+        ],
+        "season": "Seasonal / current postings",
+        "status": "program_inventory",
+        "tier": "standard"
+      },
+      {
+        "id": "alberta-student-opportunities",
+        "title": "Alberta Public Service Student Opportunities and Internships",
+        "company": "Government of Alberta",
+        "url": "https://www.alberta.ca/find-student-opportunities-and-internships",
+        "location": "Alberta",
+        "source_name": "Alberta Public Service student opportunities",
+        "description": "Current-student, co-op and internship opportunities across the Alberta Public Service; individual vacancies are linked through the official provincial jobs board.",
+        "required_phrases": [
+          "student opportunities",
+          "internships",
+          "Alberta Public Service"
+        ],
+        "season": "Current and seasonal opportunities",
+        "status": "program_inventory",
+        "tier": "standard"
+      },
+      {
+        "id": "quebec-public-service-students",
+        "title": "Quebec Public Service Student Jobs and Internships",
+        "company": "Government of Quebec",
+        "url": "https://www.quebec.ca/gouvernement/travailler-gouvernement/emplois-fonction-publique/emplois-etudiants-stages",
+        "location": "Quebec",
+        "source_name": "Quebec public service student opportunities",
+        "description": "Student jobs and internship opportunities across Quebec government ministries and public bodies, with vacancies posted through the official online recruitment service.",
+        "required_phrases": [
+          "emplois étudiants",
+          "stages",
+          "fonction publique"
+        ],
+        "season": "Current and seasonal opportunities",
+        "status": "program_inventory",
+        "tier": "standard"
+      },
+      {
+        "id": "coast-guard-irb-2027",
+        "title": "Inshore Rescue Boat Student Program — Summer 2027",
+        "company": "Canadian Coast Guard",
+        "url": "https://www.canada.ca/en/canadian-coast-guard/services/search-rescue/inshore-rescue-boat-service/apply-student-program-how.html",
+        "location": "Coastal locations across Canada",
+        "source_name": "Canadian Coast Guard",
+        "description": "Paid full-time summer student work on an Inshore Rescue Boat crew, including search-and-rescue training, public boating-safety education, emergency response, communications and teamwork.",
+        "required_phrases": [
+          "2027 Inshore Rescue Boat student program",
+          "November 2, 2026"
+        ],
+        "deadline": "2026-11-02",
+        "season": "Summer 2027",
+        "status": "open_program",
+        "tier": "core",
+        "category": "student summer public service emergency operations communications leadership",
+        "eligibility_status": "check",
+        "eligibility_label": "Check licences, certifications and regional requirements",
+        "eligibility_notes": "Confirm full-time and return-to-studies status, regional language requirements, driver’s licence and marine/first-aid certifications, security screening, medical clearance, and full-time Summer 2027 availability.",
+        "work_auth": "Federal student and security requirements apply",
+        "class_year": "Full-time student returning to studies",
+        "warning": "The program has licence, certification, medical, security, regional-language and full-time availability requirements.",
+        "interest": "it combines public service, safety-critical teamwork, clear communication and practical responsibility in a demanding summer environment.",
+        "lane": "Policy & Government",
+        "fit_score": 88,
+        "fit_label": "Good match",
+        "fit_reasons": [
+          "Multilingual client communication",
+          "Calm judgment in a regulated environment",
+          "Interest in public service and operational responsibility"
+        ],
+        "skills": [
+          "Emergency response",
+          "Teamwork",
+          "Public education",
+          "Operational judgment",
+          "Communication"
+        ]
+      }
+    ]
+  },
+  "government_us": {
+    "programs": [
+      {
+        "id": "us-opm-pathways",
+        "title": "Pathways Internship Program",
+        "company": "U.S. Federal Government",
+        "url": "https://www.opm.gov/policy-data-oversight/hiring-information/students-recent-graduates/",
+        "location": "United States",
+        "country": "United States",
+        "source_family": "government_us",
+        "source_name": "U.S. Office of Personnel Management",
+        "tier": "core",
+        "required_phrases": [
+          "Pathways",
+          "Internship Program"
+        ],
+        "description": "Federal internship pathway for current students across agencies and occupational fields. Individual openings are retrieved through USAJOBS when credentials are configured.",
+        "season": "Current and recurring opportunities",
+        "status": "program_inventory"
+      },
+      {
+        "id": "us-doj-volunteer-legal-internships",
+        "title": "Volunteer Legal Internships",
+        "company": "U.S. Department of Justice",
+        "url": "https://www.justice.gov/legal-careers/volunteer-legal-internships",
+        "location": "United States",
+        "country": "United States",
+        "source_family": "government_us",
+        "source_name": "U.S. Department of Justice Legal Careers",
+        "tier": "standard",
+        "required_phrases": [
+          "Volunteer Legal Internships"
+        ],
+        "description": "Legal internship pathway across Department of Justice offices. Individual postings can have law-school, citizenship, background-investigation, and term-specific requirements.",
+        "season": "Spring, summer, and fall cycles",
+        "status": "program_inventory"
+      },
+      {
+        "id": "us-ftc-competition-legal-internships",
+        "title": "Bureau of Competition Legal Internships",
+        "company": "Federal Trade Commission",
+        "url": "https://www.ftc.gov/about-ftc/bureaus-offices/bureau-competition/careers-bureau-competition/legal-internships",
+        "location": "Washington, DC and other U.S. locations",
+        "country": "United States",
+        "source_family": "government_us",
+        "source_name": "Federal Trade Commission",
+        "tier": "standard",
+        "required_phrases": [
+          "legal internships",
+          "Bureau of Competition"
+        ],
+        "description": "Legal internship information for the FTC’s Bureau of Competition, with antitrust, investigation, litigation, and policy exposure subject to formal eligibility requirements.",
+        "season": "Spring, summer, and fall cycles",
+        "status": "program_inventory"
+      },
+      {
+        "id": "us-state-student-internship",
+        "title": "Student Internship Program",
+        "company": "U.S. Department of State",
+        "url": "https://careers.state.gov/interns-fellows/student-internship-program/",
+        "location": "United States and overseas",
+        "country": "United States",
+        "source_family": "government_us",
+        "source_name": "U.S. Department of State Careers",
+        "tier": "standard",
+        "required_phrases": [
+          "Student Internship Program"
+        ],
+        "description": "Federal student internships supporting diplomacy, policy, administration, finance, public affairs, research, operations, and other functions, subject to U.S. citizenship and security requirements.",
+        "season": "Program-specific application cycles",
+        "status": "program_inventory"
+      }
+    ],
+    "usajobs_queries": [
+      {
+        "keyword": "student trainee",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "pathways intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "legal intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "law clerk intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "business intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "finance intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "policy intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "compliance intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "audit intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "contract specialist intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "program analyst intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "public affairs intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "human resources intern",
+        "days": 90,
+        "results_per_page": 500
+      },
+      {
+        "keyword": "management intern",
+        "days": 90,
+        "results_per_page": 500
+      }
+    ]
+  },
+  "monitored_opportunity_pages": [
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "program_watchlist",
+      "season": "Current and future cycles",
+      "eligibility_status": "check",
+      "eligibility_label": "Check current pre-law opening and program criteria",
+      "eligibility_notes": "The official page describes undergraduate pre-law internships, often tied to specific initiatives. Confirm whether a current opening exists and whether its program-specific eligibility criteria fit your background.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Undergraduate / pre-law student",
+      "lane": "Legal & Contracts",
+      "id": "blakes-pre-law",
+      "company": "Blake, Cassels & Graydon LLP",
+      "title": "Blakes Pre-Law Internship Opportunities",
+      "url": "https://www.joinblakes.com/undergrad-students/",
+      "location": "Canada — office and program dependent",
+      "required_phrases": [
+        "Pre-Law Internships"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "blakes-law-students",
+      "company": "Blake, Cassels & Graydon LLP",
+      "title": "Blakes Law Student Programs",
+      "url": "https://www.joinblakes.com/law-students/",
+      "location": "Toronto, Ottawa, Montréal, Calgary and Vancouver",
+      "required_phrases": [
+        "Blakes student programs"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "osler-law-students",
+      "company": "Osler, Hoskin & Harcourt LLP",
+      "title": "Osler Law Student Programs",
+      "url": "https://www.osler.com/en/law-students/",
+      "location": "Toronto, Ottawa, Montréal, Calgary and Vancouver",
+      "required_phrases": [
+        "Summer and Articling programs"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "torys-student-program",
+      "company": "Torys LLP",
+      "title": "Torys Student Program",
+      "url": "https://www.torys.com/careers/student-program",
+      "location": "Toronto and Calgary",
+      "required_phrases": [
+        "Student Program"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "mccarthy-students",
+      "company": "McCarthy Tétrault LLP",
+      "title": "McCarthy Tétrault Student Programs",
+      "url": "https://www.mccarthy.ca/en/careers/students",
+      "location": "Vancouver, Calgary, Toronto, Ottawa, Montréal and Québec City",
+      "required_phrases": [
+        "Gain Valuable Work Experience"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "fasken-law-students",
+      "company": "Fasken Martineau DuMoulin LLP",
+      "title": "Fasken Law Student Programs",
+      "url": "https://www.fasken.com/en/careers",
+      "location": "Canada — multiple offices",
+      "required_phrases": [
+        "Law Students",
+        "business-focused approach"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "dentons-canada-students",
+      "company": "Dentons Canada LLP",
+      "title": "Dentons Canada Summer and Articling Programs",
+      "url": "https://students.dentons.com/opportunities-around-the-globe/canada/",
+      "location": "Calgary, Edmonton, Montréal, Ottawa, Toronto and Vancouver",
+      "required_phrases": [
+        "summer and articling programs"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "norton-rose-canada-students",
+      "company": "Norton Rose Fulbright Canada LLP",
+      "title": "Norton Rose Fulbright Canada Student Programs",
+      "url": "https://www.nortonrosefulbright.com/en-ca/careers/students/programs",
+      "location": "Calgary, Montréal, Ottawa, Québec City, Toronto and Vancouver",
+      "required_phrases": [
+        "Our Summer Program",
+        "Our Articling Program"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "bennett-jones-students",
+      "company": "Bennett Jones LLP",
+      "title": "Bennett Jones Law Student Programs",
+      "url": "https://www.bennettjones.com/Student-Recruiting",
+      "location": "Calgary, Edmonton, Ottawa, Toronto and Vancouver",
+      "required_phrases": [
+        "Law Student Recruiting"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "blg-student-programs",
+      "company": "Borden Ladner Gervais LLP",
+      "title": "BLG Student Programs",
+      "url": "https://www.blg.com/en/student-programs",
+      "location": "Calgary, Montréal, Ottawa, Toronto and Vancouver",
+      "required_phrases": [
+        "Student Programs"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "stikeman-toronto-students",
+      "company": "Stikeman Elliott LLP",
+      "title": "Stikeman Elliott Law Student Programs",
+      "url": "https://stikeman.com/en-CA/careers/students/toronto",
+      "location": "Toronto, ON and other Canadian offices",
+      "required_phrases": [
+        "student program"
+      ]
+    },
+    {
+      "tier": "standard",
+      "country": "Canada",
+      "source_type": "official_recruiting_program",
+      "source_family": "law_firm_programs",
+      "source_name": "Official law-firm student recruiting page",
+      "official": true,
+      "provenance": "official Canadian law-firm student recruiting page",
+      "category": "law student summer articling legal business law recruiting program",
+      "force_student": true,
+      "force_include": true,
+      "status": "future_watchlist",
+      "season": "Future recruiting cycle",
+      "eligibility_status": "future",
+      "eligibility_label": "Future law-student recruiting cycle",
+      "eligibility_notes": "This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.",
+      "work_auth": "Must be eligible to work in Canada",
+      "class_year": "Office-specific law-school year",
+      "lane": "Legal & Contracts",
+      "id": "gowling-canada-students",
+      "company": "Gowling WLG (Canada) LLP",
+      "title": "Gowling WLG Canada Student Programs",
+      "url": "https://gowlingwlg.com/en/careers/canada/students",
+      "location": "Canada — multiple offices",
+      "required_phrases": [
+        "Our students play an important role"
+      ]
+    }
+  ],
+  "public_feeds": {
+    "zapply_markdown": "https://raw.githubusercontent.com/zapplyjobs/Internships-2027/main/README.md",
+    "internship_engine_json": "https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json",
+    "canada_tracker_markdown": "https://raw.githubusercontent.com/hanzili/canada_sde_intern_position/main/README.md"
+  },
+  "greenhouse_boards": [
+    {
+      "token": "cclfg",
+      "company": "Connor, Clark & Lunn Financial Group",
+      "default_country": "Canada"
+    },
+    {
+      "token": "cloudflare",
+      "company": "Cloudflare"
+    },
+    {
+      "token": "walleyecapital-external-students",
+      "company": "Walleye Capital",
+      "default_country": "United States"
+    },
+    {
+      "token": "wealthsimple",
+      "company": "Wealthsimple",
+      "default_country": "Canada"
+    },
+    {
+      "token": "clio",
+      "company": "Clio",
+      "default_country": "Canada"
+    },
+    {
+      "token": "pointclickcare",
+      "company": "PointClickCare",
+      "default_country": "Canada"
+    },
+    {
+      "token": "stackadapt",
+      "company": "StackAdapt",
+      "default_country": "Canada"
+    },
+    {
+      "token": "applyboard",
+      "company": "ApplyBoard",
+      "default_country": "Canada"
+    },
+    {
+      "token": "cohere",
+      "company": "Cohere",
+      "default_country": "Canada"
+    },
+    {
+      "token": "stripe",
+      "company": "Stripe"
+    },
+    {
+      "token": "plaid",
+      "company": "Plaid",
+      "default_country": "United States"
+    },
+    {
+      "token": "coinbase",
+      "company": "Coinbase"
+    },
+    {
+      "token": "robinhood",
+      "company": "Robinhood",
+      "default_country": "United States"
+    },
+    {
+      "token": "affirm",
+      "company": "Affirm"
+    },
+    {
+      "token": "airbnb",
+      "company": "Airbnb",
+      "default_country": "United States"
+    },
+    {
+      "token": "doordashusa",
+      "company": "DoorDash",
+      "default_country": "United States"
+    },
+    {
+      "token": "lyft",
+      "company": "Lyft"
+    },
+    {
+      "token": "asana",
+      "company": "Asana"
+    },
+    {
+      "token": "dropbox",
+      "company": "Dropbox"
+    },
+    {
+      "token": "pinterest",
+      "company": "Pinterest"
+    },
+    {
+      "token": "reddit",
+      "company": "Reddit"
+    },
+    {
+      "token": "mongodb",
+      "company": "MongoDB"
+    },
+    {
+      "token": "okta",
+      "company": "Okta"
+    },
+    {
+      "token": "crowdstrike",
+      "company": "CrowdStrike"
+    },
+    {
+      "token": "datadog",
+      "company": "Datadog"
+    },
+    {
+      "token": "instacart",
+      "company": "Instacart"
+    },
+    {
+      "token": "thetradedesk",
+      "company": "The Trade Desk",
+      "default_country": "United States"
+    },
+    {
+      "token": "twosigma",
+      "company": "Two Sigma",
+      "default_country": "United States"
+    },
+    {
+      "token": "point72",
+      "company": "Point72",
+      "default_country": "United States"
+    },
+    {
+      "token": "flowtraders",
+      "company": "Flow Traders",
+      "default_country": "United States"
+    },
+    {
+      "token": "rocketlab",
+      "company": "Rocket Lab",
+      "default_country": "United States"
+    },
+    {
+      "token": "gotion",
+      "company": "Gotion",
+      "default_country": "United States"
+    },
+    {
+      "token": "eulerity",
+      "company": "Eulerity",
+      "default_country": "United States"
+    },
+    {
+      "token": "perscholashires",
+      "company": "Per Scholas",
+      "default_country": "United States"
+    }
+  ],
+  "lever_boards": [
+    {
+      "token": "canva",
+      "company": "Canva"
+    },
+    {
+      "token": "veeva",
+      "company": "Veeva Systems"
+    },
+    {
+      "token": "highspot",
+      "company": "Highspot"
+    },
+    {
+      "token": "gusto",
+      "company": "Gusto",
+      "default_country": "United States"
+    },
+    {
+      "token": "seatgeek",
+      "company": "SeatGeek",
+      "default_country": "United States"
+    },
+    {
+      "token": "anduril",
+      "company": "Anduril Industries",
+      "default_country": "United States"
+    },
+    {
+      "token": "chainalysis",
+      "company": "Chainalysis"
+    },
+    {
+      "token": "palantir",
+      "company": "Palantir"
+    },
+    {
+      "token": "yelp",
+      "company": "Yelp"
+    },
+    {
+      "token": "upwork",
+      "company": "Upwork"
+    },
+    {
+      "token": "samsara",
+      "company": "Samsara"
+    },
+    {
+      "token": "hootsuite",
+      "company": "Hootsuite",
+      "default_country": "Canada"
+    },
+    {
+      "token": "ecobee",
+      "company": "ecobee",
+      "default_country": "Canada"
+    },
+    {
+      "token": "freshbooks",
+      "company": "FreshBooks",
+      "default_country": "Canada"
+    },
+    {
+      "token": "bench",
+      "company": "Bench Accounting",
+      "default_country": "Canada"
+    }
+  ],
+  "ashby_boards": [
+    {
+      "token": "1password",
+      "company": "1Password",
+      "default_country": "Canada"
+    },
+    {
+      "token": "ramp",
+      "company": "Ramp",
+      "default_country": "United States"
+    },
+    {
+      "token": "notion",
+      "company": "Notion"
+    },
+    {
+      "token": "anthropic",
+      "company": "Anthropic",
+      "default_country": "United States"
+    },
+    {
+      "token": "openai",
+      "company": "OpenAI",
+      "default_country": "United States"
+    },
+    {
+      "token": "deel",
+      "company": "Deel"
+    },
+    {
+      "token": "remote",
+      "company": "Remote"
+    },
+    {
+      "token": "replit",
+      "company": "Replit",
+      "default_country": "United States"
+    },
+    {
+      "token": "linear",
+      "company": "Linear"
+    },
+    {
+      "token": "perplexity",
+      "company": "Perplexity",
+      "default_country": "United States"
+    },
+    {
+      "token": "harvey",
+      "company": "Harvey",
+      "default_country": "United States"
+    },
+    {
+      "token": "etched",
+      "company": "Etched",
+      "default_country": "United States"
+    },
+    {
+      "token": "watershed",
+      "company": "Watershed",
+      "default_country": "United States"
+    },
+    {
+      "token": "intercom",
+      "company": "Intercom"
+    },
+    {
+      "token": "glean",
+      "company": "Glean",
+      "default_country": "United States"
+    },
+    {
+      "token": "brex",
+      "company": "Brex"
+    }
+  ],
+  "smartrecruiters_boards": [
+    {
+      "identifier": "BoschGroup",
+      "company": "Bosch",
+      "max_pages": 5
+    },
+    {
+      "identifier": "Visa",
+      "company": "Visa",
+      "max_pages": 5
+    },
+    {
+      "identifier": "Experian",
+      "company": "Experian",
+      "max_pages": 5
+    },
+    {
+      "identifier": "ServiceNow",
+      "company": "ServiceNow",
+      "max_pages": 5
+    },
+    {
+      "identifier": "SiaPartners",
+      "company": "Sia Partners",
+      "max_pages": 5
+    },
+    {
+      "identifier": "PublicisGroupe",
+      "company": "Publicis Groupe",
+      "max_pages": 5
+    },
+    {
+      "identifier": "NBCUniversal3",
+      "company": "NBCUniversal",
+      "max_pages": 5,
+      "default_country": "United States"
+    },
+    {
+      "identifier": "Ubisoft2",
+      "company": "Ubisoft",
+      "max_pages": 5,
+      "default_country": "Canada"
+    }
+  ],
+  "workday_boards": [
+    {
+      "host": "sonyglobal.wd1.myworkdayjobs.com",
+      "tenant": "sonyglobal",
+      "site": "SonyGlobalCareers",
+      "company": "Sony",
+      "default_country": "United States",
+      "max_pages": 15
+    },
+    {
+      "host": "interac.wd3.myworkdayjobs.com",
+      "tenant": "interac",
+      "site": "Interac",
+      "company": "Interac",
+      "default_country": "Canada",
+      "max_pages": 12
+    },
+    {
+      "host": "mlse.wd3.myworkdayjobs.com",
+      "tenant": "mlse",
+      "site": "MLSE_Opportunities",
+      "company": "Maple Leaf Sports & Entertainment",
+      "default_country": "Canada",
+      "max_pages": 12
+    },
+    {
+      "host": "cibc.wd3.myworkdayjobs.com",
+      "tenant": "cibc",
+      "site": "campus",
+      "company": "CIBC Campus",
+      "default_country": "Canada",
+      "max_pages": 20
+    },
+    {
+      "host": "harman.wd3.myworkdayjobs.com",
+      "tenant": "harman",
+      "site": "HARMAN",
+      "company": "HARMAN International",
+      "default_country": "United States",
+      "max_pages": 15
+    },
+    {
+      "host": "spgi.wd5.myworkdayjobs.com",
+      "tenant": "spgi",
+      "site": "SPGI_Careers",
+      "company": "S&P Global",
+      "default_country": "United States",
+      "max_pages": 20
+    },
+    {
+      "host": "comcast.wd5.myworkdayjobs.com",
+      "tenant": "comcast",
+      "site": "Comcast_Careers",
+      "company": "Comcast",
+      "default_country": "United States",
+      "max_pages": 20
+    },
+    {
+      "host": "abb.wd3.myworkdayjobs.com",
+      "tenant": "abb",
+      "site": "external_career_page",
+      "company": "ABB",
+      "max_pages": 20
+    },
+    {
+      "host": "td.wd3.myworkdayjobs.com",
+      "tenant": "td",
+      "site": "TD_Bank_Careers",
+      "company": "TD Bank",
+      "default_country": "Canada",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "bmo.wd3.myworkdayjobs.com",
+      "tenant": "bmo",
+      "site": "Campus",
+      "company": "BMO Campus",
+      "default_country": "Canada",
+      "scan_all": true,
+      "max_pages": 15
+    },
+    {
+      "host": "manulife.wd3.myworkdayjobs.com",
+      "tenant": "manulife",
+      "site": "MFCJH_Jobs",
+      "company": "Manulife",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "sunlife.wd3.myworkdayjobs.com",
+      "tenant": "sunlife",
+      "site": "Campus",
+      "company": "Sun Life Campus",
+      "default_country": "Canada",
+      "scan_all": true,
+      "max_pages": 15
+    },
+    {
+      "host": "intactfc.wd3.myworkdayjobs.com",
+      "tenant": "intactfc",
+      "site": "intactfc",
+      "company": "Intact Financial",
+      "default_country": "Canada",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "omers.wd3.myworkdayjobs.com",
+      "tenant": "omers",
+      "site": "OMERS_External",
+      "company": "OMERS",
+      "default_country": "Canada",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "otppb.wd3.myworkdayjobs.com",
+      "tenant": "otppb",
+      "site": "OntarioTeachers_Careers",
+      "company": "Ontario Teachers' Pension Plan",
+      "default_country": "Canada",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "investpsp.wd3.myworkdayjobs.com",
+      "tenant": "investpsp",
+      "site": "psp_careers",
+      "company": "PSP Investments",
+      "default_country": "Canada",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "cppib.wd10.myworkdayjobs.com",
+      "tenant": "cppib",
+      "site": "cppinvestments",
+      "company": "CPP Investments",
+      "default_country": "Canada",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "tmx.wd3.myworkdayjobs.com",
+      "tenant": "tmx",
+      "site": "TMX_Careers",
+      "company": "TMX Group",
+      "default_country": "Canada",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "thomsonreuters.wd5.myworkdayjobs.com",
+      "tenant": "thomsonreuters",
+      "site": "External_Career_Site",
+      "company": "Thomson Reuters",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "mckesson.wd3.myworkdayjobs.com",
+      "tenant": "mckesson",
+      "site": "External_Careers",
+      "company": "McKesson",
+      "max_pages_per_search": 8
+    },
+    {
+      "host": "olg.wd3.myworkdayjobs.com",
+      "tenant": "olg",
+      "site": "Careers-Students",
+      "company": "OLG Student Opportunities",
+      "default_country": "Canada",
+      "scan_all": true,
+      "max_pages": 15
+    },
+    {
+      "host": "brookfield.wd5.myworkdayjobs.com",
+      "tenant": "brookfield",
+      "site": "brookfield",
+      "company": "Brookfield",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "407etr.wd3.myworkdayjobs.com",
+      "tenant": "407etr",
+      "site": "407_ETR_Careers",
+      "company": "407 ETR",
+      "default_country": "Canada",
+      "max_pages_per_search": 6
+    },
+    {
+      "host": "rbc.wd3.myworkdayjobs.com",
+      "tenant": "rbc",
+      "site": "RBCEARLYTALENT1",
+      "company": "RBC Early Talent",
+      "default_country": "Canada",
+      "scan_all": true,
+      "max_pages": 20
+    },
+    {
+      "host": "desjardins.wd10.myworkdayjobs.com",
+      "tenant": "desjardins",
+      "site": "Desjardins",
+      "company": "Desjardins",
+      "default_country": "Canada",
+      "max_pages_per_search": 8
+    }
+  ],
+  "successfactors_boards": [
+    {
+      "id": "scotiabank-student-new-grad",
+      "company": "Scotiabank",
+      "search_url": "https://jobs.scotiabank.com/go/Student-%26-New-Grad-Jobs/2298417/",
+      "default_country": "Canada",
+      "max_pages": 4,
+      "max_detail_pages": 150,
+      "force_student": true,
+      "fallback_location": "Canada",
+      "category": "student co-op internship new graduate business finance law compliance",
+      "search_label": "student and new graduate jobs"
+    },
+    {
+      "id": "bank-of-canada-all-jobs",
+      "company": "Bank of Canada",
+      "search_url": "https://careers.bankofcanada.ca/go/All-Job-Opportunities/2400817/",
+      "default_country": "Canada",
+      "max_pages": 4,
+      "max_detail_pages": 100,
+      "fallback_location": "Canada",
+      "category": "central bank finance economics policy law business internship student",
+      "search_label": "Bank of Canada careers"
+    }
+  ],
+  "rss_feeds": [
+    {
+      "name": "CivicJobs.ca — Canadian municipal and public-sector jobs",
+      "url": "https://www.civicjobs.ca/rss/careers",
+      "family": "civicjobs",
+      "tier": "standard",
+      "source_type": "public_job_board",
+      "default_country": "Canada",
+      "fallback_location": "Canada",
+      "fallback_company": "Municipal employer listed on CivicJobs.ca",
+      "official": false,
+      "provenance": "public RSS feed for Canadian municipal and public-sector vacancies; verify the employer posting"
+    }
+  ],
+  "jsonld_pages": [],
+  "careeronestop_queries": [
+    {
+      "keyword": "business intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    },
+    {
+      "keyword": "legal intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    },
+    {
+      "keyword": "compliance intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    },
+    {
+      "keyword": "finance intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    },
+    {
+      "keyword": "policy intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    },
+    {
+      "keyword": "audit intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    },
+    {
+      "keyword": "contracts intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    },
+    {
+      "keyword": "marketing intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    },
+    {
+      "keyword": "human resources intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    },
+    {
+      "keyword": "data analyst intern",
+      "location": "United States",
+      "days": 60,
+      "page_size": 100
+    }
+  ],
+  "adzuna_queries": [
+    {
+      "keyword": "business intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "legal intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "compliance intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "finance intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "policy intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "audit intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "contract intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "marketing intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "human resources intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "data analyst intern",
+      "country_code": "ca",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "business intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "legal intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "compliance intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "finance intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "policy intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "audit intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "contract intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "marketing intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "human resources intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    },
+    {
+      "keyword": "data analyst intern",
+      "country_code": "us",
+      "days": 60,
+      "results_per_page": 50
+    }
+  ],
+  "jooble_queries": [
+    {
+      "keyword": "business intern",
+      "location": "Canada"
+    },
+    {
+      "keyword": "legal intern",
+      "location": "Canada"
+    },
+    {
+      "keyword": "compliance intern",
+      "location": "Canada"
+    },
+    {
+      "keyword": "finance intern",
+      "location": "Canada"
+    },
+    {
+      "keyword": "policy intern",
+      "location": "Canada"
+    },
+    {
+      "keyword": "contract intern",
+      "location": "Canada"
+    },
+    {
+      "keyword": "business intern",
+      "location": "United States"
+    },
+    {
+      "keyword": "legal intern",
+      "location": "United States"
+    },
+    {
+      "keyword": "compliance intern",
+      "location": "United States"
+    },
+    {
+      "keyword": "finance intern",
+      "location": "United States"
+    },
+    {
+      "keyword": "policy intern",
+      "location": "United States"
+    },
+    {
+      "keyword": "contract intern",
+      "location": "United States"
+    }
+  ],
+  "the_muse": {
+    "enabled": true,
+    "level": "Internship",
+    "max_pages": 20
+  },
+  "not_scraped": [
+    {
+      "source": "LinkedIn and Indeed",
+      "reason": "Used only for human discovery/verification; this project does not bypass anti-bot controls or scrape pages contrary to site terms."
+    },
+    {
+      "source": "GovernmentJobs / NEOGOV",
+      "reason": "Not scraped because the public terms prohibit automated scraping. Municipal and state roles should be added through an authorized API or employer-specific official feed."
+    }
+  ]
+}
