@@ -102,23 +102,60 @@ vm.runInThisContext(fs.readFileSync('app.js', 'utf8'), { filename: 'app.js' });
   await domReady();
   await new Promise((resolve) => setTimeout(resolve, 0));
 
-  if (!elements.sourceHealth.textContent.includes('offline snapshot')) {
-    throw new Error(`Expected offline source-health message; got ${elements.sourceHealth.textContent}`);
+  const refresh = window.JOB_BOARD_DATA.metadata?.refresh || {};
+  const sourceHealth = elements.sourceHealth.textContent;
+
+  if (refresh.offline) {
+    if (!sourceHealth.includes('offline snapshot')) {
+      throw new Error(`Expected offline source-health message; got ${sourceHealth}`);
+    }
+  } else {
+    const expectedUnique = Number(
+      refresh.dynamic_candidates_unique ?? refresh.dynamic_candidates ?? 0
+    ).toLocaleString();
+    const expectedCompleted = (
+      Number(refresh.successful_sources || 0) + Number(refresh.empty_sources || 0)
+    ).toLocaleString();
+    const expectedFailed = Number(refresh.failed_sources || 0).toLocaleString();
+
+    if (!sourceHealth.includes(`${expectedUnique} unique live opportunities`)) {
+      throw new Error(`Live source-health message omitted the unique-job count; got ${sourceHealth}`);
+    }
+    if (!sourceHealth.includes(`${expectedCompleted} sources completed`)) {
+      throw new Error(`Live source-health message omitted the completed-source count; got ${sourceHealth}`);
+    }
+    if (Number(refresh.failed_sources || 0) > 0 && !sourceHealth.includes(`${expectedFailed} failed`)) {
+      throw new Error(`Live source-health message omitted the failed-source count; got ${sourceHealth}`);
+    }
+    if (Boolean(refresh.degraded) !== sourceHealth.includes('degraded coverage')) {
+      throw new Error(`Live source-health degraded flag did not match the message; got ${sourceHealth}`);
+    }
   }
 
-  const expectedTotal = String(window.JOB_BOARD_DATA.jobs.length);
+  const expectedTotal = window.JOB_BOARD_DATA.jobs.length.toLocaleString();
   if (elements.statTotal.textContent !== expectedTotal) {
     throw new Error(`Expected ${expectedTotal} total jobs; got ${elements.statTotal.textContent}`);
   }
   const initialCards = (elements.jobGrid.innerHTML.match(/<article class="job-card/g) || []).length;
-  if (initialCards !== 12) throw new Error(`Expected 12 initially rendered cards; got ${initialCards}`);
+  const expectedInitialCards = Math.min(12, window.JOB_BOARD_DATA.jobs.length);
+  if (initialCards !== expectedInitialCards) {
+    throw new Error(`Expected ${expectedInitialCards} initially rendered cards; got ${initialCards}`);
+  }
   const topCompany = window.JOB_BOARD_DATA.jobs[0].company;
   if (!elements.jobGrid.innerHTML.includes(topCompany)) throw new Error('Top ranked job was not rendered.');
 
-  elements.searchInput.value = 'Harris Computer / gtechna';
+  const searchTarget = window.JOB_BOARD_DATA.jobs.find(
+    (job) => job.company && job.title && job.location
+  );
+  if (!searchTarget) throw new Error('No suitable job was available for the search smoke test.');
+  elements.searchInput.value = `${searchTarget.company} ${searchTarget.title} ${searchTarget.location}`;
   for (const callback of elements.searchInput.listeners.input || []) callback({ target: elements.searchInput });
-  if (elements.resultCount.textContent !== '1') {
-    throw new Error(`Search filter expected one result; got ${elements.resultCount.textContent}`);
+  const filteredCount = Number(elements.resultCount.textContent.replace(/,/g, ''));
+  if (!Number.isFinite(filteredCount) || filteredCount < 1) {
+    throw new Error(`Search filter expected at least one result; got ${elements.resultCount.textContent}`);
+  }
+  if (window.JOB_BOARD_DATA.jobs.length > 1 && filteredCount >= window.JOB_BOARD_DATA.jobs.length) {
+    throw new Error('Search filter did not narrow the result set.');
   }
 
   elements.searchInput.value = '';
