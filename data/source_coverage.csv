@@ -1,52 +1,52 @@
 name,family,tier,status,retrieved,accepted,pages,duration_ms,error,note
-Job Bank: Federal government student and internship roles,government_canada,core,empty,0,0,1,3933,,HTML fallback
-Job Bank: All Canadian student jobs — broad scan,government_canada,core,success,125,19,5,3011,,HTML fallback
-Job Bank: Business and operations student roles,government_canada,core,success,1,1,2,4792,,HTML fallback
-Job Bank: Finance and banking student roles,government_canada,core,success,2,2,2,4964,,HTML fallback
-Job Bank: Accounting and tax student roles,government_canada,standard,success,1,1,2,4645,,HTML fallback
-Job Bank: Legal and law student roles,government_canada,core,empty,0,0,1,3655,,HTML fallback
-Job Bank: Compliance and regulatory student roles,government_canada,core,empty,0,0,1,4211,,HTML fallback
-Job Bank: Policy and public administration student roles,government_canada,core,empty,0,0,1,4386,,HTML fallback
-Job Bank: Audit and controls student roles,government_canada,standard,empty,0,0,1,3786,,HTML fallback
-Job Bank: Communications and public affairs student roles,government_canada,standard,empty,0,0,1,3572,,HTML fallback
-Job Bank: Marketing and commercial student roles,government_canada,standard,success,1,1,2,4134,,HTML fallback
-Job Bank: Data and business analytics student roles,government_canada,standard,success,2,2,2,4142,,HTML fallback
-Job Bank: Human resources student roles,government_canada,standard,empty,0,0,1,4221,,HTML fallback
-Job Bank: Procurement and contracts student roles,government_canada,standard,success,1,1,2,4025,,HTML fallback
-Job Bank: Administration and program support student roles,government_canada,standard,success,5,5,2,4664,,HTML fallback
-Job Bank: Insurance and risk student roles,government_canada,standard,empty,0,0,1,4136,,HTML fallback
-Job Bank: Federal government internships,government_canada,core,empty,0,0,1,3304,,HTML fallback
-Job Bank: Federal government co-op roles,government_canada,core,empty,0,0,1,3349,,HTML fallback
-Job Bank: Federal government legal roles for students,government_canada,standard,success,1,1,2,4186,,HTML fallback
-Job Bank: Federal government policy roles for students,government_canada,standard,empty,0,0,1,3669,,HTML fallback
-Job Bank: Federal government finance roles for students,government_canada,standard,success,1,1,2,4222,,HTML fallback
-Job Bank: Federal government compliance roles for students,government_canada,standard,empty,0,0,1,3528,,HTML fallback
-Job Bank: Federal government communications roles for students,government_canada,standard,success,4,4,2,4069,,HTML fallback
-Job Bank: Canada Summer Jobs — business,government_canada,standard,empty,0,0,1,801,,HTML fallback
-Job Bank: Canada Summer Jobs — administration,government_canada,standard,empty,0,0,1,796,,HTML fallback
-Job Bank: Canada Summer Jobs — finance,government_canada,standard,empty,0,0,1,748,,HTML fallback
-Job Bank: Canada Summer Jobs — legal,government_canada,standard,empty,0,0,1,903,,HTML fallback
-Job Bank: Canada Summer Jobs — marketing and communications,government_canada,standard,empty,0,0,1,718,,HTML fallback
-GC program: Federal Student Work Experience Program (FSWEP),government_canada,core,error,0,0,0,49445,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
-GC program: Research Affiliate Program,government_canada,core,error,0,0,0,49422,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/public-service-commission/jobs/services/recruitment/students/research-affiliate-program.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
-GC program: Post-Secondary Co-op/Internship Program,government_canada,core,error,0,0,0,49464,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/public-service-commission/jobs/services/recruitment/students/coop-internship.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
-GC program: Government of Canada Youth and Student Employment Hub,government_canada,core,error,0,0,0,49454,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/services/jobs/youth.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
-GC program: Student Border Services Officer — Summer 2027,government_canada,core,success,1,1,1,215,,
-GC program: Parks Canada Student and Youth Employment,government_canada,standard,success,1,1,1,914,,
-GC program: CRA Student and Graduate Hiring,government_canada,standard,error,0,0,0,49413,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/revenue-agency/corporate/careers-cra/browse-job-types/student-graduate-hiring.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
-GC program: NRC Student Employment Program,government_canada,standard,success,1,1,1,293,,
-GC program: CFIA Student Opportunities,government_canada,standard,success,1,1,1,179,,
-GC program: Student Work Placement Program,government_canada,standard,error,0,0,0,49432,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/employment-social-development/services/student-work-placements-wage-subsidies.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
-GC program: Bank of Canada Students and Recent Graduates,government_canada,standard,error,0,0,0,316,HTTPError: 404 Client Error: Not Found for url: https://www.bankofcanada.ca/careers/students-and-recent-graduates/,
-GC program: House of Commons Student Employment Program,government_canada,standard,success,1,1,1,349,,
-GC program: Parliamentary Guide Program — Fall-Winter 2026–2027,government_canada,core,error,0,0,0,696,RefreshError: Program page loaded but required identifying text was absent,
-GC program: Senate of Canada Student Employment Program,government_canada,core,success,1,1,1,312,,
-GC program: Legal Excellence Program — Law Student and Articling Recruitment,government_canada,core,success,1,1,1,208,,
-GC program: BC Public Service Co-op Employment Program,government_canada,standard,success,1,1,1,1093,,
-GC program: BC Public Service Student Employment Program,government_canada,standard,success,1,1,1,1306,,
-GC program: Alberta Public Service Student Opportunities and Internships,government_canada,standard,success,1,1,1,181,,
-GC program: Quebec Public Service Student Jobs and Internships,government_canada,standard,success,1,1,1,132,,
-GC program: Inshore Rescue Boat Student Program — Summer 2027,government_canada,core,error,0,0,0,49460,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/canadian-coast-guard/services/search-rescue/inshore-rescue-boat-service/apply-student-program-how.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
+Job Bank: Federal government student and internship roles,government_canada,core,empty,0,0,1,3793,,HTML fallback
+Job Bank: All Canadian student jobs — broad scan,government_canada,core,success,125,19,5,3179,,HTML fallback
+Job Bank: Business and operations student roles,government_canada,core,success,1,1,2,4964,,HTML fallback
+Job Bank: Finance and banking student roles,government_canada,core,success,2,2,2,4450,,HTML fallback
+Job Bank: Accounting and tax student roles,government_canada,standard,success,1,1,2,4881,,HTML fallback
+Job Bank: Legal and law student roles,government_canada,core,empty,0,0,1,4134,,HTML fallback
+Job Bank: Compliance and regulatory student roles,government_canada,core,empty,0,0,1,3564,,HTML fallback
+Job Bank: Policy and public administration student roles,government_canada,core,empty,0,0,1,3616,,HTML fallback
+Job Bank: Audit and controls student roles,government_canada,standard,empty,0,0,1,3671,,HTML fallback
+Job Bank: Communications and public affairs student roles,government_canada,standard,empty,0,0,1,3833,,HTML fallback
+Job Bank: Marketing and commercial student roles,government_canada,standard,success,2,2,2,4419,,HTML fallback
+Job Bank: Data and business analytics student roles,government_canada,standard,success,2,2,2,4401,,HTML fallback
+Job Bank: Human resources student roles,government_canada,standard,empty,0,0,1,4385,,HTML fallback
+Job Bank: Procurement and contracts student roles,government_canada,standard,success,1,1,2,4591,,HTML fallback
+Job Bank: Administration and program support student roles,government_canada,standard,success,5,5,2,4431,,HTML fallback
+Job Bank: Insurance and risk student roles,government_canada,standard,empty,0,0,1,4139,,HTML fallback
+Job Bank: Federal government internships,government_canada,core,empty,0,0,1,3684,,HTML fallback
+Job Bank: Federal government co-op roles,government_canada,core,empty,0,0,1,3800,,HTML fallback
+Job Bank: Federal government legal roles for students,government_canada,standard,success,1,1,2,4373,,HTML fallback
+Job Bank: Federal government policy roles for students,government_canada,standard,empty,0,0,1,3774,,HTML fallback
+Job Bank: Federal government finance roles for students,government_canada,standard,success,1,1,2,4722,,HTML fallback
+Job Bank: Federal government compliance roles for students,government_canada,standard,empty,0,0,1,3902,,HTML fallback
+Job Bank: Federal government communications roles for students,government_canada,standard,success,4,4,2,4495,,HTML fallback
+Job Bank: Canada Summer Jobs — business,government_canada,standard,empty,0,0,1,1049,,HTML fallback
+Job Bank: Canada Summer Jobs — administration,government_canada,standard,empty,0,0,1,700,,HTML fallback
+Job Bank: Canada Summer Jobs — finance,government_canada,standard,empty,0,0,1,753,,HTML fallback
+Job Bank: Canada Summer Jobs — legal,government_canada,standard,empty,0,0,1,685,,HTML fallback
+Job Bank: Canada Summer Jobs — marketing and communications,government_canada,standard,empty,0,0,1,951,,HTML fallback
+GC program: Federal Student Work Experience Program (FSWEP),government_canada,core,error,0,0,0,49376,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
+GC program: Research Affiliate Program,government_canada,core,error,0,0,0,49362,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/public-service-commission/jobs/services/recruitment/students/research-affiliate-program.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
+GC program: Post-Secondary Co-op/Internship Program,government_canada,core,error,0,0,0,49544,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/public-service-commission/jobs/services/recruitment/students/coop-internship.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
+GC program: Government of Canada Youth and Student Employment Hub,government_canada,core,error,0,0,0,49375,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/services/jobs/youth.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
+GC program: Student Border Services Officer — Summer 2027,government_canada,core,success,1,1,1,195,,
+GC program: Parks Canada Student and Youth Employment,government_canada,standard,success,1,1,1,263,,
+GC program: CRA Student and Graduate Hiring,government_canada,standard,error,0,0,0,49418,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/revenue-agency/corporate/careers-cra/browse-job-types/student-graduate-hiring.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
+GC program: NRC Student Employment Program,government_canada,standard,success,1,1,1,274,,
+GC program: CFIA Student Opportunities,government_canada,standard,success,1,1,1,140,,
+GC program: Student Work Placement Program,government_canada,standard,error,0,0,0,49376,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/employment-social-development/services/student-work-placements-wage-subsidies.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
+GC program: Bank of Canada Students and Recent Graduates,government_canada,standard,error,0,0,0,394,HTTPError: 404 Client Error: Not Found for url: https://www.bankofcanada.ca/careers/students-and-recent-graduates/,
+GC program: House of Commons Student Employment Program,government_canada,standard,success,1,1,1,412,,
+GC program: Parliamentary Guide Program — Fall-Winter 2026–2027,government_canada,core,error,0,0,0,512,RefreshError: Program page loaded but required identifying text was absent,
+GC program: Senate of Canada Student Employment Program,government_canada,core,success,1,1,1,269,,
+GC program: Legal Excellence Program — Law Student and Articling Recruitment,government_canada,core,success,1,1,1,192,,
+GC program: BC Public Service Co-op Employment Program,government_canada,standard,success,1,1,1,868,,
+GC program: BC Public Service Student Employment Program,government_canada,standard,success,1,1,1,784,,
+GC program: Alberta Public Service Student Opportunities and Internships,government_canada,standard,success,1,1,1,192,,
+GC program: Quebec Public Service Student Jobs and Internships,government_canada,standard,success,1,1,1,87,,
+GC program: Inshore Rescue Boat Student Program — Summer 2027,government_canada,core,error,0,0,0,49373,"ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/canadian-coast-guard/services/search-rescue/inshore-rescue-boat-service/apply-student-program-how.html (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)""))",
 Adzuna CA: audit intern,adzuna,optional,skipped,0,0,0,0,,Set ADZUNA_APP_ID and ADZUNA_APP_KEY repository secrets
 Adzuna CA: business intern,adzuna,optional,skipped,0,0,0,0,,Set ADZUNA_APP_ID and ADZUNA_APP_KEY repository secrets
 Adzuna CA: compliance intern,adzuna,optional,skipped,0,0,0,0,,Set ADZUNA_APP_ID and ADZUNA_APP_KEY repository secrets
@@ -67,22 +67,22 @@ Adzuna US: human resources intern,adzuna,optional,skipped,0,0,0,0,,Set ADZUNA_AP
 Adzuna US: legal intern,adzuna,optional,skipped,0,0,0,0,,Set ADZUNA_APP_ID and ADZUNA_APP_KEY repository secrets
 Adzuna US: marketing intern,adzuna,optional,skipped,0,0,0,0,,Set ADZUNA_APP_ID and ADZUNA_APP_KEY repository secrets
 Adzuna US: policy intern,adzuna,optional,skipped,0,0,0,0,,Set ADZUNA_APP_ID and ADZUNA_APP_KEY repository secrets
-Ashby: 1Password,ashby,standard,success,66,65,1,1751,,
-Ashby: Anthropic,ashby,standard,error,0,0,0,96,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/anthropic,
-Ashby: Brex,ashby,standard,error,0,0,0,132,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/brex,
-Ashby: Deel,ashby,standard,empty,0,0,1,151,,
-Ashby: Etched,ashby,standard,success,96,40,1,1528,,
-Ashby: Glean,ashby,standard,error,0,0,0,127,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/glean,
-Ashby: Harvey,ashby,standard,success,341,111,1,2934,,
-Ashby: Intercom,ashby,standard,error,0,0,0,185,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/intercom,
-Ashby: Linear,ashby,standard,empty,24,0,1,447,,
-Ashby: Notion,ashby,standard,success,139,34,1,4249,,
-Ashby: OpenAI,ashby,standard,success,724,284,1,9116,,
-Ashby: Perplexity,ashby,standard,success,80,21,1,2180,,
-Ashby: Ramp,ashby,standard,success,120,50,1,3715,,
-Ashby: Remote,ashby,standard,error,0,0,0,193,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/remote,
-Ashby: Replit,ashby,standard,success,94,28,1,2751,,
-Ashby: Watershed,ashby,standard,success,39,13,1,880,,
+Ashby: 1Password,ashby,standard,success,66,65,1,2108,,
+Ashby: Anthropic,ashby,standard,error,0,0,0,106,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/anthropic,
+Ashby: Brex,ashby,standard,error,0,0,0,111,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/brex,
+Ashby: Deel,ashby,standard,empty,0,0,1,118,,
+Ashby: Etched,ashby,standard,success,100,41,1,1653,,
+Ashby: Glean,ashby,standard,error,0,0,0,125,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/glean,
+Ashby: Harvey,ashby,standard,success,345,114,1,3288,,
+Ashby: Intercom,ashby,standard,error,0,0,0,129,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/intercom,
+Ashby: Linear,ashby,standard,empty,24,0,1,599,,
+Ashby: Notion,ashby,standard,success,138,34,1,3035,,
+Ashby: OpenAI,ashby,standard,success,735,292,1,8654,,
+Ashby: Perplexity,ashby,standard,success,80,21,1,1422,,
+Ashby: Ramp,ashby,standard,success,121,51,1,2829,,
+Ashby: Remote,ashby,standard,error,0,0,0,91,HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/remote,
+Ashby: Replit,ashby,standard,success,93,27,1,2464,,
+Ashby: Watershed,ashby,standard,success,39,13,1,846,,
 CareerOneStop: audit intern,careeronestop,optional,skipped,0,0,0,0,,Set CAREERONESTOP_TOKEN and CAREERONESTOP_USER_ID repository secrets
 CareerOneStop: business intern,careeronestop,optional,skipped,0,0,0,0,,Set CAREERONESTOP_TOKEN and CAREERONESTOP_USER_ID repository secrets
 CareerOneStop: compliance intern,careeronestop,optional,skipped,0,0,0,0,,Set CAREERONESTOP_TOKEN and CAREERONESTOP_USER_ID repository secrets
@@ -93,11 +93,11 @@ CareerOneStop: human resources intern,careeronestop,optional,skipped,0,0,0,0,,Se
 CareerOneStop: legal intern,careeronestop,optional,skipped,0,0,0,0,,Set CAREERONESTOP_TOKEN and CAREERONESTOP_USER_ID repository secrets
 CareerOneStop: marketing intern,careeronestop,optional,skipped,0,0,0,0,,Set CAREERONESTOP_TOKEN and CAREERONESTOP_USER_ID repository secrets
 CareerOneStop: policy intern,careeronestop,optional,skipped,0,0,0,0,,Set CAREERONESTOP_TOKEN and CAREERONESTOP_USER_ID repository secrets
-RSS: CivicJobs.ca — Canadian municipal and public-sector jobs,civicjobs,standard,success,543,1,1,345,,
-U.S. program: Bureau of Competition Legal Internships,government_us,standard,error,0,0,0,6724,HTTPError: 404 Client Error: Not Found for url: https://www.ftc.gov/about-ftc/bureaus-offices/bureau-competition/careers-bureau-competition/legal-internships,
-U.S. program: Pathways Internship Program,government_us,core,success,1,1,1,203,,
-U.S. program: Student Internship Program,government_us,standard,success,1,1,1,771,,
-U.S. program: Volunteer Legal Internships,government_us,standard,success,1,1,1,226,,
+RSS: CivicJobs.ca — Canadian municipal and public-sector jobs,civicjobs,standard,success,552,1,1,364,,
+U.S. program: Bureau of Competition Legal Internships,government_us,standard,error,0,0,0,4217,HTTPError: 404 Client Error: Not Found for url: https://www.ftc.gov/about-ftc/bureaus-offices/bureau-competition/careers-bureau-competition/legal-internships,
+U.S. program: Pathways Internship Program,government_us,core,success,1,1,1,269,,
+U.S. program: Student Internship Program,government_us,standard,success,1,1,1,777,,
+U.S. program: Volunteer Legal Internships,government_us,standard,success,1,1,1,156,,
 USAJOBS: audit intern,government_us,optional,skipped,0,0,0,0,,Set USAJOBS_API_KEY and USAJOBS_EMAIL repository secrets
 USAJOBS: business intern,government_us,optional,skipped,0,0,0,0,,Set USAJOBS_API_KEY and USAJOBS_EMAIL repository secrets
 USAJOBS: compliance intern,government_us,optional,skipped,0,0,0,0,,Set USAJOBS_API_KEY and USAJOBS_EMAIL repository secrets
@@ -112,40 +112,40 @@ USAJOBS: policy intern,government_us,optional,skipped,0,0,0,0,,Set USAJOBS_API_K
 USAJOBS: program analyst intern,government_us,optional,skipped,0,0,0,0,,Set USAJOBS_API_KEY and USAJOBS_EMAIL repository secrets
 USAJOBS: public affairs intern,government_us,optional,skipped,0,0,0,0,,Set USAJOBS_API_KEY and USAJOBS_EMAIL repository secrets
 USAJOBS: student trainee,government_us,optional,skipped,0,0,0,0,,Set USAJOBS_API_KEY and USAJOBS_EMAIL repository secrets
-Greenhouse: Affirm,greenhouse,standard,success,173,22,1,1045,,
-Greenhouse: Airbnb,greenhouse,standard,success,202,81,1,1467,,
-Greenhouse: ApplyBoard,greenhouse,standard,error,0,0,0,115,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/applyboard/jobs?content=true,
-Greenhouse: Asana,greenhouse,standard,success,146,9,1,1546,,
-Greenhouse: Clio,greenhouse,standard,error,0,0,0,1037,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/clio/jobs?content=true,
-Greenhouse: Cloudflare,greenhouse,standard,empty,263,0,1,732,,
-Greenhouse: Cohere,greenhouse,standard,error,0,0,0,75,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cohere/jobs?content=true,
-Greenhouse: Coinbase,greenhouse,standard,success,153,32,1,1358,,
-"Greenhouse: Connor, Clark & Lunn Financial Group",greenhouse,standard,success,79,34,1,3775,,
-Greenhouse: CrowdStrike,greenhouse,standard,error,0,0,0,114,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs?content=true,
-Greenhouse: Datadog,greenhouse,standard,success,415,124,1,6391,,
-Greenhouse: DoorDash,greenhouse,standard,success,474,112,1,6934,,
-Greenhouse: Dropbox,greenhouse,standard,success,32,2,1,754,,
-Greenhouse: Eulerity,greenhouse,standard,success,21,13,1,287,,
-Greenhouse: Flow Traders,greenhouse,standard,success,38,24,1,698,,
-Greenhouse: Gotion,greenhouse,standard,success,156,82,1,3221,,
-Greenhouse: Instacart,greenhouse,standard,success,117,48,1,1184,,
-Greenhouse: Lyft,greenhouse,standard,success,151,48,1,1404,,
-Greenhouse: MongoDB,greenhouse,standard,success,400,44,1,2894,,
-Greenhouse: Okta,greenhouse,standard,success,352,65,1,3081,,
-Greenhouse: Per Scholas,greenhouse,standard,success,47,44,1,2114,,
-Greenhouse: Pinterest,greenhouse,standard,success,189,45,1,1732,,
-Greenhouse: Plaid,greenhouse,standard,error,0,0,0,69,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/plaid/jobs?content=true,
-Greenhouse: Point72,greenhouse,standard,success,231,84,1,2466,,
-Greenhouse: PointClickCare,greenhouse,standard,error,0,0,0,1030,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pointclickcare/jobs?content=true,
-Greenhouse: Reddit,greenhouse,standard,success,191,94,1,1606,,
-Greenhouse: Robinhood,greenhouse,standard,success,118,43,1,1084,,
-Greenhouse: Rocket Lab,greenhouse,standard,success,352,312,1,8484,,
-Greenhouse: StackAdapt,greenhouse,standard,success,94,35,1,287,,
-Greenhouse: Stripe,greenhouse,standard,success,516,161,1,919,,
-Greenhouse: The Trade Desk,greenhouse,standard,success,202,174,1,4946,,
-Greenhouse: Two Sigma,greenhouse,standard,error,0,0,0,101,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/twosigma/jobs?content=true,
-Greenhouse: Walleye Capital,greenhouse,standard,success,15,13,1,101,,
-Greenhouse: Wealthsimple,greenhouse,standard,error,0,0,0,175,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/wealthsimple/jobs?content=true,
+Greenhouse: Affirm,greenhouse,standard,success,169,21,1,847,,
+Greenhouse: Airbnb,greenhouse,standard,success,199,77,1,2287,,
+Greenhouse: ApplyBoard,greenhouse,standard,error,0,0,0,128,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/applyboard/jobs?content=true,
+Greenhouse: Asana,greenhouse,standard,success,147,10,1,1909,,
+Greenhouse: Clio,greenhouse,standard,error,0,0,0,282,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/clio/jobs?content=true,
+Greenhouse: Cloudflare,greenhouse,standard,empty,268,0,1,1074,,
+Greenhouse: Cohere,greenhouse,standard,error,0,0,0,322,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cohere/jobs?content=true,
+Greenhouse: Coinbase,greenhouse,standard,success,155,32,1,926,,
+"Greenhouse: Connor, Clark & Lunn Financial Group",greenhouse,standard,success,79,34,1,485,,
+Greenhouse: CrowdStrike,greenhouse,standard,error,0,0,0,133,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs?content=true,
+Greenhouse: Datadog,greenhouse,standard,success,419,129,1,5363,,
+Greenhouse: DoorDash,greenhouse,standard,success,479,114,1,8393,,
+Greenhouse: Dropbox,greenhouse,standard,success,29,2,1,585,,
+Greenhouse: Eulerity,greenhouse,standard,success,21,13,1,956,,
+Greenhouse: Flow Traders,greenhouse,standard,success,37,23,1,553,,
+Greenhouse: Gotion,greenhouse,standard,success,157,83,1,4322,,
+Greenhouse: Instacart,greenhouse,standard,success,125,54,1,1175,,
+Greenhouse: Lyft,greenhouse,standard,success,147,45,1,1529,,
+Greenhouse: MongoDB,greenhouse,standard,success,398,41,1,3119,,
+Greenhouse: Okta,greenhouse,standard,success,348,66,1,3192,,
+Greenhouse: Per Scholas,greenhouse,standard,success,43,40,1,2319,,
+Greenhouse: Pinterest,greenhouse,standard,success,193,46,1,2162,,
+Greenhouse: Plaid,greenhouse,standard,error,0,0,0,138,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/plaid/jobs?content=true,
+Greenhouse: Point72,greenhouse,standard,success,229,83,1,3117,,
+Greenhouse: PointClickCare,greenhouse,standard,error,0,0,0,284,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pointclickcare/jobs?content=true,
+Greenhouse: Reddit,greenhouse,standard,success,192,95,1,2529,,
+Greenhouse: Robinhood,greenhouse,standard,success,116,41,1,372,,
+Greenhouse: Rocket Lab,greenhouse,standard,success,350,310,1,6524,,
+Greenhouse: StackAdapt,greenhouse,standard,success,95,35,1,621,,
+Greenhouse: Stripe,greenhouse,standard,success,524,167,1,2097,,
+Greenhouse: The Trade Desk,greenhouse,standard,success,196,169,1,4574,,
+Greenhouse: Two Sigma,greenhouse,standard,error,0,0,0,118,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/twosigma/jobs?content=true,
+Greenhouse: Walleye Capital,greenhouse,standard,success,15,13,1,243,,
+Greenhouse: Wealthsimple,greenhouse,standard,error,0,0,0,127,HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/wealthsimple/jobs?content=true,
 Jooble Canada: business intern,jooble,optional,skipped,0,0,0,0,,Set JOOBLE_API_KEY repository secret
 Jooble Canada: compliance intern,jooble,optional,skipped,0,0,0,0,,Set JOOBLE_API_KEY repository secret
 Jooble Canada: contract intern,jooble,optional,skipped,0,0,0,0,,Set JOOBLE_API_KEY repository secret
@@ -158,69 +158,69 @@ Jooble United States: contract intern,jooble,optional,skipped,0,0,0,0,,Set JOOBL
 Jooble United States: finance intern,jooble,optional,skipped,0,0,0,0,,Set JOOBLE_API_KEY repository secret
 Jooble United States: legal intern,jooble,optional,skipped,0,0,0,0,,Set JOOBLE_API_KEY repository secret
 Jooble United States: policy intern,jooble,optional,skipped,0,0,0,0,,Set JOOBLE_API_KEY repository secret
-Program page: BLG Student Programs,law_firm_programs,standard,success,1,1,1,217,,
-Program page: Bennett Jones Law Student Programs,law_firm_programs,standard,success,1,1,1,501,,
-Program page: Blakes Law Student Programs,law_firm_programs,standard,success,1,1,1,253,,
-Program page: Blakes Pre-Law Internship Opportunities,law_firm_programs,standard,success,1,1,1,607,,
-Program page: Dentons Canada Summer and Articling Programs,law_firm_programs,standard,success,1,1,1,1700,,
-Program page: Fasken Law Student Programs,law_firm_programs,standard,error,0,0,0,105,HTTPError: 403 Client Error: Forbidden for url: https://www.fasken.com/en/careers,
-Program page: Gowling WLG Canada Student Programs,law_firm_programs,standard,success,1,1,1,389,,
-Program page: McCarthy Tétrault Student Programs,law_firm_programs,standard,error,0,0,0,3917,"RetryError: HTTPSConnectionPool(host='www.mccarthy.ca', port=443): Max retries exceeded with url: /en/careers/students (Caused by ResponseError('too many 429 error responses'))",
-Program page: Norton Rose Fulbright Canada Student Programs,law_firm_programs,standard,success,1,1,1,3369,,
-Program page: Osler Law Student Programs,law_firm_programs,standard,success,1,1,1,387,,
-Program page: Stikeman Elliott Law Student Programs,law_firm_programs,standard,success,1,1,1,2541,,
-Program page: Torys Student Program,law_firm_programs,standard,success,1,1,1,507,,
-Lever: Anduril Industries,lever,standard,error,0,0,0,496,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anduril?mode=json,
-Lever: Bench Accounting,lever,standard,error,0,0,0,456,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/bench?mode=json,
-Lever: Canva,lever,standard,error,0,0,0,680,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/canva?mode=json,
-Lever: Chainalysis,lever,standard,error,0,0,0,476,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/chainalysis?mode=json,
-Lever: FreshBooks,lever,standard,error,0,0,0,426,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/freshbooks?mode=json,
-Lever: Gusto,lever,standard,error,0,0,0,469,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/gusto?mode=json,
-Lever: Highspot,lever,standard,success,18,1,1,1178,,
-Lever: Hootsuite,lever,standard,error,0,0,0,463,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/hootsuite?mode=json,
-Lever: Palantir,lever,standard,success,281,83,1,5491,,
-Lever: Samsara,lever,standard,error,0,0,0,460,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/samsara?mode=json,
-Lever: SeatGeek,lever,standard,error,0,0,0,522,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/seatgeek?mode=json,
-Lever: Upwork,lever,standard,error,0,0,0,454,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/upwork?mode=json,
-Lever: Veeva Systems,lever,standard,success,809,44,1,8273,,
-Lever: Yelp,lever,standard,error,0,0,0,604,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/yelp?mode=json,
-Lever: ecobee,lever,standard,error,0,0,0,397,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/ecobee?mode=json,
-Automated Internship Engine,public_feeds,standard,success,13,13,1,81,,
-Daily Canadian Internship Tracker,public_feeds,standard,empty,0,0,1,123,,
-Zapply Internships 2027,public_feeds,standard,success,95,95,1,85,,
-SmartRecruiters: Bosch,smartrecruiters,standard,success,500,2,5,3785,,
-SmartRecruiters: Experian,smartrecruiters,standard,empty,500,0,5,3035,,
-SmartRecruiters: NBCUniversal,smartrecruiters,standard,success,421,18,5,3454,,
-SmartRecruiters: Publicis Groupe,smartrecruiters,standard,empty,0,0,1,468,,
-SmartRecruiters: ServiceNow,smartrecruiters,standard,empty,468,0,5,3344,,
-SmartRecruiters: Sia Partners,smartrecruiters,standard,empty,0,0,1,534,,
-SmartRecruiters: Ubisoft,smartrecruiters,standard,success,246,2,3,2106,,
-SmartRecruiters: Visa,smartrecruiters,standard,empty,2,0,1,573,,
-SuccessFactors: Bank of Canada,successfactors,standard,success,30,15,2,576,,
-SuccessFactors: Scotiabank,successfactors,standard,success,10,5,2,771,,
-The Muse internship API,the_muse,standard,success,400,176,20,4430,,
-Workday: 407 ETR,workday,standard,success,91,14,9,5625,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: ABB,workday,standard,success,881,28,46,41156,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: BMO Campus,workday,standard,success,16,1,1,988,,Targeted Workday queries: all jobs
-Workday: Brookfield,workday,standard,success,212,30,14,10564,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: CIBC Campus,workday,standard,empty,5,0,5,3972,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: CPP Investments,workday,standard,success,90,13,8,3126,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Comcast,workday,standard,success,730,204,40,14673,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Desjardins,workday,standard,success,250,28,16,8547,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: HARMAN International,workday,standard,success,655,75,35,26510,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Intact Financial,workday,standard,success,245,62,15,10230,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Interac,workday,standard,success,82,11,7,4599,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Manulife,workday,standard,success,257,6,15,14909,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Maple Leaf Sports & Entertainment,workday,standard,success,43,3,6,2623,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: McKesson,workday,standard,success,329,52,19,13199,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: OLG Student Opportunities,workday,standard,success,4,2,1,516,,Targeted Workday queries: all jobs
-Workday: OMERS,workday,standard,success,142,27,11,9329,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Ontario Teachers' Pension Plan,workday,standard,success,108,22,9,7418,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: PSP Investments,workday,standard,success,109,21,9,4027,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: RBC Early Talent,workday,standard,success,53,4,3,13997,,Targeted Workday queries: all jobs
-Workday: S&P Global,workday,standard,success,863,128,47,35890,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Sony,workday,standard,success,280,39,18,12736,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Sun Life Campus,workday,standard,success,6,2,1,1000,,Targeted Workday queries: all jobs
-Workday: TD Bank,workday,standard,success,298,124,17,17199,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: TMX Group,workday,standard,success,141,22,11,4509,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
-Workday: Thomson Reuters,workday,standard,success,245,57,15,12566,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Program page: BLG Student Programs,law_firm_programs,standard,success,1,1,1,190,,
+Program page: Bennett Jones Law Student Programs,law_firm_programs,standard,success,1,1,1,753,,
+Program page: Blakes Law Student Programs,law_firm_programs,standard,success,1,1,1,1833,,
+Program page: Blakes Pre-Law Internship Opportunities,law_firm_programs,standard,success,1,1,1,1213,,
+Program page: Dentons Canada Summer and Articling Programs,law_firm_programs,standard,success,1,1,1,1188,,
+Program page: Fasken Law Student Programs,law_firm_programs,standard,error,0,0,0,149,HTTPError: 403 Client Error: Forbidden for url: https://www.fasken.com/en/careers,
+Program page: Gowling WLG Canada Student Programs,law_firm_programs,standard,success,1,1,1,338,,
+Program page: McCarthy Tétrault Student Programs,law_firm_programs,standard,error,0,0,0,3883,"RetryError: HTTPSConnectionPool(host='www.mccarthy.ca', port=443): Max retries exceeded with url: /en/careers/students (Caused by ResponseError('too many 429 error responses'))",
+Program page: Norton Rose Fulbright Canada Student Programs,law_firm_programs,standard,success,1,1,1,2053,,
+Program page: Osler Law Student Programs,law_firm_programs,standard,success,1,1,1,15809,,
+Program page: Stikeman Elliott Law Student Programs,law_firm_programs,standard,success,1,1,1,2621,,
+Program page: Torys Student Program,law_firm_programs,standard,success,1,1,1,939,,
+Lever: Anduril Industries,lever,standard,error,0,0,0,493,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anduril?mode=json,
+Lever: Bench Accounting,lever,standard,error,0,0,0,455,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/bench?mode=json,
+Lever: Canva,lever,standard,error,0,0,0,571,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/canva?mode=json,
+Lever: Chainalysis,lever,standard,error,0,0,0,417,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/chainalysis?mode=json,
+Lever: FreshBooks,lever,standard,error,0,0,0,424,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/freshbooks?mode=json,
+Lever: Gusto,lever,standard,error,0,0,0,765,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/gusto?mode=json,
+Lever: Highspot,lever,standard,success,18,1,1,1030,,
+Lever: Hootsuite,lever,standard,error,0,0,0,435,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/hootsuite?mode=json,
+Lever: Palantir,lever,standard,success,288,83,1,4553,,
+Lever: Samsara,lever,standard,error,0,0,0,466,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/samsara?mode=json,
+Lever: SeatGeek,lever,standard,error,0,0,0,457,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/seatgeek?mode=json,
+Lever: Upwork,lever,standard,error,0,0,0,446,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/upwork?mode=json,
+Lever: Veeva Systems,lever,standard,success,811,44,1,7129,,
+Lever: Yelp,lever,standard,error,0,0,0,475,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/yelp?mode=json,
+Lever: ecobee,lever,standard,error,0,0,0,440,HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/ecobee?mode=json,
+Automated Internship Engine,public_feeds,standard,success,16,16,1,69,,
+Daily Canadian Internship Tracker,public_feeds,standard,empty,0,0,1,43,,
+Zapply Internships 2027,public_feeds,standard,success,95,95,1,75,,
+SmartRecruiters: Bosch,smartrecruiters,standard,success,500,2,5,3886,,
+SmartRecruiters: Experian,smartrecruiters,standard,empty,492,0,5,3505,,
+SmartRecruiters: NBCUniversal,smartrecruiters,standard,success,427,19,5,3746,,
+SmartRecruiters: Publicis Groupe,smartrecruiters,standard,empty,0,0,1,499,,
+SmartRecruiters: ServiceNow,smartrecruiters,standard,empty,464,0,5,3156,,
+SmartRecruiters: Sia Partners,smartrecruiters,standard,empty,0,0,1,457,,
+SmartRecruiters: Ubisoft,smartrecruiters,standard,success,254,2,3,2059,,
+SmartRecruiters: Visa,smartrecruiters,standard,empty,2,0,1,639,,
+SuccessFactors: Bank of Canada,successfactors,standard,success,32,16,2,464,,
+SuccessFactors: Scotiabank,successfactors,standard,success,14,7,2,593,,
+The Muse internship API,the_muse,standard,success,400,175,20,5035,,
+Workday: 407 ETR,workday,standard,success,89,13,9,5593,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: ABB,workday,standard,success,882,28,46,41399,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: BMO Campus,workday,standard,success,19,1,1,1064,,Targeted Workday queries: all jobs
+Workday: Brookfield,workday,standard,success,209,30,14,13071,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: CIBC Campus,workday,standard,empty,3,0,5,4243,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: CPP Investments,workday,standard,success,92,14,8,2929,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Comcast,workday,standard,success,736,206,40,15517,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Desjardins,workday,standard,success,253,28,16,8615,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: HARMAN International,workday,standard,success,660,73,35,28063,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Intact Financial,workday,standard,success,243,62,15,10522,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Interac,workday,standard,success,84,12,7,4910,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Manulife,workday,standard,success,257,7,15,13752,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Maple Leaf Sports & Entertainment,workday,standard,success,42,3,6,3635,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: McKesson,workday,standard,success,331,54,19,14466,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: OLG Student Opportunities,workday,standard,success,4,2,1,589,,Targeted Workday queries: all jobs
+Workday: OMERS,workday,standard,success,143,27,11,7594,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Ontario Teachers' Pension Plan,workday,standard,success,106,21,9,6308,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: PSP Investments,workday,standard,success,106,20,9,3119,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: RBC Early Talent,workday,standard,success,52,2,3,13863,,Targeted Workday queries: all jobs
+Workday: S&P Global,workday,standard,success,864,125,47,42779,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Sony,workday,standard,success,286,40,18,12850,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Sun Life Campus,workday,standard,success,7,2,1,1078,,Targeted Workday queries: all jobs
+Workday: TD Bank,workday,standard,success,278,123,15,15948,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: TMX Group,workday,standard,success,133,21,10,3548,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
+Workday: Thomson Reuters,workday,standard,success,245,54,15,12243,,"Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
