@@ -1,6 +1,6 @@
 # Katherine Du — Cold Email Library
 
-Generated from the current board on November 21, 2026. Replace `[Name]` with a specific recruiter, lawyer, manager, public servant, or alumnus whenever possible. For roles marked as an eligibility conflict, the email intentionally asks about a future cycle rather than implying current eligibility.
+Generated from the current board on November 22, 2026. Replace `[Name]` with a specific recruiter, lawyer, manager, public servant, or alumnus whenever possible. For roles marked as an eligibility conflict, the email intentionally asks about a future cycle rather than implying current eligibility.
 
 ## 1. Department of Justice Canada — Legal Excellence Program — Law Student and Articling Recruitment
 
@@ -538,7 +538,7 @@ linkedin.com/in/katherine-du1
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8377745?gh_jid=8377745
+**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8377478?gh_jid=8377478
 
 **Subject:** BCom/JD candidate interested in Airbnb’s Senior Recruiter, Commercial (12-Month Contract) opportunity
 
@@ -846,7 +846,7 @@ linkedin.com/in/katherine-du1
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8081513003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8079635003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Senior Contracts Manager II opportunity
 
@@ -1570,7 +1570,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 57. Bank of Canada — Cyber Security Analyst
+## 57. Bank of Canada — Principal Supervisor, Registration
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Bank of Canada Careers — https://careers.bankofcanada.ca/job/Ottawa-or-Toronto-Principal-Supervisor%2C-Registration-ON/608254017/
+
+**Subject:** BCom/JD candidate interested in Bank of Canada’s Principal Supervisor, Registration opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Principal Supervisor, Registration opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 58. Bank of Canada — Cyber Security Analyst
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1598,7 +1626,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 58. Bank of Canada — Data & Analytics Specialist (Markets & Banking)
+## 59. Bank of Canada — Data & Analytics Specialist (Markets & Banking)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1626,7 +1654,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 59. Bank of Canada — Director, Crisis Management and Continuity of Operations
+## 60. Bank of Canada — Director, Crisis Management and Continuity of Operations
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1654,7 +1682,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 60. Bank of Canada — Student, Video Production
+## 61. Bank of Canada — Student, Video Production
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1682,7 +1710,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 61. Bank of Canada — Recruitment Specialist
+## 62. Bank of Canada — Recruitment Specialist
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1710,7 +1738,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 62. Bank of Canada — Findur Developer
+## 63. Bank of Canada — Findur Developer
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1738,7 +1766,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 63. Bank of Canada — Analyst, Cyber Security Awareness
+## 64. Bank of Canada — Analyst, Cyber Security Awareness
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1766,7 +1794,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 64. Bank of Canada — Senior Network Support Specialist
+## 65. Bank of Canada — Senior Network Support Specialist
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1794,7 +1822,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 65. Bank of Canada — Museum Interpreter (part-time)
+## 66. Bank of Canada — Museum Interpreter (part-time)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1822,7 +1850,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 66. Bank of Canada — Data and Analytics Specialist
+## 67. Bank of Canada — Data and Analytics Specialist
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1850,7 +1878,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 67. Bank of Canada — Application Development Lead - Artificial Intelligence
+## 68. Bank of Canada — Application Development Lead - Artificial Intelligence
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1878,7 +1906,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 68. Bank of Canada — Senior Financial Management Specialist
+## 69. Bank of Canada — Senior Financial Management Specialist
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1906,7 +1934,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 69. Bank of Canada — Departmental Business Coordinator
+## 70. Bank of Canada — Departmental Business Coordinator
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1934,7 +1962,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 70. Bank of Canada — Senior Accounting Analyst
+## 71. Bank of Canada — Senior Accounting Analyst
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1962,7 +1990,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 71. Bank of Canada — Senior Developer, Dynamics 365 and Power Platform
+## 72. Bank of Canada — Senior Developer, Dynamics 365 and Power Platform
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -1990,7 +2018,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 72. Bank of Canada — PhD Researcher (2026-2027 PhD Job Market)
+## 73. Bank of Canada — PhD Researcher (2026-2027 PhD Job Market)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2018,7 +2046,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 73. Ubisoft — Data Governance Project Manager Assistant – Internship (6-month) March 2027 (W/M/NB)
+## 74. Ubisoft — Data Governance Project Manager Assistant – Internship (6-month) March 2027 (W/M/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2046,7 +2074,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 74. Lyft — Senior Technical Program Manager, Finance (Quote to Cash)
+## 75. Lyft — Senior Technical Program Manager, Finance (Quote to Cash)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2074,7 +2102,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 75. MongoDB — Senior Program Manager, Governance, Risk and Compliance
+## 76. MongoDB — Senior Program Manager, Governance, Risk and Compliance
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -2102,7 +2130,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 76. Connor, Clark & Lunn Financial Group — Senior Analyst, Private Market Portfolio Operations
+## 77. Connor, Clark & Lunn Financial Group — Senior Analyst, Private Market Portfolio Operations
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2130,7 +2158,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 77. Scotiabank — Global Banking and Markets - Global Analytic Financial Engineering (GAFE) Intern/Co - PEY 12 months
+## 78. Scotiabank — Global Banking and Markets - Global Analytic Financial Engineering (GAFE) Intern/Co - PEY 12 months
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2158,7 +2186,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 78. Lyft — Engineering Manager, Ad Infra (Lyft Ads)
+## 79. Lyft — Engineering Manager, Ad Infra (Lyft Ads)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2186,7 +2214,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 79. Lyft — Regulatory Operations Program Manager
+## 80. Lyft — Regulatory Operations Program Manager
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2214,7 +2242,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 80. Pinterest — Lead Client Partner, Retail (12 month fixed-term)
+## 81. Pinterest — Lead Client Partner, Retail (12 month fixed-term)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2242,7 +2270,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 81. Pinterest — Sr. Client Account Manager, Retail (12 month fixed-term)
+## 82. Pinterest — Sr. Client Account Manager, Retail (12 month fixed-term)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2270,7 +2298,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 82. The Trade Desk — Lead Associate Trading Director
+## 83. The Trade Desk — Lead Associate Trading Director
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2298,7 +2326,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 83. Pinterest — Industry Manager II
+## 84. Pinterest — Industry Manager II
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2326,7 +2354,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 84. Stripe — Product Manager, Consumer Bank Network
+## 85. Stripe — Product Manager, Consumer Bank Network
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2354,7 +2382,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 85. Daimler Truck — Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst
+## 86. Daimler Truck — Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -2371,34 +2399,6 @@ I’m reaching out about the Cybersecurity Intern: Governance, Risk, and Complia
 I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
 
 I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 86. Stripe — Risk Partnerships Manager, Networks and Acquiring
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8326098
-
-**Subject:** BCom/JD candidate interested in Stripe’s Risk Partnerships Manager, Networks and Acquiring opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Risk Partnerships Manager, Networks and Acquiring opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -2438,7 +2438,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 88. Lyft — Data Engineer
+## 88. Stripe — Risk Partnerships Manager, Networks and Acquiring
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8326098
+
+**Subject:** BCom/JD candidate interested in Stripe’s Risk Partnerships Manager, Networks and Acquiring opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Risk Partnerships Manager, Networks and Acquiring opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 89. Lyft — Data Engineer
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2466,7 +2494,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 89. Lyft — Senior Tax Analyst, Indirect Tax
+## 90. Lyft — Senior Tax Analyst, Indirect Tax
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2494,7 +2522,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 90. 1Password — Senior Field Performance Partner, AI
+## 91. 1Password — Senior Field Performance Partner, AI
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2522,7 +2550,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 91. Scotiabank — GBM - Equity Research - New Grad Rotational Program 2027
+## 92. Scotiabank — GBM - Equity Research - New Grad Rotational Program 2027
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2550,7 +2578,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 92. NBCUniversal — Media Tech: Cybersecurity, Governance & Security Engineering Internships – Summer 2027
+## 93. NBCUniversal — Media Tech: Cybersecurity, Governance & Security Engineering Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -2578,7 +2606,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 93. Connor, Clark & Lunn Financial Group — Manager, Product Transitions
+## 94. Connor, Clark & Lunn Financial Group — Manager, Product Transitions
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2606,7 +2634,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 94. Scotiabank — 2027 Canada UpLIFTED: Women in Finance Development Program
+## 95. Scotiabank — 2027 Canada UpLIFTED: Women in Finance Development Program
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2634,7 +2662,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 95. 1Password — Account Specialist, Growth
+## 96. 1Password — Account Specialist, Growth
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2651,34 +2679,6 @@ I’m reaching out about the Account Specialist, Growth opportunity. I was espec
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
 I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 96. Scotiabank — GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027
-
-**Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
-
-**Source:** Scotiabank Careers — https://jobs.scotiabank.com/job/Toronto-GBM-Trade-Floor-Technology-Consultant-InternshipCo-op-Summer-2027-ON/605897917/
-
-**Subject:** BCom/JD candidate interested in Scotiabank’s GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including how the work term and any co-op-registration requirements align with my combined program at the University of Ottawa. I would appreciate a clearer view of how the team evaluates candidates.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -2718,7 +2718,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 98. Scotiabank — SOAR: New Graduate Development Experience - Summer 2027
+## 98. Scotiabank — GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027
+
+**Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
+
+**Source:** Scotiabank Careers — https://jobs.scotiabank.com/job/Toronto-GBM-Trade-Floor-Technology-Consultant-InternshipCo-op-Summer-2027-ON/605897917/
+
+**Subject:** BCom/JD candidate interested in Scotiabank’s GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including how the work term and any co-op-registration requirements align with my combined program at the University of Ottawa. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 99. Scotiabank — SOAR: New Graduate Development Experience - Summer 2027
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2746,7 +2774,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 99. Lyft — Senior Actuarial Analyst
+## 100. Lyft — Senior Actuarial Analyst
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2774,7 +2802,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 100. 1Password — Senior GTM Program Manager
+## 101. 1Password — Senior GTM Program Manager
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -2791,34 +2819,6 @@ I’m reaching out about the Senior GTM Program Manager opportunity. I was espec
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
 I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 101. Scotiabank — GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Summer 2027
-
-**Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
-
-**Source:** Scotiabank Careers — https://jobs.scotiabank.com/job/Toronto-GBM-Corporate-Banking%2C-Credit-Analytics-Group-%28CAG%29-InternshipCo-op-Summer-2027-ON/607644017/
-
-**Subject:** BCom/JD candidate interested in Scotiabank’s GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Summer 2027 opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Summer 2027 opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including how the work term and any co-op-registration requirements align with my combined program at the University of Ottawa. I would appreciate a clearer view of how the team evaluates candidates.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -2914,19 +2914,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 105. Stripe — Engineering Manager, Terminal Enterprise Features
+## 105. Lyft — Director, Bid Strategy & Pricing
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8311735
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8922700002?gh_jid=8922700002
 
-**Subject:** BCom/JD candidate interested in Stripe’s Engineering Manager, Terminal Enterprise Features opportunity
+**Subject:** BCom/JD candidate interested in Lyft’s Director, Bid Strategy & Pricing opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Engineering Manager, Terminal Enterprise Features opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Director, Bid Strategy & Pricing opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -2942,19 +2942,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 106. Lyft — Director, Bid Strategy & Pricing
+## 106. Stripe — Engineering Manager, Terminal Enterprise Features
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8922700002?gh_jid=8922700002
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8311735
 
-**Subject:** BCom/JD candidate interested in Lyft’s Director, Bid Strategy & Pricing opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Engineering Manager, Terminal Enterprise Features opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Director, Bid Strategy & Pricing opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Engineering Manager, Terminal Enterprise Features opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -4314,7 +4314,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 155. Harvey — Creative AI Engineer
+## 155. Per Scholas — Senior Vice President, Development
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4731362006
+
+**Subject:** BCom/JD candidate interested in Per Scholas’s Senior Vice President, Development opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Vice President, Development opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 156. Harvey — Creative AI Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -4342,7 +4370,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 156. OpenAI — Integrated Marketing Manager
+## 157. OpenAI — Integrated Marketing Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -4370,7 +4398,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 157. Robinhood — Internal Audit Manager
+## 158. Robinhood — Internal Audit Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -4398,7 +4426,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 158. Coinbase — Senior SEC Reporting Accountant
+## 159. Coinbase — Senior SEC Reporting Accountant
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -4426,63 +4454,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 159. Lyft — Account Manager, Lyft Ads
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8952328002?gh_jid=8952328002
-
-**Subject:** BCom/JD candidate interested in Lyft’s Account Manager, Lyft Ads opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Account Manager, Lyft Ads opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 160. Lyft — Senior Director, Infrastructure Engineering
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002
-
-**Subject:** BCom/JD candidate interested in Lyft’s Senior Director, Infrastructure Engineering opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Director, Infrastructure Engineering opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 161. Airbnb — Lead Counsel, Litigation
+## 160. Airbnb — Lead Counsel, Litigation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -4510,7 +4482,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 162. Airbnb — Partnerships Enablement Intern
+## 161. Airbnb — Partnerships Enablement Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -4538,7 +4510,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 163. Airbnb — Senior Engineering Manager, Storage
+## 162. Airbnb — Senior Engineering Manager, Storage
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -4566,19 +4538,47 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 164. Pinterest — Solutions Engineer - Ads Product & Innovation
+## 163. Lyft — Account Manager, Lyft Ads
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8356222
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8952328002?gh_jid=8952328002
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Solutions Engineer - Ads Product & Innovation opportunity
+**Subject:** BCom/JD candidate interested in Lyft’s Account Manager, Lyft Ads opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Solutions Engineer - Ads Product & Innovation opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Account Manager, Lyft Ads opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 164. Lyft — Senior Director, Infrastructure Engineering
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002
+
+**Subject:** BCom/JD candidate interested in Lyft’s Senior Director, Infrastructure Engineering opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Director, Infrastructure Engineering opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -4622,19 +4622,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 166. The Trade Desk — Account Manager
+## 166. Pinterest — Solutions Engineer - Ads Product & Innovation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5303458007
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8356222
 
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Account Manager opportunity
+**Subject:** BCom/JD candidate interested in Pinterest’s Solutions Engineer - Ads Product & Innovation opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Account Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Solutions Engineer - Ads Product & Innovation opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -4650,203 +4650,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 167. The Trade Desk — Business Development Director - Growth (Acquire)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5301136007
-
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Business Development Director - Growth (Acquire) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Business Development Director - Growth (Acquire) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 168. The Trade Desk — Executive Assistant
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5304442007
-
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Executive Assistant opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Executive Assistant opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 169. The Trade Desk — Sr Staff Technology GRC Analyst
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5304148007
-
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Sr Staff Technology GRC Analyst opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Sr Staff Technology GRC Analyst opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 170. Per Scholas — Director, Talent Solutions
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4730894006
-
-**Subject:** BCom/JD candidate interested in Per Scholas’s Director, Talent Solutions opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Director, Talent Solutions opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 171. Per Scholas — Instructional Assistant (IT Support)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4731000006
-
-**Subject:** BCom/JD candidate interested in Per Scholas’s Instructional Assistant (IT Support) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Instructional Assistant (IT Support) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 172. Per Scholas — Manager, Marketing Operations and Analytics
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4730993006
-
-**Subject:** BCom/JD candidate interested in Per Scholas’s Manager, Marketing Operations and Analytics opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Manager, Marketing Operations and Analytics opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 173. Per Scholas — Vice President, Agentic Systems & Transformation
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4730661006
-
-**Subject:** BCom/JD candidate interested in Per Scholas’s Vice President, Agentic Systems & Transformation opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Vice President, Agentic Systems & Transformation opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 174. Okta — Director, People Business Partner – AMER Field Sales
+## 167. Okta — Director, People Business Partner – AMER Field Sales
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -4874,23 +4678,219 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 175. 1Password — Self Serve Campaigns Manager
+## 168. The Trade Desk — Account Manager
 
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** 1Password Careers — https://jobs.ashbyhq.com/1password/e9ad0adf-1b16-444c-9b32-e00dfa2c46dd
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5303458007
 
-**Subject:** BCom/JD candidate interested in 1Password’s Self Serve Campaigns Manager opportunity
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Account Manager opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Self Serve Campaigns Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Account Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 169. The Trade Desk — Business Development Director - Growth (Acquire)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5301136007
+
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Business Development Director - Growth (Acquire) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Business Development Director - Growth (Acquire) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 170. The Trade Desk — Executive Assistant
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5304442007
+
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Executive Assistant opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Executive Assistant opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 171. The Trade Desk — Sr Staff Technology GRC Analyst
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5304148007
+
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Sr Staff Technology GRC Analyst opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sr Staff Technology GRC Analyst opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 172. Per Scholas — Director, Talent Solutions
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4730894006
+
+**Subject:** BCom/JD candidate interested in Per Scholas’s Director, Talent Solutions opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Director, Talent Solutions opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 173. Per Scholas — Instructional Assistant (IT Support)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4731000006
+
+**Subject:** BCom/JD candidate interested in Per Scholas’s Instructional Assistant (IT Support) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Instructional Assistant (IT Support) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 174. Per Scholas — Manager, Marketing Operations and Analytics
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4730993006
+
+**Subject:** BCom/JD candidate interested in Per Scholas’s Manager, Marketing Operations and Analytics opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Manager, Marketing Operations and Analytics opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 175. Per Scholas — Vice President, Agentic Systems & Transformation
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4730661006
+
+**Subject:** BCom/JD candidate interested in Per Scholas’s Vice President, Agentic Systems & Transformation opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Vice President, Agentic Systems & Transformation opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -5238,231 +5238,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 188. The Trade Desk — Senior Recruiter II
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5301021007
-
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Recruiter II opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Recruiter II opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 189. The Trade Desk — Sr Manager, Applied Science-Identity
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5301856007
-
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Sr Manager, Applied Science-Identity opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Sr Manager, Applied Science-Identity opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 190. Per Scholas — Instructional Assistant (Data Analytics)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4730666006
-
-**Subject:** BCom/JD candidate interested in Per Scholas’s Instructional Assistant (Data Analytics) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Instructional Assistant (Data Analytics) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 191. Datadog — Art Director - Brand
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8400585/?gh_jid=8400585
-
-**Subject:** BCom/JD candidate interested in Datadog’s Art Director - Brand opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Art Director - Brand opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 192. Datadog — Enterprise Automation Engineer
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8404061/?gh_jid=8404061
-
-**Subject:** BCom/JD candidate interested in Datadog’s Enterprise Automation Engineer opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Enterprise Automation Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 193. Datadog — National Partner Manager
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8384194/?gh_jid=8384194
-
-**Subject:** BCom/JD candidate interested in Datadog’s National Partner Manager opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the National Partner Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 194. Datadog — Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8386590/?gh_jid=8386590
-
-**Subject:** BCom/JD candidate interested in Datadog’s Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 195. Datadog — Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8386199/?gh_jid=8386199
-
-**Subject:** BCom/JD candidate interested in Datadog’s Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 196. Okta — Manager, Enterprise Influencer Relations
+## 188. Okta — Manager, Enterprise Influencer Relations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -5490,7 +5266,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 197. Okta — SMB Customer, Senior Sales Manager
+## 189. Okta — SMB Customer, Senior Sales Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -5503,6 +5279,230 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the SMB Customer, Senior Sales Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 190. The Trade Desk — Senior Recruiter II
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5301021007
+
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Recruiter II opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Recruiter II opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 191. The Trade Desk — Sr Manager, Applied Science-Identity
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5301856007
+
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Sr Manager, Applied Science-Identity opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sr Manager, Applied Science-Identity opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 192. Per Scholas — Instructional Assistant (Data Analytics)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Per Scholas Careers — https://job-boards.greenhouse.io/perscholashires/jobs/4730666006
+
+**Subject:** BCom/JD candidate interested in Per Scholas’s Instructional Assistant (Data Analytics) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Instructional Assistant (Data Analytics) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 193. Datadog — Art Director - Brand
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8400585/?gh_jid=8400585
+
+**Subject:** BCom/JD candidate interested in Datadog’s Art Director - Brand opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Art Director - Brand opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 194. Datadog — Enterprise Automation Engineer
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8404061/?gh_jid=8404061
+
+**Subject:** BCom/JD candidate interested in Datadog’s Enterprise Automation Engineer opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Enterprise Automation Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 195. Datadog — National Partner Manager
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8384194/?gh_jid=8384194
+
+**Subject:** BCom/JD candidate interested in Datadog’s National Partner Manager opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the National Partner Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 196. Datadog — Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8386590/?gh_jid=8386590
+
+**Subject:** BCom/JD candidate interested in Datadog’s Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 197. Datadog — Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8386199/?gh_jid=8386199
+
+**Subject:** BCom/JD candidate interested in Datadog’s Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -6050,91 +6050,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 217. Stripe — Accounts Receivable Analyst
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8375966
-
-**Subject:** BCom/JD candidate interested in Stripe’s Accounts Receivable Analyst opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Accounts Receivable Analyst opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 218. Stripe — Head of Americas Internal Audit
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8387804
-
-**Subject:** BCom/JD candidate interested in Stripe’s Head of Americas Internal Audit opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Head of Americas Internal Audit opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 219. Lyft — Hardware Program Manager, Lyft Urban Solutions
-
-**Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
-
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8948820002?gh_jid=8948820002
-
-**Subject:** BCom/JD candidate interested in Lyft’s Hardware Program Manager, Lyft Urban Solutions opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Hardware Program Manager, Lyft Urban Solutions opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including how the work term and any co-op-registration requirements align with my combined program at the University of Ottawa. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 220. Airbnb — Brand Marketing Intern, France
+## 217. Airbnb — Brand Marketing Intern, France
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -6162,7 +6078,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 221. Airbnb — Senior Connectivity Partner Manager
+## 218. Airbnb — Senior Connectivity Partner Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -6190,7 +6106,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 222. Dropbox — Director, Strategic AI Partnerships
+## 219. Dropbox — Director, Strategic AI Partnerships
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -6203,6 +6119,90 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Director, Strategic AI Partnerships opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 220. Lyft — Hardware Program Manager, Lyft Urban Solutions
+
+**Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
+
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8948820002?gh_jid=8948820002
+
+**Subject:** BCom/JD candidate interested in Lyft’s Hardware Program Manager, Lyft Urban Solutions opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Hardware Program Manager, Lyft Urban Solutions opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including how the work term and any co-op-registration requirements align with my combined program at the University of Ottawa. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 221. Stripe — Accounts Receivable Analyst
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8375966
+
+**Subject:** BCom/JD candidate interested in Stripe’s Accounts Receivable Analyst opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Accounts Receivable Analyst opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 222. Stripe — Head of Americas Internal Audit
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8387804
+
+**Subject:** BCom/JD candidate interested in Stripe’s Head of Americas Internal Audit opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Head of Americas Internal Audit opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -6274,35 +6274,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 225. The Trade Desk — Manager, Benefits
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5298899007
-
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Manager, Benefits opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Manager, Benefits opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 226. Okta — Regional Sales Manager (Bay Area)
+## 225. Okta — Regional Sales Manager (Bay Area)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -6330,7 +6302,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 227. Okta — Strategic Account Executive
+## 226. Okta — Strategic Account Executive
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -6343,6 +6315,34 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Strategic Account Executive opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 227. The Trade Desk — Manager, Benefits
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5298899007
+
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Manager, Benefits opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Manager, Benefits opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -6526,91 +6526,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 234. Affirm — IT Product Manager
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8075414003
-
-**Subject:** BCom/JD candidate interested in Affirm’s IT Product Manager opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the IT Product Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 235. Affirm — Senior Sales Engineer
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8201457003
-
-**Subject:** BCom/JD candidate interested in Affirm’s Senior Sales Engineer opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Sales Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 236. Affirm — Staff Partner Engineer
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8203805003
-
-**Subject:** BCom/JD candidate interested in Affirm’s Staff Partner Engineer opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Staff Partner Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 237. Coinbase — Associate Manager, SOX and Internal Controls
+## 234. Coinbase — Associate Manager, SOX and Internal Controls
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -6638,7 +6554,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 238. Coinbase — Credit Risk Manager
+## 235. Coinbase — Credit Risk Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -6666,19 +6582,103 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 239. Stripe — Real Estate Transactions Manager
+## 236. Affirm — IT Product Manager
 
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8393866
+**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8075414003
 
-**Subject:** BCom/JD candidate interested in Stripe’s Real Estate Transactions Manager opportunity
+**Subject:** BCom/JD candidate interested in Affirm’s IT Product Manager opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Real Estate Transactions Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the IT Product Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 237. Affirm — Senior Sales Engineer
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8201457003
+
+**Subject:** BCom/JD candidate interested in Affirm’s Senior Sales Engineer opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Sales Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 238. Affirm — Staff Partner Engineer
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8203805003
+
+**Subject:** BCom/JD candidate interested in Affirm’s Staff Partner Engineer opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Staff Partner Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 239. Airbnb — Creative Director Copy, Social
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8394407?gh_jid=8394407
+
+**Subject:** BCom/JD candidate interested in Airbnb’s Creative Director Copy, Social opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Creative Director Copy, Social opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -6750,19 +6750,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 242. Airbnb — Creative Director Copy, Social
+## 242. Stripe — Real Estate Transactions Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8394407?gh_jid=8394407
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8393866
 
-**Subject:** BCom/JD candidate interested in Airbnb’s Creative Director Copy, Social opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Real Estate Transactions Manager opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Creative Director Copy, Social opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Real Estate Transactions Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -6862,35 +6862,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 246. Point72 — 2027 Asia Summer Internship - Investment Services
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8931689002?gh_jid=8931689002
-
-**Subject:** BCom/JD candidate interested in Point72’s 2027 Asia Summer Internship - Investment Services opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the 2027 Asia Summer Internship - Investment Services opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 247. The Trade Desk — Sr AI Enablement Engineer
+## 246. The Trade Desk — Sr AI Enablement Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -6918,7 +6890,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 248. The Trade Desk — Sr Forward Deployed Engineer
+## 247. The Trade Desk — Sr Forward Deployed Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -6931,6 +6903,34 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Sr Forward Deployed Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 248. Point72 — 2027 Asia Summer Internship - Investment Services
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8931689002?gh_jid=8931689002
+
+**Subject:** BCom/JD candidate interested in Point72’s 2027 Asia Summer Internship - Investment Services opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the 2027 Asia Summer Internship - Investment Services opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -7450,63 +7450,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 267. Pinterest — Sr. Project & Program Manager, Quality - Trust & Safety
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8115849
-
-**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Project & Program Manager, Quality - Trust & Safety opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Sr. Project & Program Manager, Quality - Trust & Safety opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 268. Pinterest — Technical Program Manager II
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8369211
-
-**Subject:** BCom/JD candidate interested in Pinterest’s Technical Program Manager II opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Technical Program Manager II opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 269. DoorDash — Industry Manager, Mid Market Ad Sales
+## 267. DoorDash — Industry Manager, Mid Market Ad Sales
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -7534,7 +7478,91 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 270. The Trade Desk — Business Development Director
+## 268. Pinterest — Sr. Project & Program Manager, Quality - Trust & Safety
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8115849
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Project & Program Manager, Quality - Trust & Safety opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sr. Project & Program Manager, Quality - Trust & Safety opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 269. Pinterest — Technical Program Manager II
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8369211
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Technical Program Manager II opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Technical Program Manager II opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 270. Okta — Executive Assistant
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8336985?gh_jid=8336985
+
+**Subject:** BCom/JD candidate interested in Okta’s Executive Assistant opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Executive Assistant opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 271. The Trade Desk — Business Development Director
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -7562,7 +7590,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 271. The Trade Desk — Director, Client Services
+## 272. The Trade Desk — Director, Client Services
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -7590,7 +7618,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 272. The Trade Desk — Senior Manager, Product Communications
+## 273. The Trade Desk — Senior Manager, Product Communications
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -7618,7 +7646,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 273. The Trade Desk — Senior Trading Specialist
+## 274. The Trade Desk — Senior Trading Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -7646,7 +7674,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 274. Per Scholas — Instructional Assistant (Semiconductor)
+## 275. Per Scholas — Instructional Assistant (Semiconductor)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -7674,7 +7702,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 275. Datadog — Executive Recruiter
+## 276. Datadog — Executive Recruiter
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -7687,34 +7715,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Executive Recruiter opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 276. Okta — Executive Assistant
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8336985?gh_jid=8336985
-
-**Subject:** BCom/JD candidate interested in Okta’s Executive Assistant opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Executive Assistant opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -8150,7 +8150,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 292. Per Scholas — Chief of Staff
+## 292. Okta — Enterprise Account Executive, West
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8354795?gh_jid=8354795
+
+**Subject:** BCom/JD candidate interested in Okta’s Enterprise Account Executive, West opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Enterprise Account Executive, West opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 293. Per Scholas — Chief of Staff
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -8178,7 +8206,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 293. Gotion — Administrative Specialist- Project Coordination
+## 294. Gotion — Administrative Specialist- Project Coordination
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -8191,34 +8219,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Administrative Specialist- Project Coordination opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 294. Okta — Enterprise Account Executive, West
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8354795?gh_jid=8354795
-
-**Subject:** BCom/JD candidate interested in Okta’s Enterprise Account Executive, West opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Enterprise Account Executive, West opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -8598,35 +8598,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 308. Stripe — Implementation Consultant Professional Services (AI Companies)
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8281536
-
-**Subject:** BCom/JD candidate interested in Stripe’s Implementation Consultant Professional Services (AI Companies) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Implementation Consultant Professional Services (AI Companies) opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 309. Airbnb — Category Lead, Airbnb Services
+## 308. Airbnb — Category Lead, Airbnb Services
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -8654,11 +8626,11 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 310. Airbnb — Senior Key Accounts Manager
+## 309. Airbnb — Senior Key Accounts Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8383026?gh_jid=8383026
+**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8383090?gh_jid=8383090
 
 **Subject:** BCom/JD candidate interested in Airbnb’s Senior Key Accounts Manager opportunity
 
@@ -8682,7 +8654,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 311. Airbnb — Senior Market Manager, Luxe
+## 310. Airbnb — Senior Market Manager, Luxe
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -8699,6 +8671,34 @@ I’m reaching out about the Senior Market Manager, Luxe opportunity. I was espe
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
 I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 311. Stripe — Implementation Consultant Professional Services (AI Companies)
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8281536
+
+**Subject:** BCom/JD candidate interested in Stripe’s Implementation Consultant Professional Services (AI Companies) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Implementation Consultant Professional Services (AI Companies) opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -8798,7 +8798,7 @@ linkedin.com/in/katherine-du1
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8202971003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8202975003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Business Development Director - Civil & Commercial opportunity
 
@@ -9242,7 +9242,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 331. Stripe — Product Designer, Treasury
+## 331. Airbnb — Lead Program Manager, Design
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8355483?gh_jid=8355483
+
+**Subject:** BCom/JD candidate interested in Airbnb’s Lead Program Manager, Design opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Lead Program Manager, Design opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 332. Stripe — Product Designer, Treasury
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -9270,7 +9298,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 332. Stripe — Product Design Manager, Treasury
+## 333. Stripe — Product Design Manager, Treasury
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -9283,34 +9311,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Product Design Manager, Treasury opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 333. Airbnb — Lead Program Manager, Design
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8355483?gh_jid=8355483
-
-**Subject:** BCom/JD candidate interested in Airbnb’s Lead Program Manager, Design opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Lead Program Manager, Design opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -9662,35 +9662,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 346. Pinterest — Sr. Qualitative Product Researcher, Search & Home Personalization
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=7683734
-
-**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Qualitative Product Researcher, Search & Home Personalization opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Sr. Qualitative Product Researcher, Search & Home Personalization opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 347. DoorDash — Senior Operations Associate, Labs
+## 346. DoorDash — Senior Operations Associate, Labs
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -9718,7 +9690,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 348. DoorDash — Staff Product Manager, People Product (HR Partner Products)
+## 347. DoorDash — Staff Product Manager, People Product (HR Partner Products)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -9731,6 +9703,34 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Staff Product Manager, People Product (HR Partner Products) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 348. Pinterest — Sr. Qualitative Product Researcher, Search & Home Personalization
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=7683734
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Qualitative Product Researcher, Search & Home Personalization opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sr. Qualitative Product Researcher, Search & Home Personalization opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -9774,19 +9774,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 350. The Trade Desk — Senior Account Executive
+## 350. Okta — Finance Manager, People and Corp Dev.
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5270062007
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8374832?gh_jid=8374832
 
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Account Executive opportunity
+**Subject:** BCom/JD candidate interested in Okta’s Finance Manager, People and Corp Dev. opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Senior Account Executive opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Finance Manager, People and Corp Dev. opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -9802,19 +9802,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 351. Okta — Finance Manager, People and Corp Dev.
+## 351. The Trade Desk — Senior Account Executive
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8374832?gh_jid=8374832
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5270062007
 
-**Subject:** BCom/JD candidate interested in Okta’s Finance Manager, People and Corp Dev. opportunity
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Account Executive opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Finance Manager, People and Corp Dev. opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Senior Account Executive opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -10586,35 +10586,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 379. NBCUniversal — Advertising & Program Standards Internships – Summer 2027
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** NBCUniversal Careers — https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000160646119
-
-**Subject:** BCom/JD candidate interested in NBCUniversal’s Advertising & Program Standards Internships – Summer 2027 opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Advertising & Program Standards Internships – Summer 2027 opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 380. OpenAI — Manager, Forward Deployed Engineering - Munich
+## 379. OpenAI — Manager, Forward Deployed Engineering - Munich
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -10642,7 +10614,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 381. OpenAI — Sales Manager, Enterprise - Japan
+## 380. OpenAI — Sales Manager, Enterprise - Japan
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -10670,7 +10642,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 382. OpenAI — Product Engagement Manager, User Operations
+## 381. OpenAI — Product Engagement Manager, User Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -10698,7 +10670,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 383. OpenAI — Solutions Engineer, Ads Solutions - Tokyo
+## 382. OpenAI — Solutions Engineer, Ads Solutions - Tokyo
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -10726,7 +10698,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 384. OpenAI — Novel Abuse Red Teamer
+## 383. OpenAI — Novel Abuse Red Teamer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -10754,7 +10726,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 385. OpenAI — Account Director, Startups | New Business - UK&I
+## 384. OpenAI — Account Director, Startups | New Business - UK&I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -10767,6 +10739,34 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Account Director, Startups | New Business - UK&I opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 385. NBCUniversal — Advertising & Program Standards Internships – Summer 2027
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** NBCUniversal Careers — https://api.smartrecruiters.com/v1/companies/NBCUniversal3/postings/744000160646119
+
+**Subject:** BCom/JD candidate interested in NBCUniversal’s Advertising & Program Standards Internships – Summer 2027 opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Advertising & Program Standards Internships – Summer 2027 opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -11174,63 +11174,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 400. Stripe — OpenRouter Product Accounting
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8348327
-
-**Subject:** BCom/JD candidate interested in Stripe’s OpenRouter Product Accounting opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the OpenRouter Product Accounting opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 401. Stripe — Partner Development Manager, Ecosystem Partnerships
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8350923
-
-**Subject:** BCom/JD candidate interested in Stripe’s Partner Development Manager, Ecosystem Partnerships opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Partner Development Manager, Ecosystem Partnerships opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 402. Airbnb — Senior Manager, Quality
+## 400. Airbnb — Senior Manager, Quality
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -11258,19 +11202,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 403. Pinterest — Sr. Product Designer - Measurement, Data, & AI
+## 401. Stripe — OpenRouter Product Accounting
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8249279
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8348327
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Product Designer - Measurement, Data, & AI opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s OpenRouter Product Accounting opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Sr. Product Designer - Measurement, Data, & AI opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the OpenRouter Product Accounting opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -11286,77 +11230,21 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 404. Pinterest — Strategy & Operations Intern 2027 (USA)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8334878
-
-**Subject:** BCom/JD candidate interested in Pinterest’s Strategy & Operations Intern 2027 (USA) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Strategy & Operations Intern 2027 (USA) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 405. Instacart — Senior Global Mobility and Immigration Specialist
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8359775
-
-**Subject:** BCom/JD candidate interested in Instacart’s Senior Global Mobility and Immigration Specialist opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Global Mobility and Immigration Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 406. Instacart — Senior Global Mobility and Immigration Specialist
+## 402. Stripe — Partner Development Manager, Ecosystem Partnerships
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8359777
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8350923
 
-**Subject:** BCom/JD candidate interested in Instacart’s Senior Global Mobility and Immigration Specialist opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Partner Development Manager, Ecosystem Partnerships opportunity
 
 Dear [Name],
 
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
 
-I’m reaching out about the Senior Global Mobility and Immigration Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Partner Development Manager, Ecosystem Partnerships opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
 
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
 
 I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
 
@@ -11370,7 +11258,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 407. DoorDash — Manager, New Verticals - In-Store Data Platform Strategy & Operations
+## 403. DoorDash — Manager, New Verticals - In-Store Data Platform Strategy & Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -11398,7 +11286,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 408. DoorDash — Technical Revenue Accounting Manager
+## 404. DoorDash — Technical Revenue Accounting Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -11415,6 +11303,118 @@ I’m reaching out about the Technical Revenue Accounting Manager opportunity. I
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
 I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 405. Pinterest — Sr. Product Designer - Measurement, Data, & AI
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8249279
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Product Designer - Measurement, Data, & AI opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sr. Product Designer - Measurement, Data, & AI opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 406. Pinterest — Strategy & Operations Intern 2027 (USA)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8334878
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Strategy & Operations Intern 2027 (USA) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Strategy & Operations Intern 2027 (USA) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 407. Instacart — Senior Global Mobility and Immigration Specialist
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8359775
+
+**Subject:** BCom/JD candidate interested in Instacart’s Senior Global Mobility and Immigration Specialist opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Global Mobility and Immigration Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 408. Instacart — Senior Global Mobility and Immigration Specialist
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8359777
+
+**Subject:** BCom/JD candidate interested in Instacart’s Senior Global Mobility and Immigration Specialist opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Global Mobility and Immigration Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -11846,35 +11846,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 424. Affirm — Senior Manager, Narrative Intelligence
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8043261003
-
-**Subject:** BCom/JD candidate interested in Affirm’s Senior Manager, Narrative Intelligence opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Manager, Narrative Intelligence opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 425. Coinbase — Group Product Manager, AI Foundations
+## 424. Coinbase — Group Product Manager, AI Foundations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -11902,7 +11874,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 426. Coinbase — Payments Infrastructure Product Manager
+## 425. Coinbase — Payments Infrastructure Product Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -11930,7 +11902,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 427. Stripe — Events Lead, Product & Financial Services
+## 426. Affirm — Senior Manager, Narrative Intelligence
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8043261003
+
+**Subject:** BCom/JD candidate interested in Affirm’s Senior Manager, Narrative Intelligence opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Manager, Narrative Intelligence opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 427. Lyft — Associate Account Manager
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8927242002?gh_jid=8927242002
+
+**Subject:** BCom/JD candidate interested in Lyft’s Associate Account Manager opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Associate Account Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 428. Stripe — Events Lead, Product & Financial Services
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -11958,7 +11986,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 428. Stripe — Revenue and Go-to-Market Accounting Lead
+## 429. Stripe — Revenue and Go-to-Market Accounting Lead
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -11971,34 +11999,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Revenue and Go-to-Market Accounting Lead opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 429. Lyft — Associate Account Manager
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8927242002?gh_jid=8927242002
-
-**Subject:** BCom/JD candidate interested in Lyft’s Associate Account Manager opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Associate Account Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -12042,19 +12042,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 431. Pinterest — Sr. Industry Manager, Travel
+## 431. DoorDash — Research Operations Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8351619
+**Source:** DoorDash Careers — https://job-boards.greenhouse.io/doordashusa/jobs/8356499
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Industry Manager, Travel opportunity
+**Subject:** BCom/JD candidate interested in DoorDash’s Research Operations Manager opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Sr. Industry Manager, Travel opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Research Operations Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -12070,19 +12070,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 432. DoorDash — Research Operations Manager
+## 432. Pinterest — Sr. Industry Manager, Travel
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** DoorDash Careers — https://job-boards.greenhouse.io/doordashusa/jobs/8356499
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8351619
 
-**Subject:** BCom/JD candidate interested in DoorDash’s Research Operations Manager opportunity
+**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Industry Manager, Travel opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Research Operations Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Sr. Industry Manager, Travel opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -12126,147 +12126,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 434. The Trade Desk — Business Development Director - Strategic Accounts
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5285751007
-
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Business Development Director - Strategic Accounts opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Business Development Director - Strategic Accounts opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 435. The Trade Desk — Senior Director, Financial Planning & Analysis
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5286460007
-
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Director, Financial Planning & Analysis opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Director, Financial Planning & Analysis opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 436. Datadog — Delivery Manager, Web
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8335262/?gh_jid=8335262
-
-**Subject:** BCom/JD candidate interested in Datadog’s Delivery Manager, Web opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Delivery Manager, Web opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 437. Datadog — Sales Development Representative - Summer 2027 Graduates (Denver)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486
-
-**Subject:** BCom/JD candidate interested in Datadog’s Sales Development Representative - Summer 2027 Graduates (Denver) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Sales Development Representative - Summer 2027 Graduates (Denver) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 438. Datadog — Vice President, People Business Partner
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8335703/?gh_jid=8335703
-
-**Subject:** BCom/JD candidate interested in Datadog’s Vice President, People Business Partner opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Vice President, People Business Partner opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 439. Okta — Category Manager, Technology Sourcing
+## 434. Okta — Category Manager, Technology Sourcing
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -12294,7 +12154,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 440. Okta — Partner Services Senior Program Manager
+## 435. Okta — Partner Services Senior Program Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -12307,6 +12167,146 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Partner Services Senior Program Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 436. The Trade Desk — Business Development Director - Strategic Accounts
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5285751007
+
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Business Development Director - Strategic Accounts opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Business Development Director - Strategic Accounts opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 437. The Trade Desk — Senior Director, Financial Planning & Analysis
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5286460007
+
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Director, Financial Planning & Analysis opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Director, Financial Planning & Analysis opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 438. Datadog — Delivery Manager, Web
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8335262/?gh_jid=8335262
+
+**Subject:** BCom/JD candidate interested in Datadog’s Delivery Manager, Web opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Delivery Manager, Web opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 439. Datadog — Sales Development Representative - Summer 2027 Graduates (Denver)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486
+
+**Subject:** BCom/JD candidate interested in Datadog’s Sales Development Representative - Summer 2027 Graduates (Denver) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sales Development Representative - Summer 2027 Graduates (Denver) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 440. Datadog — Vice President, People Business Partner
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8335703/?gh_jid=8335703
+
+**Subject:** BCom/JD candidate interested in Datadog’s Vice President, People Business Partner opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Vice President, People Business Partner opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -12770,63 +12770,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 457. Stripe — Financial Services Transfer Pricing Strategist
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8318680
-
-**Subject:** BCom/JD candidate interested in Stripe’s Financial Services Transfer Pricing Strategist opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Financial Services Transfer Pricing Strategist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 458. Stripe — Manager, Marketing Analytics
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8335413
-
-**Subject:** BCom/JD candidate interested in Stripe’s Manager, Marketing Analytics opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Manager, Marketing Analytics opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 459. Airbnb — Senior Manager, Business Technology
+## 457. Airbnb — Senior Manager, Business Technology
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -12854,7 +12798,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 460. Airbnb — Vendor Performance Manager, APAC (Sales focus)
+## 458. Airbnb — Vendor Performance Manager, APAC (Sales focus)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -12882,19 +12826,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 461. Pinterest — Content Enablement Intern 2027 (USA)
+## 459. Stripe — Financial Services Transfer Pricing Strategist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8334884
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8318680
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Content Enablement Intern 2027 (USA) opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Financial Services Transfer Pricing Strategist opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Content Enablement Intern 2027 (USA) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Financial Services Transfer Pricing Strategist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -12910,19 +12854,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 462. Reddit — Agency Partner Manager
+## 460. Stripe — Manager, Marketing Analytics
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Reddit Careers — https://job-boards.greenhouse.io/reddit/jobs/8337323
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8335413
 
-**Subject:** BCom/JD candidate interested in Reddit’s Agency Partner Manager opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Manager, Marketing Analytics opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
 
-I’m reaching out about the Agency Partner Manager opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+I’m reaching out about the Manager, Marketing Analytics opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
 
 I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
 
@@ -12938,35 +12882,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 463. Flow Traders — Senior HR Business Partner
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Flow Traders Careers — https://job-boards.greenhouse.io/flowtraders/jobs/8352122
-
-**Subject:** BCom/JD candidate interested in Flow Traders’s Senior HR Business Partner opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior HR Business Partner opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 464. DoorDash — Manager, New Verticals - Pharmacy Strategy & Operations
+## 461. DoorDash — Manager, New Verticals - Pharmacy Strategy & Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -12994,7 +12910,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 465. DoorDash — Sr. Associate, Dasher Retention Marketing
+## 462. DoorDash — Sr. Associate, Dasher Retention Marketing
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -13022,19 +12938,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 466. The Trade Desk — Account Executive
+## 463. Pinterest — Content Enablement Intern 2027 (USA)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5281812007
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8334884
 
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Account Executive opportunity
+**Subject:** BCom/JD candidate interested in Pinterest’s Content Enablement Intern 2027 (USA) opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Account Executive opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Content Enablement Intern 2027 (USA) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -13050,19 +12966,47 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 467. The Trade Desk — Senior Workday Architect
+## 464. Reddit — Agency Partner Manager
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Reddit Careers — https://job-boards.greenhouse.io/reddit/jobs/8337323
+
+**Subject:** BCom/JD candidate interested in Reddit’s Agency Partner Manager opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Agency Partner Manager opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 465. Flow Traders — Senior HR Business Partner
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5280565007
+**Source:** Flow Traders Careers — https://job-boards.greenhouse.io/flowtraders/jobs/8352122
 
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Workday Architect opportunity
+**Subject:** BCom/JD candidate interested in Flow Traders’s Senior HR Business Partner opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Senior Workday Architect opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Senior HR Business Partner opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -13078,7 +13022,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 468. Okta — Area Sales Director, Corporate Sales- New Accounts (Auth0)
+## 466. Okta — Area Sales Director, Corporate Sales- New Accounts (Auth0)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -13106,7 +13050,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 469. Okta — Area Sales Director, Corporate Sales- New Accounts (Okta)
+## 467. Okta — Area Sales Director, Corporate Sales- New Accounts (Okta)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -13134,7 +13078,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 470. Okta — Senior Product Manager, AI Products (Auth0)
+## 468. Okta — Senior Product Manager, AI Products (Auth0)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -13162,19 +13106,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 471. Palantir — Intellectual Property Counsel
+## 469. The Trade Desk — Account Executive
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Palantir Careers — https://jobs.lever.co/palantir/348befa6-dfc6-4838-8bbd-5bc93cb5bfdc
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5281812007
 
-**Subject:** BCom/JD candidate interested in Palantir’s Intellectual Property Counsel opportunity
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Account Executive opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Intellectual Property Counsel opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Account Executive opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -13190,7 +13134,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 472. 1Password — Senior Director, Product Security
+## 470. The Trade Desk — Senior Workday Architect
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5280565007
+
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Workday Architect opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Workday Architect opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 471. 1Password — Senior Director, Product Security
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -13207,6 +13179,34 @@ I’m reaching out about the Senior Director, Product Security opportunity. I wa
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
 I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 472. Palantir — Intellectual Property Counsel
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Palantir Careers — https://jobs.lever.co/palantir/348befa6-dfc6-4838-8bbd-5bc93cb5bfdc
+
+**Subject:** BCom/JD candidate interested in Palantir’s Intellectual Property Counsel opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Intellectual Property Counsel opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -13498,19 +13498,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 483. Stripe — Head of Commercial Solutions
+## 483. Airbnb — Law Enforcement Engagement Lead - LATAM
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8279850
+**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8348207?gh_jid=8348207
 
-**Subject:** BCom/JD candidate interested in Stripe’s Head of Commercial Solutions opportunity
+**Subject:** BCom/JD candidate interested in Airbnb’s Law Enforcement Engagement Lead - LATAM opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Head of Commercial Solutions opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Law Enforcement Engagement Lead - LATAM opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -13526,35 +13526,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 484. Stripe — Technical Program Manager, Terminal
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8304858
-
-**Subject:** BCom/JD candidate interested in Stripe’s Technical Program Manager, Terminal opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Technical Program Manager, Terminal opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 485. Lyft — Accountant, Lease & Fleet
+## 484. Lyft — Accountant, Lease & Fleet
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -13582,7 +13554,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 486. Lyft — Digital Ad Ops Coordinator, Lyft Ads
+## 485. Lyft — Digital Ad Ops Coordinator, Lyft Ads
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -13610,19 +13582,47 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 487. Airbnb — Law Enforcement Engagement Lead - LATAM
+## 486. Stripe — Head of Commercial Solutions
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8348207?gh_jid=8348207
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8279850
 
-**Subject:** BCom/JD candidate interested in Airbnb’s Law Enforcement Engagement Lead - LATAM opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Head of Commercial Solutions opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Law Enforcement Engagement Lead - LATAM opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Head of Commercial Solutions opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 487. Stripe — Technical Program Manager, Terminal
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8304858
+
+**Subject:** BCom/JD candidate interested in Stripe’s Technical Program Manager, Terminal opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Technical Program Manager, Terminal opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -13834,35 +13834,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 495. Datadog — Manager I, Engineering - Zero Trust Networking
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8350419/?gh_jid=8350419
-
-**Subject:** BCom/JD candidate interested in Datadog’s Manager I, Engineering - Zero Trust Networking opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Manager I, Engineering - Zero Trust Networking opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 496. Okta — Key Accounts Director
+## 495. Okta — Key Accounts Director
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -13890,7 +13862,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 497. Okta — Nonprofit GTM Strategy Manager
+## 496. Okta — Nonprofit GTM Strategy Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -13903,6 +13875,34 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Nonprofit GTM Strategy Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 497. Datadog — Manager I, Engineering - Zero Trust Networking
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8350419/?gh_jid=8350419
+
+**Subject:** BCom/JD candidate interested in Datadog’s Manager I, Engineering - Zero Trust Networking opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Manager I, Engineering - Zero Trust Networking opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -14058,35 +14058,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 503. Lyft — Senior Actuarial Analyst
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8916976002?gh_jid=8916976002
-
-**Subject:** BCom/JD candidate interested in Lyft’s Senior Actuarial Analyst opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Actuarial Analyst opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 504. Airbnb — Emergency Response Manager, APAC
+## 503. Airbnb — Emergency Response Manager, APAC
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14114,7 +14086,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 505. Airbnb — Senior Engineering Manager - Partner Ecosystem
+## 504. Airbnb — Senior Engineering Manager - Partner Ecosystem
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14142,7 +14114,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 506. Airbnb — Senior Manager, Public Policy, Pacific Northwest
+## 505. Airbnb — Senior Manager, Public Policy, Pacific Northwest
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14155,6 +14127,34 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Senior Manager, Public Policy, Pacific Northwest opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 506. Lyft — Senior Actuarial Analyst
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8916976002?gh_jid=8916976002
+
+**Subject:** BCom/JD candidate interested in Lyft’s Senior Actuarial Analyst opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Actuarial Analyst opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -14198,7 +14198,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 508. Per Scholas — Technical Instructor Advanced Manufacturing
+## 508. Okta — Enterprise Regional Sales Manager
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8346357?gh_jid=8346357
+
+**Subject:** BCom/JD candidate interested in Okta’s Enterprise Regional Sales Manager opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Enterprise Regional Sales Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 509. Per Scholas — Technical Instructor Advanced Manufacturing
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14226,7 +14254,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 509. Datadog — Director, People Business Partner
+## 510. Datadog — Director, People Business Partner
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14239,34 +14267,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Director, People Business Partner opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 510. Okta — Enterprise Regional Sales Manager
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8346357?gh_jid=8346357
-
-**Subject:** BCom/JD candidate interested in Okta’s Enterprise Regional Sales Manager opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Enterprise Regional Sales Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -14534,63 +14534,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 520. Affirm — Compensation Analyst II (Programs & Partnerships)
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8048121003
-
-**Subject:** BCom/JD candidate interested in Affirm’s Compensation Analyst II (Programs & Partnerships) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Compensation Analyst II (Programs & Partnerships) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 521. Affirm — Senior Manager, Security Incident Response
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8045378003
-
-**Subject:** BCom/JD candidate interested in Affirm’s Senior Manager, Security Incident Response opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Manager, Security Incident Response opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 522. Coinbase — Manager, Tax Information Reporting and Withholding Advisory
+## 520. Coinbase — Manager, Tax Information Reporting and Withholding Advisory
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14618,7 +14562,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 523. Coinbase — Staff Analytics Engineer
+## 521. Coinbase — Staff Analytics Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14646,23 +14590,23 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 524. Lyft — Fleet Operations Associate
+## 522. Affirm — Compensation Analyst II (Programs & Partnerships)
 
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8925465002?gh_jid=8925465002
+**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8048121003
 
-**Subject:** BCom/JD candidate interested in Lyft’s Fleet Operations Associate opportunity
+**Subject:** BCom/JD candidate interested in Affirm’s Compensation Analyst II (Programs & Partnerships) opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Fleet Operations Associate opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Compensation Analyst II (Programs & Partnerships) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -14674,23 +14618,23 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 525. Lyft — Fleet Operations Associate (Day Shift)
+## 523. Affirm — Senior Manager, Security Incident Response
 
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8925486002?gh_jid=8925486002
+**Source:** Affirm Careers — https://job-boards.greenhouse.io/affirm/jobs/8045378003
 
-**Subject:** BCom/JD candidate interested in Lyft’s Fleet Operations Associate (Day Shift) opportunity
+**Subject:** BCom/JD candidate interested in Affirm’s Senior Manager, Security Incident Response opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Fleet Operations Associate (Day Shift) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Senior Manager, Security Incident Response opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -14702,63 +14646,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 526. Lyft — Fleet Operations Associate (Overnight Shift)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8925493002?gh_jid=8925493002
-
-**Subject:** BCom/JD candidate interested in Lyft’s Fleet Operations Associate (Overnight Shift) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Fleet Operations Associate (Overnight Shift) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 527. Lyft — Fleet Operations Associate (Swing Shift)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8925496002?gh_jid=8925496002
-
-**Subject:** BCom/JD candidate interested in Lyft’s Fleet Operations Associate (Swing Shift) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Fleet Operations Associate (Swing Shift) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 528. Airbnb — Campaign Manager, Mexico
+## 524. Airbnb — Campaign Manager, Mexico
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14786,7 +14674,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 529. Airbnb — Market Manager
+## 525. Airbnb — Market Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14814,7 +14702,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 530. Airbnb — Senior Manager, Community Policy
+## 526. Airbnb — Senior Manager, Community Policy
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -14827,6 +14715,118 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Senior Manager, Community Policy opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 527. Lyft — Fleet Operations Associate
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8925465002?gh_jid=8925465002
+
+**Subject:** BCom/JD candidate interested in Lyft’s Fleet Operations Associate opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Fleet Operations Associate opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 528. Lyft — Fleet Operations Associate (Day Shift)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8925486002?gh_jid=8925486002
+
+**Subject:** BCom/JD candidate interested in Lyft’s Fleet Operations Associate (Day Shift) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Fleet Operations Associate (Day Shift) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 529. Lyft — Fleet Operations Associate (Overnight Shift)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8925493002?gh_jid=8925493002
+
+**Subject:** BCom/JD candidate interested in Lyft’s Fleet Operations Associate (Overnight Shift) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Fleet Operations Associate (Overnight Shift) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 530. Lyft — Fleet Operations Associate (Swing Shift)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8925496002?gh_jid=8925496002
+
+**Subject:** BCom/JD candidate interested in Lyft’s Fleet Operations Associate (Swing Shift) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Fleet Operations Associate (Swing Shift) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -15402,35 +15402,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 551. Pinterest — Senior Lead Client Partner, Beauty
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8324804
-
-**Subject:** BCom/JD candidate interested in Pinterest’s Senior Lead Client Partner, Beauty opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Lead Client Partner, Beauty opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 552. DoorDash — Associate Manager, Marketing Product Operations, CRM Automation
+## 551. DoorDash — Associate Manager, Marketing Product Operations, CRM Automation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -15458,7 +15430,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 553. DoorDash — Industry Manager, New Verticals
+## 552. DoorDash — Industry Manager, New Verticals
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -15486,7 +15458,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 554. DoorDash — Senior Director, Global Cyber Defense
+## 553. DoorDash — Senior Director, Global Cyber Defense
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -15514,7 +15486,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 555. DoorDash — Senior Security Engineer, Proactive Security - Platform
+## 554. DoorDash — Senior Security Engineer, Proactive Security - Platform
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -15542,7 +15514,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 556. Gotion — Indirect Supply Chain Specialist
+## 555. Pinterest — Senior Lead Client Partner, Beauty
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8324804
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Senior Lead Client Partner, Beauty opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Lead Client Partner, Beauty opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 556. Okta — Staff Client Platform Engineer
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8332521?gh_jid=8332521
+
+**Subject:** BCom/JD candidate interested in Okta’s Staff Client Platform Engineer opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Staff Client Platform Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 557. Gotion — Indirect Supply Chain Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -15570,7 +15598,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 557. Gotion — MES Engineer
+## 558. Gotion — MES Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -15598,7 +15626,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 558. Gotion — Supply Chain Specialist
+## 559. Gotion — Supply Chain Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -15626,7 +15654,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 559. Datadog — Immigration and Mobility Program Lead
+## 560. Datadog — Immigration and Mobility Program Lead
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -15654,7 +15682,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 560. Datadog — Senior Field Marketing Manager - Public Sector, Federal & Defense
+## 561. Datadog — Senior Field Marketing Manager - Public Sector, Federal & Defense
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -15667,34 +15695,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Senior Field Marketing Manager - Public Sector, Federal & Defense opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 561. Okta — Staff Client Platform Engineer
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8332521?gh_jid=8332521
-
-**Subject:** BCom/JD candidate interested in Okta’s Staff Client Platform Engineer opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Staff Client Platform Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -15962,35 +15962,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 571. Stripe — Staff Product Manager, Risk
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8331852
-
-**Subject:** BCom/JD candidate interested in Stripe’s Staff Product Manager, Risk opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Staff Product Manager, Risk opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 572. Lyft — Internal Communications Senior Manager
+## 571. Lyft — Internal Communications Senior Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -16018,7 +15990,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 573. Lyft — Senior Payroll Accountant
+## 572. Lyft — Senior Payroll Accountant
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -16046,23 +16018,23 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 574. Pinterest — Sr. UX Engineer
+## 573. Stripe — Staff Product Manager, Risk
 
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8015362
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8331852
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Sr. UX Engineer opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Staff Product Manager, Risk opportunity
 
 Dear [Name],
 
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
 
-I’m reaching out about the Sr. UX Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Staff Product Manager, Risk opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
 
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
 
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -16074,35 +16046,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 575. Flow Traders — Senior Software Engineer - Post-Trade Platform
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Flow Traders Careers — https://job-boards.greenhouse.io/flowtraders/jobs/8327098
-
-**Subject:** BCom/JD candidate interested in Flow Traders’s Senior Software Engineer - Post-Trade Platform opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Software Engineer - Post-Trade Platform opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 576. DoorDash — Senior Associate, Operational Intelligence, Labs
+## 574. DoorDash — Senior Associate, Operational Intelligence, Labs
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -16130,7 +16074,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 577. DoorDash — UTM Engineer - DoorDash Air
+## 575. DoorDash — UTM Engineer - DoorDash Air
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -16143,6 +16087,62 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the UTM Engineer - DoorDash Air opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 576. Pinterest — Sr. UX Engineer
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8015362
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Sr. UX Engineer opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sr. UX Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 577. Flow Traders — Senior Software Engineer - Post-Trade Platform
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Flow Traders Careers — https://job-boards.greenhouse.io/flowtraders/jobs/8327098
+
+**Subject:** BCom/JD candidate interested in Flow Traders’s Senior Software Engineer - Post-Trade Platform opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Software Engineer - Post-Trade Platform opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -18514,7 +18514,7 @@ linkedin.com/in/katherine-du1
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8303963?gh_jid=8303963
+**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8303967?gh_jid=8303967
 
 **Subject:** BCom/JD candidate interested in Airbnb’s Manager, Key Accounts - Hotels opportunity
 
@@ -19098,35 +19098,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 683. Pinterest — Lead Client Partner (tvScientific)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8129668
-
-**Subject:** BCom/JD candidate interested in Pinterest’s Lead Client Partner (tvScientific) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Lead Client Partner (tvScientific) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 684. DoorDash — Associate Manager, New Verticals - Retail Selection Intelligence
+## 683. DoorDash — Associate Manager, New Verticals - Retail Selection Intelligence
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19154,7 +19126,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 685. The Trade Desk — Lead Associate Account Director
+## 684. Pinterest — Lead Client Partner (tvScientific)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8129668
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Lead Client Partner (tvScientific) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Lead Client Partner (tvScientific) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 685. Okta — Senior People Consultant
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8303756?gh_jid=8303756
+
+**Subject:** BCom/JD candidate interested in Okta’s Senior People Consultant opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior People Consultant opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 686. The Trade Desk — Lead Associate Account Director
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19182,7 +19210,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 686. The Trade Desk — Senior Business Development Director
+## 687. The Trade Desk — Senior Business Development Director
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19210,7 +19238,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 687. The Trade Desk — Talent Acquisition Operations Manager
+## 688. The Trade Desk — Talent Acquisition Operations Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19238,7 +19266,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 688. Datadog — Learning Technology Specialist
+## 689. Datadog — Learning Technology Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19266,7 +19294,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 689. Datadog — Sales Development Representative - Summer 2027 Graduates (Boston)
+## 690. Datadog — Sales Development Representative - Summer 2027 Graduates (Boston)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19279,34 +19307,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Sales Development Representative - Summer 2027 Graduates (Boston) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 690. Okta — Senior People Consultant
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8303756?gh_jid=8303756
-
-**Subject:** BCom/JD candidate interested in Okta’s Senior People Consultant opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior People Consultant opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -19546,7 +19546,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 699. The Trade Desk — Senior Account Manager
+## 699. Okta — Federal Account Executive, FSI
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8289819?gh_jid=8289819
+
+**Subject:** BCom/JD candidate interested in Okta’s Federal Account Executive, FSI opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Federal Account Executive, FSI opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 700. The Trade Desk — Senior Account Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19574,7 +19602,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 700. Per Scholas — Director, Development — Metro DC Area
+## 701. Per Scholas — Director, Development — Metro DC Area
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19602,7 +19630,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 701. Datadog — GTM Strategy & Operations Senior Associate
+## 702. Datadog — GTM Strategy & Operations Senior Associate
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19630,7 +19658,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 702. Datadog — Senior Enablement Program Associate - Technical Solutions Enablement
+## 703. Datadog — Senior Enablement Program Associate - Technical Solutions Enablement
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -19643,34 +19671,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Senior Enablement Program Associate - Technical Solutions Enablement opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 703. Okta — Federal Account Executive, FSI
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8289819?gh_jid=8289819
-
-**Subject:** BCom/JD candidate interested in Okta’s Federal Account Executive, FSI opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Federal Account Executive, FSI opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -19882,19 +19882,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 711. Stripe — Indirect Tax (VAT/GST) Advisory Consultant
+## 711. Airbnb — Senior Communications Manager, Spanish-Speaking South America
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8282721
+**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8287849?gh_jid=8287849
 
-**Subject:** BCom/JD candidate interested in Stripe’s Indirect Tax (VAT/GST) Advisory Consultant opportunity
+**Subject:** BCom/JD candidate interested in Airbnb’s Senior Communications Manager, Spanish-Speaking South America opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Indirect Tax (VAT/GST) Advisory Consultant opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Senior Communications Manager, Spanish-Speaking South America opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -19910,19 +19910,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 712. Airbnb — Senior Communications Manager, Spanish-Speaking South America
+## 712. Stripe — Indirect Tax (VAT/GST) Advisory Consultant
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8287849?gh_jid=8287849
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8282721
 
-**Subject:** BCom/JD candidate interested in Airbnb’s Senior Communications Manager, Spanish-Speaking South America opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Indirect Tax (VAT/GST) Advisory Consultant opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Senior Communications Manager, Spanish-Speaking South America opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Indirect Tax (VAT/GST) Advisory Consultant opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -19994,19 +19994,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 715. The Trade Desk — Senior Director, Client Services
+## 715. Okta — Federal Sales Manager, Intelligence Community
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5267447007
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8289804?gh_jid=8289804
 
-**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Director, Client Services opportunity
+**Subject:** BCom/JD candidate interested in Okta’s Federal Sales Manager, Intelligence Community opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Senior Director, Client Services opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Federal Sales Manager, Intelligence Community opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -20022,19 +20022,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 716. Okta — Federal Sales Manager, Intelligence Community
+## 716. The Trade Desk — Senior Director, Client Services
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8289804?gh_jid=8289804
+**Source:** The Trade Desk Careers — https://job-boards.greenhouse.io/thetradedesk/jobs/5267447007
 
-**Subject:** BCom/JD candidate interested in Okta’s Federal Sales Manager, Intelligence Community opportunity
+**Subject:** BCom/JD candidate interested in The Trade Desk’s Senior Director, Client Services opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Federal Sales Manager, Intelligence Community opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Senior Director, Client Services opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -20414,19 +20414,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 730. Harvey — Head of Mid Market Sales, North America
+## 730. Veeva Systems — Associate Consultant - Entry-Level Clinical Data Technology Consulting
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Harvey Careers — https://jobs.ashbyhq.com/harvey/8eb10df5-5af8-4538-921a-da5299df21db
+**Source:** Veeva Systems Careers — https://jobs.lever.co/veeva/34e52048-35af-413c-a230-4f1957f175d3
 
-**Subject:** BCom/JD candidate interested in Harvey’s Head of Mid Market Sales, North America opportunity
+**Subject:** BCom/JD candidate interested in Veeva Systems’s Associate Consultant - Entry-Level Clinical Data Technology Consulting opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Head of Mid Market Sales, North America opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Associate Consultant - Entry-Level Clinical Data Technology Consulting opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -20442,19 +20442,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 731. Veeva Systems — Associate Consultant - Entry-Level Clinical Data Technology Consulting
+## 731. Harvey — Head of Mid Market Sales, North America
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Veeva Systems Careers — https://jobs.lever.co/veeva/34e52048-35af-413c-a230-4f1957f175d3
+**Source:** Harvey Careers — https://jobs.ashbyhq.com/harvey/8eb10df5-5af8-4538-921a-da5299df21db
 
-**Subject:** BCom/JD candidate interested in Veeva Systems’s Associate Consultant - Entry-Level Clinical Data Technology Consulting opportunity
+**Subject:** BCom/JD candidate interested in Harvey’s Head of Mid Market Sales, North America opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Associate Consultant - Entry-Level Clinical Data Technology Consulting opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Head of Mid Market Sales, North America opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -20638,19 +20638,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 738. Point72 — Data Sourcing & Strategy Operations Analyst
+## 738. MongoDB — Senior Manager, Procurement
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002
+**Source:** MongoDB Careers — https://www.mongodb.com/careers/job/?gh_jid=8224592
 
-**Subject:** BCom/JD candidate interested in Point72’s Data Sourcing & Strategy Operations Analyst opportunity
+**Subject:** BCom/JD candidate interested in MongoDB’s Senior Manager, Procurement opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Data Sourcing & Strategy Operations Analyst opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Senior Manager, Procurement opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -20666,19 +20666,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 739. MongoDB — Senior Manager, Procurement
+## 739. Point72 — Data Sourcing & Strategy Operations Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** MongoDB Careers — https://www.mongodb.com/careers/job/?gh_jid=8224592
+**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002
 
-**Subject:** BCom/JD candidate interested in MongoDB’s Senior Manager, Procurement opportunity
+**Subject:** BCom/JD candidate interested in Point72’s Data Sourcing & Strategy Operations Analyst opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Senior Manager, Procurement opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Data Sourcing & Strategy Operations Analyst opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -21086,7 +21086,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 754. Point72 — Lead Data Strategist
+## 754. Okta — Sr. Category Manager, Technology Sourcing
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8278594?gh_jid=8278594
+
+**Subject:** BCom/JD candidate interested in Okta’s Sr. Category Manager, Technology Sourcing opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sr. Category Manager, Technology Sourcing opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 755. Point72 — Lead Data Strategist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -21114,7 +21142,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 755. Gotion — Junior Equipment Engineer
+## 756. Gotion — Junior Equipment Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -21127,34 +21155,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Junior Equipment Engineer opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 756. Okta — Sr. Category Manager, Technology Sourcing
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8234036?gh_jid=8234036
-
-**Subject:** BCom/JD candidate interested in Okta’s Sr. Category Manager, Technology Sourcing opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Sr. Category Manager, Technology Sourcing opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -21954,35 +21954,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 785. Stripe — Account Executive, Product Sales - Open Issuance
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8190057
-
-**Subject:** BCom/JD candidate interested in Stripe’s Account Executive, Product Sales - Open Issuance opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Account Executive, Product Sales - Open Issuance opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 786. Lyft — Operations Associate - Flexdrive
+## 785. Lyft — Operations Associate - Flexdrive
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -22010,19 +21982,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 787. Pinterest — Solutions Engineer Intern 2027 (USA)
+## 786. Stripe — Account Executive, Product Sales - Open Issuance
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8214788
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8190057
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Solutions Engineer Intern 2027 (USA) opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Account Executive, Product Sales - Open Issuance opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Solutions Engineer Intern 2027 (USA) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Account Executive, Product Sales - Open Issuance opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -22038,63 +22010,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 788. Instacart — Director, AI Solutions Strategy & Planning
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8265982
-
-**Subject:** BCom/JD candidate interested in Instacart’s Director, AI Solutions Strategy & Planning opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Director, AI Solutions Strategy & Planning opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 789. Instacart — Director, AI Solutions Strategy & Planning
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8265981
-
-**Subject:** BCom/JD candidate interested in Instacart’s Director, AI Solutions Strategy & Planning opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Director, AI Solutions Strategy & Planning opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 790. DoorDash — Associate, Enterprise Partnerships
+## 787. DoorDash — Associate, Enterprise Partnerships
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -22122,19 +22038,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 791. Point72 — Vendor Due Diligence Specialist
+## 788. Pinterest — Solutions Engineer Intern 2027 (USA)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8875667002?gh_jid=8875667002
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8214788
 
-**Subject:** BCom/JD candidate interested in Point72’s Vendor Due Diligence Specialist opportunity
+**Subject:** BCom/JD candidate interested in Pinterest’s Solutions Engineer Intern 2027 (USA) opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Vendor Due Diligence Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Solutions Engineer Intern 2027 (USA) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -22150,7 +22066,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 792. MongoDB — Lead, Technical Services
+## 789. Instacart — Director, AI Solutions Strategy & Planning
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8265982
+
+**Subject:** BCom/JD candidate interested in Instacart’s Director, AI Solutions Strategy & Planning opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Director, AI Solutions Strategy & Planning opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 790. Instacart — Director, AI Solutions Strategy & Planning
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8265981
+
+**Subject:** BCom/JD candidate interested in Instacart’s Director, AI Solutions Strategy & Planning opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Director, AI Solutions Strategy & Planning opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 791. MongoDB — Lead, Technical Services
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -22178,7 +22150,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 793. Per Scholas — Critical Infrastructure Expert Trainer
+## 792. Okta — Senior Product Manager, Okta for AI Agents
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918
+
+**Subject:** BCom/JD candidate interested in Okta’s Senior Product Manager, Okta for AI Agents opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Product Manager, Okta for AI Agents opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 793. Point72 — Vendor Due Diligence Specialist
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8875667002?gh_jid=8875667002
+
+**Subject:** BCom/JD candidate interested in Point72’s Vendor Due Diligence Specialist opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Vendor Due Diligence Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 794. Per Scholas — Critical Infrastructure Expert Trainer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -22206,7 +22234,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 794. Per Scholas — Low Voltage Professionals
+## 795. Per Scholas — Low Voltage Professionals
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -22234,7 +22262,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 795. Datadog — Product Solutions Architect - FinOps
+## 796. Datadog — Product Solutions Architect - FinOps
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -22247,34 +22275,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Product Solutions Architect - FinOps opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 796. Okta — Senior Product Manager, Okta for AI Agents
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918
-
-**Subject:** BCom/JD candidate interested in Okta’s Senior Product Manager, Okta for AI Agents opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Product Manager, Okta for AI Agents opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -22514,35 +22514,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 805. Stripe — Integration Engineer, Professional Services
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8203975
-
-**Subject:** BCom/JD candidate interested in Stripe’s Integration Engineer, Professional Services opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Integration Engineer, Professional Services opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 806. Airbnb — Principal, Strategic Finance & Analytics, Incubations
+## 805. Airbnb — Principal, Strategic Finance & Analytics, Incubations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -22570,23 +22542,23 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 807. Pinterest — Sr. Staff Product Manager, Data and Signals Connectivity
+## 806. Stripe — Integration Engineer, Professional Services
 
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8234540
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8203975
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Staff Product Manager, Data and Signals Connectivity opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Integration Engineer, Professional Services opportunity
 
 Dear [Name],
 
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
 
-I’m reaching out about the Sr. Staff Product Manager, Data and Signals Connectivity opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Integration Engineer, Professional Services opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
 
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
 
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -22598,35 +22570,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 808. Reddit — Engineering Manager, Knowledge Graph Platform
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Reddit Careers — https://job-boards.greenhouse.io/reddit/jobs/8256326
-
-**Subject:** BCom/JD candidate interested in Reddit’s Engineering Manager, Knowledge Graph Platform opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Engineering Manager, Knowledge Graph Platform opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 809. DoorDash — Associate, Emerging Retail Partnerships
+## 807. DoorDash — Associate, Emerging Retail Partnerships
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -22654,7 +22598,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 810. DoorDash — Regional Operations Manager - Drive (Parcel)
+## 808. DoorDash — Regional Operations Manager - Drive (Parcel)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -22667,6 +22611,62 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Regional Operations Manager - Drive (Parcel) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 809. Pinterest — Sr. Staff Product Manager, Data and Signals Connectivity
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8234540
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Staff Product Manager, Data and Signals Connectivity opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sr. Staff Product Manager, Data and Signals Connectivity opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 810. Reddit — Engineering Manager, Knowledge Graph Platform
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Reddit Careers — https://job-boards.greenhouse.io/reddit/jobs/8256326
+
+**Subject:** BCom/JD candidate interested in Reddit’s Engineering Manager, Knowledge Graph Platform opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Engineering Manager, Knowledge Graph Platform opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -22906,19 +22906,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 819. Stripe — Product Tax Specialist
+## 819. Airbnb — Engineering Manager, Payments
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8248088
+**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8259504?gh_jid=8259504
 
-**Subject:** BCom/JD candidate interested in Stripe’s Product Tax Specialist opportunity
+**Subject:** BCom/JD candidate interested in Airbnb’s Engineering Manager, Payments opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Product Tax Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Engineering Manager, Payments opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -22934,19 +22934,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 820. Stripe — Staff Product Manager, Ecosystem
+## 820. Airbnb — Quality Assurance & Standards Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8234705
+**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8259224?gh_jid=8259224
 
-**Subject:** BCom/JD candidate interested in Stripe’s Staff Product Manager, Ecosystem opportunity
+**Subject:** BCom/JD candidate interested in Airbnb’s Quality Assurance & Standards Manager opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Staff Product Manager, Ecosystem opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Quality Assurance & Standards Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -22990,19 +22990,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 822. Airbnb — Engineering Manager, Payments
+## 822. Stripe — Product Tax Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8259504?gh_jid=8259504
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8248088
 
-**Subject:** BCom/JD candidate interested in Airbnb’s Engineering Manager, Payments opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Product Tax Specialist opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Engineering Manager, Payments opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Product Tax Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -23018,19 +23018,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 823. Airbnb — Quality Assurance & Standards Manager
+## 823. Stripe — Staff Product Manager, Ecosystem
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Airbnb Careers — https://careers.airbnb.com/positions/8259224?gh_jid=8259224
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8234705
 
-**Subject:** BCom/JD candidate interested in Airbnb’s Quality Assurance & Standards Manager opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Staff Product Manager, Ecosystem opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Quality Assurance & Standards Manager opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Staff Product Manager, Ecosystem opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -23074,7 +23074,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 825. The Trade Desk — Associate Account Director
+## 825. Okta — Product Acceleration Specialist
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8258402?gh_jid=8258402
+
+**Subject:** BCom/JD candidate interested in Okta’s Product Acceleration Specialist opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Product Acceleration Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 826. The Trade Desk — Associate Account Director
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -23102,7 +23130,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 826. The Trade Desk — Director, People Advisory Partners
+## 827. The Trade Desk — Director, People Advisory Partners
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -23130,7 +23158,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 827. Datadog — Accounts Payable Analyst
+## 828. Datadog — Accounts Payable Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -23158,7 +23186,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 828. Datadog — Manager, Accounts Payable
+## 829. Datadog — Manager, Accounts Payable
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -23171,34 +23199,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Manager, Accounts Payable opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 829. Okta — Product Acceleration Specialist
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8258402?gh_jid=8258402
-
-**Subject:** BCom/JD candidate interested in Okta’s Product Acceleration Specialist opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Product Acceleration Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -23270,7 +23270,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 832. Harvey — Forward Deployed Finance Engineer, Private Credit
+## 832. Veeva Systems — Director / Senior Director - Ostro Strategy
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Veeva Systems Careers — https://jobs.lever.co/veeva/43f800b6-645c-48b9-a1bd-46f328115a70
+
+**Subject:** BCom/JD candidate interested in Veeva Systems’s Director / Senior Director - Ostro Strategy opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Director / Senior Director - Ostro Strategy opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 833. Harvey — Forward Deployed Finance Engineer, Private Credit
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -23298,7 +23326,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 833. Harvey — Forward Deployed Finance Engineer, Buyout
+## 834. Harvey — Forward Deployed Finance Engineer, Buyout
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -23326,7 +23354,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 834. Harvey — Forward Deployed Finance Engineer, Real Estate
+## 835. Harvey — Forward Deployed Finance Engineer, Real Estate
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -23354,7 +23382,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 835. Harvey — Senior Research Recruiter
+## 836. Harvey — Senior Research Recruiter
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -23382,7 +23410,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 836. Harvey — Sales Development Representative, ANZ
+## 837. Harvey — Sales Development Representative, ANZ
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -23395,34 +23423,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Sales Development Representative, ANZ opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 837. Veeva Systems — Director / Senior Director - Ostro Strategy
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Veeva Systems Careers — https://jobs.lever.co/veeva/43f800b6-645c-48b9-a1bd-46f328115a70
-
-**Subject:** BCom/JD candidate interested in Veeva Systems’s Director / Senior Director - Ostro Strategy opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Director / Senior Director - Ostro Strategy opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -23886,19 +23886,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 854. Instacart — Commercial Counsel
+## 854. DoorDash — Senior Associate, International Sales Strategy & Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8250361
+**Source:** DoorDash Careers — https://job-boards.greenhouse.io/doordashusa/jobs/8249964
 
-**Subject:** BCom/JD candidate interested in Instacart’s Commercial Counsel opportunity
+**Subject:** BCom/JD candidate interested in DoorDash’s Senior Associate, International Sales Strategy & Operations opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Commercial Counsel opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Senior Associate, International Sales Strategy & Operations opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -23914,19 +23914,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 855. DoorDash — Senior Associate, International Sales Strategy & Operations
+## 855. Instacart — Commercial Counsel
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** DoorDash Careers — https://job-boards.greenhouse.io/doordashusa/jobs/8249964
+**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8250361
 
-**Subject:** BCom/JD candidate interested in DoorDash’s Senior Associate, International Sales Strategy & Operations opportunity
+**Subject:** BCom/JD candidate interested in Instacart’s Commercial Counsel opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Senior Associate, International Sales Strategy & Operations opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Commercial Counsel opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -24642,7 +24642,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 881. The Trade Desk — Collections Analyst
+## 881. Okta — Senior Director, Global Partner Marketing
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8220791?gh_jid=8220791
+
+**Subject:** BCom/JD candidate interested in Okta’s Senior Director, Global Partner Marketing opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Director, Global Partner Marketing opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 882. The Trade Desk — Collections Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -24670,7 +24698,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 882. Gotion — Inventory Accountant
+## 883. Gotion — Inventory Accountant
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -24698,7 +24726,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 883. Datadog — Content Optimization Specialist
+## 884. Datadog — Content Optimization Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -24711,34 +24739,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Content Optimization Specialist opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 884. Okta — Senior Director, Global Partner Marketing
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8220791?gh_jid=8220791
-
-**Subject:** BCom/JD candidate interested in Okta’s Senior Director, Global Partner Marketing opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Director, Global Partner Marketing opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -24922,35 +24922,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 891. Stripe — Equity and Reporting Accounting
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8240148
-
-**Subject:** BCom/JD candidate interested in Stripe’s Equity and Reporting Accounting opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Equity and Reporting Accounting opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 892. Airbnb — Global Initiatives Curator
+## 891. Airbnb — Global Initiatives Curator
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -24978,7 +24950,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 893. Airbnb — Senior Program Operations Manager
+## 892. Airbnb — Senior Program Operations Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -25006,19 +24978,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 894. Instacart — Government Affairs Manager II, Midwest and Central Region
+## 893. Stripe — Equity and Reporting Accounting
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8244707
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8240148
 
-**Subject:** BCom/JD candidate interested in Instacart’s Government Affairs Manager II, Midwest and Central Region opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Equity and Reporting Accounting opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Government Affairs Manager II, Midwest and Central Region opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Equity and Reporting Accounting opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -25034,7 +25006,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 895. DoorDash — Associate Manager Product Operations, Autonomy Commercialization - DoorDash Dot
+## 894. DoorDash — Associate Manager Product Operations, Autonomy Commercialization - DoorDash Dot
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -25062,7 +25034,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 896. DoorDash — UAS Operations Specialist, Labs
+## 895. DoorDash — UAS Operations Specialist, Labs
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -25075,6 +25047,34 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the UAS Operations Specialist, Labs opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 896. Instacart — Government Affairs Manager II, Midwest and Central Region
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8244707
+
+**Subject:** BCom/JD candidate interested in Instacart’s Government Affairs Manager II, Midwest and Central Region opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Government Affairs Manager II, Midwest and Central Region opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -25234,7 +25234,7 @@ linkedin.com/in/katherine-du1
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8010034003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8010037003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Senior Proposal Manager I opportunity
 
@@ -25262,7 +25262,7 @@ linkedin.com/in/katherine-du1
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8010038003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8010042003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Senior Proposal Manager II opportunity
 
@@ -26014,63 +26014,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 930. Stripe — Account Executive, Product - Issuing & Treasury (Grower)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8190044
-
-**Subject:** BCom/JD candidate interested in Stripe’s Account Executive, Product - Issuing & Treasury (Grower) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Account Executive, Product - Issuing & Treasury (Grower) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 931. Stripe — Account Executive, Product - Issuing & Treasury (Hunter)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8238098
-
-**Subject:** BCom/JD candidate interested in Stripe’s Account Executive, Product - Issuing & Treasury (Hunter) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Account Executive, Product - Issuing & Treasury (Hunter) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 932. Lyft — Applied Scientist Intern, PhD (Summer 2027)
+## 930. Lyft — Applied Scientist Intern, PhD (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -26098,7 +26042,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 933. Lyft — Industrialization Engineer Intern (Summer 2027)
+## 931. Lyft — Industrialization Engineer Intern (Summer 2027)
 
 **Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
 
@@ -26126,19 +26070,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 934. Pinterest — Manager II, Engineering- Analytics Engineering, Core Data Science
+## 932. Stripe — Account Executive, Product - Issuing & Treasury (Grower)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8015360
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8190044
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Manager II, Engineering- Analytics Engineering, Core Data Science opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Account Executive, Product - Issuing & Treasury (Grower) opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Manager II, Engineering- Analytics Engineering, Core Data Science opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Account Executive, Product - Issuing & Treasury (Grower) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -26154,19 +26098,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 935. Pinterest — Staff Product Manager, Retail Media & Audiences
+## 933. Stripe — Account Executive, Product - Issuing & Treasury (Hunter)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8209814
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8238098
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Staff Product Manager, Retail Media & Audiences opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Account Executive, Product - Issuing & Treasury (Hunter) opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Staff Product Manager, Retail Media & Audiences opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Account Executive, Product - Issuing & Treasury (Hunter) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -26182,35 +26126,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 936. Pinterest — Staff Software, Engineering – Analytics Engineering, Core Data Science
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8015346
-
-**Subject:** BCom/JD candidate interested in Pinterest’s Staff Software, Engineering – Analytics Engineering, Core Data Science opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Staff Software, Engineering – Analytics Engineering, Core Data Science opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 937. DoorDash — Senior Product Manager, People Product
+## 934. DoorDash — Senior Product Manager, People Product
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -26238,7 +26154,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 938. DoorDash — Senior Technical Recruiter - Labs Robotics
+## 935. DoorDash — Senior Technical Recruiter - Labs Robotics
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -26251,6 +26167,90 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Senior Technical Recruiter - Labs Robotics opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 936. Pinterest — Manager II, Engineering- Analytics Engineering, Core Data Science
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8015360
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Manager II, Engineering- Analytics Engineering, Core Data Science opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Manager II, Engineering- Analytics Engineering, Core Data Science opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 937. Pinterest — Staff Product Manager, Retail Media & Audiences
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8209814
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Staff Product Manager, Retail Media & Audiences opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Staff Product Manager, Retail Media & Audiences opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 938. Pinterest — Staff Software, Engineering – Analytics Engineering, Core Data Science
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8015346
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Staff Software, Engineering – Analytics Engineering, Core Data Science opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Staff Software, Engineering – Analytics Engineering, Core Data Science opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -26658,35 +26658,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 953. Instacart — Legislative Counsel
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8234578
-
-**Subject:** BCom/JD candidate interested in Instacart’s Legislative Counsel opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Legislative Counsel opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 954. DoorDash — Machine Learning Intern (PhD) - Summer 2027
+## 953. DoorDash — Machine Learning Intern (PhD) - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -26714,19 +26686,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 955. Datadog — People Business Partner
+## 954. Instacart — Legislative Counsel
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8234190/?gh_jid=8234190
+**Source:** Instacart Careers — https://instacart.careers/job/?gh_jid=8234578
 
-**Subject:** BCom/JD candidate interested in Datadog’s People Business Partner opportunity
+**Subject:** BCom/JD candidate interested in Instacart’s Legislative Counsel opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the People Business Partner opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Legislative Counsel opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -26742,7 +26714,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 956. Okta — Staff Product Analyst, Finance Technologies (Source to Pay)
+## 955. Okta — Staff Product Analyst, Finance Technologies (Source to Pay)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -26755,6 +26727,34 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Staff Product Analyst, Finance Technologies (Source to Pay) opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 956. Datadog — People Business Partner
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8234190/?gh_jid=8234190
+
+**Subject:** BCom/JD candidate interested in Datadog’s People Business Partner opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the People Business Partner opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -27274,35 +27274,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 975. Stripe — Commercial Credit Operations Manager
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8213951
-
-**Subject:** BCom/JD candidate interested in Stripe’s Commercial Credit Operations Manager opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Commercial Credit Operations Manager opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 976. Lyft — VP, People
+## 975. Lyft — VP, People
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -27330,23 +27302,23 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 977. Pinterest — Sr. Technical Program Manager, Ads Delivery Infrastructure
+## 976. Stripe — Commercial Credit Operations Manager
 
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8208419
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8213951
 
-**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Technical Program Manager, Ads Delivery Infrastructure opportunity
+**Subject:** BCom/JD candidate interested in Stripe’s Commercial Credit Operations Manager opportunity
 
 Dear [Name],
 
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
 
-I’m reaching out about the Sr. Technical Program Manager, Ads Delivery Infrastructure opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Commercial Credit Operations Manager opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
 
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
 
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
 
 Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
 
@@ -27358,35 +27330,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 978. Pinterest — Staff Technical Program Manager, Data Engineering
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8209014
-
-**Subject:** BCom/JD candidate interested in Pinterest’s Staff Technical Program Manager, Data Engineering opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Staff Technical Program Manager, Data Engineering opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 979. DoorDash — Machine Learning Intern (Masters) - Summer 2027
+## 977. DoorDash — Machine Learning Intern (Masters) - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -27414,7 +27358,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 980. DoorDash — Manager, Sales Strategy & Operations
+## 978. DoorDash — Manager, Sales Strategy & Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -27442,7 +27386,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 981. DoorDash — Senior Counsel, Competition & Litigation
+## 979. DoorDash — Senior Counsel, Competition & Litigation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -27470,7 +27414,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 982. DoorDash — Sr. Associate, Dasher & Logistics - Regional Operations (Parcel) Strategy & Operations
+## 980. DoorDash — Sr. Associate, Dasher & Logistics - Regional Operations (Parcel) Strategy & Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -27498,7 +27442,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 983. DoorDash — Strategic Account Manager
+## 981. DoorDash — Strategic Account Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -27526,7 +27470,91 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 984. The Trade Desk — General Manager, Revenue Operations
+## 982. Pinterest — Sr. Technical Program Manager, Ads Delivery Infrastructure
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8208419
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Sr. Technical Program Manager, Ads Delivery Infrastructure opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Sr. Technical Program Manager, Ads Delivery Infrastructure opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 983. Pinterest — Staff Technical Program Manager, Data Engineering
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Pinterest Careers — https://www.pinterestcareers.com/jobs/?gh_jid=8209014
+
+**Subject:** BCom/JD candidate interested in Pinterest’s Staff Technical Program Manager, Data Engineering opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Staff Technical Program Manager, Data Engineering opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 984. Okta — Senior Systems Engineer, Productivity Engineering
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8193328?gh_jid=8193328
+
+**Subject:** BCom/JD candidate interested in Okta’s Senior Systems Engineer, Productivity Engineering opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
+
+I’m reaching out about the Senior Systems Engineer, Productivity Engineering opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+
+The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 985. The Trade Desk — General Manager, Revenue Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -27554,7 +27582,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 985. Datadog — Senior Product Manager - Feature Flagging
+## 986. Datadog — Senior Product Manager - Feature Flagging
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -27582,7 +27610,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 986. Datadog — Senior Sponsorship Sales Manager - Global Conferences
+## 987. Datadog — Senior Sponsorship Sales Manager - Global Conferences
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -27595,34 +27623,6 @@ Dear [Name],
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
 I’m reaching out about the Senior Sponsorship Sales Manager - Global Conferences opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 987. Okta — Senior Systems Engineer, Productivity Engineering
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Okta Careers — https://www.okta.com/company/careers/opportunity/8193328?gh_jid=8193328
-
-**Subject:** BCom/JD candidate interested in Okta’s Senior Systems Engineer, Productivity Engineering opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Systems Engineer, Productivity Engineering opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -27666,19 +27666,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 989. Harvey — Senior Solutions Architect
+## 989. Veeva Systems — Customer Success Associate - RTSM
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Harvey Careers — https://jobs.ashbyhq.com/harvey/523ecfb5-63ed-4ca6-801e-bad3ab441e76
+**Source:** Veeva Systems Careers — https://jobs.lever.co/veeva/c7b81fa6-01f2-418f-b57b-561aa007516e
 
-**Subject:** BCom/JD candidate interested in Harvey’s Senior Solutions Architect opportunity
+**Subject:** BCom/JD candidate interested in Veeva Systems’s Customer Success Associate - RTSM opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Senior Solutions Architect opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Customer Success Associate - RTSM opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -27694,19 +27694,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 990. Veeva Systems — Customer Success Associate - RTSM
+## 990. Harvey — Senior Solutions Architect
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Veeva Systems Careers — https://jobs.lever.co/veeva/c7b81fa6-01f2-418f-b57b-561aa007516e
+**Source:** Harvey Careers — https://jobs.ashbyhq.com/harvey/523ecfb5-63ed-4ca6-801e-bad3ab441e76
 
-**Subject:** BCom/JD candidate interested in Veeva Systems’s Customer Success Associate - RTSM opportunity
+**Subject:** BCom/JD candidate interested in Harvey’s Senior Solutions Architect opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
 
-I’m reaching out about the Customer Success Associate - RTSM opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
+I’m reaching out about the Senior Solutions Architect opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
 
 The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
 
@@ -27778,287 +27778,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 993. Robinhood — Overnight Customer Experience Representative, Active Trader
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Robinhood Careers — https://boards.greenhouse.io/robinhood/jobs/8224751?t=gh_src=&gh_jid=8224751
-
-**Subject:** BCom/JD candidate interested in Robinhood’s Overnight Customer Experience Representative, Active Trader opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Overnight Customer Experience Representative, Active Trader opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 994. Robinhood — Overnight Customer Experience Representative, Advanced Services
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Robinhood Careers — https://boards.greenhouse.io/robinhood/jobs/8224813?t=gh_src=&gh_jid=8224813
-
-**Subject:** BCom/JD candidate interested in Robinhood’s Overnight Customer Experience Representative, Advanced Services opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Overnight Customer Experience Representative, Advanced Services opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 995. Stripe — Implementation Consultant, Professional Services
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8203977
-
-**Subject:** BCom/JD candidate interested in Stripe’s Implementation Consultant, Professional Services opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Implementation Consultant, Professional Services opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 996. Stripe — Product Manager - Payments Experience, Bridge
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8223723
-
-**Subject:** BCom/JD candidate interested in Stripe’s Product Manager - Payments Experience, Bridge opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Product Manager - Payments Experience, Bridge opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 997. Stripe — Sales Strategy and Operations, Mergers and Acquisitions
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8212667
-
-**Subject:** BCom/JD candidate interested in Stripe’s Sales Strategy and Operations, Mergers and Acquisitions opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Sales Strategy and Operations, Mergers and Acquisitions opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 998. DoorDash — Engineering Manager, Parcel
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** DoorDash Careers — https://job-boards.greenhouse.io/doordashusa/jobs/8221803
-
-**Subject:** BCom/JD candidate interested in DoorDash’s Engineering Manager, Parcel opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Engineering Manager, Parcel opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 999. Datadog — Principal Copywriter, Brand Editorial
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8196977/?gh_jid=8196977
-
-**Subject:** BCom/JD candidate interested in Datadog’s Principal Copywriter, Brand Editorial opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Principal Copywriter, Brand Editorial opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1000. Datadog — Senior Design Manager - Design Systems
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Datadog Careers — https://careers.datadoghq.com/detail/8223855/?gh_jid=8223855
-
-**Subject:** BCom/JD candidate interested in Datadog’s Senior Design Manager - Design Systems opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Senior Design Manager - Design Systems opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1001. Harvey — Engineering Manager, Product
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Harvey Careers — https://jobs.ashbyhq.com/harvey/e59f9b06-f863-446e-9022-61034004b69a
-
-**Subject:** BCom/JD candidate interested in Harvey’s Engineering Manager, Product opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Engineering Manager, Product opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1002. OpenAI — Research Program Manager, Frontier Assurance
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** OpenAI Careers — https://jobs.ashbyhq.com/openai/356c5dca-472d-458e-826e-51d923e93eaa
-
-**Subject:** BCom/JD candidate interested in OpenAI’s Research Program Manager, Frontier Assurance opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information in accordance with privacy and compliance procedures.
-
-I’m reaching out about the Research Program Manager, Frontier Assurance opportunity. I was especially drawn to it because the role connects legal research, contract work, documentation, and practical business operations.
-
-The combination of legal analysis, process discipline, and business-facing communication is exactly the kind of work I hope to develop. I am particularly interested in strengthening my capabilities in Legal research, Contracts, and Documentation.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1003. House of Commons of Canada — House of Commons Student Employment Program
+## 993. House of Commons of Canada — House of Commons Student Employment Program
 
 **Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
 
@@ -28086,7 +27806,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1004. Fasken Martineau DuMoulin LLP — Fasken Law Student Programs
+## 994. Fasken Martineau DuMoulin LLP — Fasken Law Student Programs
 
 **Eligibility note:** Future law-student recruiting cycle — This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.
 
@@ -28114,7 +27834,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1005. Gowling WLG (Canada) LLP — Gowling WLG Canada Student Programs
+## 995. Gowling WLG (Canada) LLP — Gowling WLG Canada Student Programs
 
 **Eligibility note:** Future law-student recruiting cycle — This is an official law-student recruiting program page rather than a confirmed opening for Katherine’s current academic stage. Use it to monitor office-specific 1L/2L, summer, and articling timelines and confirm when the relevant application window opens.
 
@@ -28142,7 +27862,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1006. Bosch — Foreign Trade Data Analytics Intern
+## 996. Bosch — Foreign Trade Data Analytics Intern
 
 **Eligibility note:** Check U.S. authorization and class year — Review the official posting for term, program, and work-authorization requirements.
 
@@ -28170,7 +27890,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1007. Cloudflare — Global Trade Compliance Intern
+## 997. Cloudflare — Global Trade Compliance Intern
 
 **Eligibility note:** Check U.S. authorization and class year — Review the official posting for export-control eligibility, class year, and U.S. work authorization.
 
@@ -28198,7 +27918,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1008. Interac — AI Product Delivery Intern
+## 998. Interac — AI Product Delivery Intern
 
 **Eligibility note:** Check program requirements — Review the official posting for program, term, and Canadian work-authorization requirements.
 
@@ -28226,7 +27946,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1009. Maple Leaf Sports & Entertainment — Business Strategy & Analytics Intern
+## 999. Maple Leaf Sports & Entertainment — Business Strategy & Analytics Intern
 
 **Eligibility note:** Check co-op eligibility — Confirm academic term and co-op eligibility on the official posting.
 
@@ -28254,7 +27974,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1010. Government of British Columbia — BC Public Service Co-op Employment Program
+## 1000. Government of British Columbia — BC Public Service Co-op Employment Program
 
 **Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
 
@@ -28282,7 +28002,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1011. State Street — State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
+## 1001. State Street — State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28310,7 +28030,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1012. SharkNinja — Summer 2027: ESG Strategy Intern (May to August)
+## 1002. SharkNinja — Summer 2027: ESG Strategy Intern (May to August)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28338,7 +28058,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1013. Stripe — GTM Recruiter, OpenRouter (Fixed Term)
+## 1003. Stripe — GTM Recruiter, OpenRouter (Fixed Term)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28366,7 +28086,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1014. Stripe — Technical Recruiter, OpenRouter (Fixed Term)
+## 1004. Stripe — Technical Recruiter, OpenRouter (Fixed Term)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28394,7 +28114,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1015. Reddit — Manager, Creative Strategy
+## 1005. Reddit — Manager, Creative Strategy
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28422,7 +28142,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1016. Reddit — Principal Engineer, Security
+## 1006. Reddit — Principal Engineer, Security
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28450,7 +28170,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1017. Reddit — Staff Product Manager, Agentic Ads Buying
+## 1007. Reddit — Staff Product Manager, Agentic Ads Buying
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28478,7 +28198,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1018. Rocket Lab — Radar RF Design Engineer I
+## 1008. Rocket Lab — Radar RF Design Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -28506,7 +28226,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1019. Rocket Lab — Senior Global Supply Manager I
+## 1009. Rocket Lab — Senior Global Supply Manager I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28534,7 +28254,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1020. Rocket Lab — Senior Systems Engineer I
+## 1010. Rocket Lab — Senior Systems Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28562,7 +28282,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1021. Coinbase — Senior Product Creative Designer
+## 1011. Coinbase — Senior Product Creative Designer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28590,7 +28310,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1022. Reddit — Lead Partnerships & Insights Manager
+## 1012. Reddit — Lead Partnerships & Insights Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28618,7 +28338,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1023. Reddit — Senior Client Account Manager, Mid-Market (Goods - Shopping)
+## 1013. Reddit — Senior Client Account Manager, Mid-Market (Goods - Shopping)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28646,7 +28366,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1024. MongoDB — Recruiting Operations Manager
+## 1014. MongoDB — Recruiting Operations Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28674,7 +28394,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1025. Rocket Lab — Senior LN Development and Integration Lead
+## 1015. Rocket Lab — Senior LN Development and Integration Lead
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28702,7 +28422,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1026. Rocket Lab — Senior PCB Layout Engineer I
+## 1016. Rocket Lab — Senior PCB Layout Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -28730,7 +28450,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1027. Watershed — Sales Operations Lead
+## 1017. Watershed — Sales Operations Lead
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28758,7 +28478,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1028. Etched — Inventory Warehouse Coordinator
+## 1018. Etched — Inventory Warehouse Coordinator
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28786,63 +28506,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1029. Stripe — Engineering Manager, Security
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8383464
-
-**Subject:** BCom/JD candidate interested in Stripe’s Engineering Manager, Security opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Engineering Manager, Security opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1030. Stripe — Payments Performance Strategist, Fraud
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8374754
-
-**Subject:** BCom/JD candidate interested in Stripe’s Payments Performance Strategist, Fraud opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Payments Performance Strategist, Fraud opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1031. Dropbox — Senior Oracle Functional Lead - Record to Report
+## 1019. Dropbox — Senior Oracle Functional Lead - Record to Report
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -28870,7 +28534,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1032. The Trade Desk — Systems Reliability Engineer
+## 1020. Stripe — Engineering Manager, Security
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8383464
+
+**Subject:** BCom/JD candidate interested in Stripe’s Engineering Manager, Security opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Engineering Manager, Security opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1021. Stripe — Payments Performance Strategist, Fraud
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8374754
+
+**Subject:** BCom/JD candidate interested in Stripe’s Payments Performance Strategist, Fraud opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Payments Performance Strategist, Fraud opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1022. The Trade Desk — Systems Reliability Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28898,7 +28618,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1033. Rocket Lab — GSE Mechanical Technician III
+## 1023. Rocket Lab — GSE Mechanical Technician III
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28926,7 +28646,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1034. Rocket Lab — Lead Assembly Integration & Test Technician
+## 1024. Rocket Lab — Lead Assembly Integration & Test Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28954,7 +28674,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1035. Rocket Lab — Master IQC Inspector
+## 1025. Rocket Lab — Master IQC Inspector
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -28982,7 +28702,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1036. Rocket Lab — Senior IQC Inspector
+## 1026. Rocket Lab — Senior IQC Inspector
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29010,7 +28730,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1037. Rocket Lab — Senior Mechanical Technician
+## 1027. Rocket Lab — Senior Mechanical Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29038,7 +28758,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1038. Rocket Lab — Senior Test Engineer I
+## 1028. Rocket Lab — Senior Test Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29066,7 +28786,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1039. Palantir — Information Systems Security Engineer
+## 1029. Palantir — Information Systems Security Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29094,7 +28814,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1040. Robinhood — Platforms Risk and Control Specialist
+## 1030. Robinhood — Platforms Risk and Control Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29122,7 +28842,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1041. Reddit — Lead Client Partner, Large Customer Sales (Tech / AI)
+## 1031. Reddit — Lead Client Partner, Large Customer Sales (Tech / AI)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29150,7 +28870,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1042. Rocket Lab — Avionics Engineer II - Design
+## 1032. Rocket Lab — Avionics Engineer II - Design
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29178,7 +28898,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1043. Rocket Lab — Propulsion Assembly Technician III - B Shift
+## 1033. Rocket Lab — Propulsion Assembly Technician III - B Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29206,7 +28926,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1044. Rocket Lab — Quality Engineering Intern Spring 2027
+## 1034. Rocket Lab — Quality Engineering Intern Spring 2027
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -29234,7 +28954,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1045. Robinhood — Benefits Partner
+## 1035. Robinhood — Benefits Partner
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29262,7 +28982,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1046. Robinhood — Senior Client Platform Engineer
+## 1036. Robinhood — Senior Client Platform Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29290,7 +29010,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1047. Coinbase — Product Security Engineer, Offensive Security
+## 1037. Coinbase — Product Security Engineer, Offensive Security
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29318,7 +29038,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1048. Stripe — Engineering Manager, Collaboration Engineering
+## 1038. Stripe — Engineering Manager, Collaboration Engineering
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29346,7 +29066,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1049. MongoDB — Engineering Manager, Workload Resilience
+## 1039. MongoDB — Engineering Manager, Workload Resilience
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -29374,7 +29094,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1050. MongoDB — Engineering Manager, Workload Resilience
+## 1040. MongoDB — Engineering Manager, Workload Resilience
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29402,7 +29122,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1051. MongoDB — Manager, Sales Development
+## 1041. MongoDB — Manager, Sales Development
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -29430,7 +29150,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1052. Rocket Lab — Quality Inspector I
+## 1042. Rocket Lab — Quality Inspector I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29458,7 +29178,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1053. Robinhood — Corporate Finance Intern (Summer 2027)
+## 1043. Robinhood — Corporate Finance Intern (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29486,7 +29206,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1054. Perplexity — Growth GTM Engineer, Revenue Operations
+## 1044. Perplexity — Growth GTM Engineer, Revenue Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29514,7 +29234,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1055. Perplexity — Head of Pipeline Operations
+## 1045. Perplexity — Head of Pipeline Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29542,7 +29262,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1056. Robinhood — Accounts Receivable Operations Analyst
+## 1046. Robinhood — Accounts Receivable Operations Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29570,7 +29290,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1057. Robinhood — Asset Movement Operations Senior Specialist
+## 1047. Robinhood — Asset Movement Operations Senior Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29598,7 +29318,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1058. Reddit — Product Manager, AI Foundations
+## 1048. Reddit — Product Manager, AI Foundations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29626,7 +29346,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1059. Reddit — Product Manager, Ecosystem Relevance
+## 1049. Reddit — Product Manager, Ecosystem Relevance
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29654,7 +29374,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1060. MongoDB — Critical Situation Manager
+## 1050. MongoDB — Critical Situation Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29682,7 +29402,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1061. MongoDB — Manager, Client Platform Engineering
+## 1051. MongoDB — Manager, Client Platform Engineering
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29710,7 +29430,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1062. The Trade Desk — Senior Front-End Engineer - Front-End Fundamentals
+## 1052. The Trade Desk — Senior Front-End Engineer - Front-End Fundamentals
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29738,7 +29458,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1063. Perplexity — Lead Product Designer, Mobile (Native & Mobile)
+## 1053. Perplexity — Lead Product Designer, Mobile (Native & Mobile)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29766,7 +29486,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1064. Huron — Internal Audit and Risk Management - Data Analytics & AI (Summer 2027 Internship - Washington, D.C.)
+## 1054. Huron — Internal Audit and Risk Management - Data Analytics & AI (Summer 2027 Internship - Washington, D.C.)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29794,7 +29514,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1065. Stripe — Staff Product Manager, Foundation Pillar
+## 1055. Stripe — Staff Product Manager, Foundation Pillar
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29822,7 +29542,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1066. Reddit — Engineering Manager, Ranking Platform
+## 1056. Reddit — Engineering Manager, Ranking Platform
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29850,7 +29570,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1067. Perplexity — Member of Data Staff (Data Acceleration)
+## 1057. Perplexity — Member of Data Staff (Data Acceleration)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29878,7 +29598,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1068. Palantir — Software Engineer, Internship - Connectivity Platform and Product
+## 1058. Palantir — Software Engineer, Internship - Connectivity Platform and Product
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29906,7 +29626,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1069. Robinhood — Fraud and Disputes Vendor Management Specialist
+## 1059. Robinhood — Fraud and Disputes Vendor Management Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29934,7 +29654,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1070. Stripe — Machine Learning Engineer, Transaction Risk
+## 1060. Stripe — Machine Learning Engineer, Transaction Risk
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29962,7 +29682,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1071. Reddit — Client Account Manager, Large Customer Sales (Big Box Retail)
+## 1061. Reddit — Client Account Manager, Large Customer Sales (Big Box Retail)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -29990,7 +29710,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1072. Reddit — Senior Manager, Mid-Market Sales (Signature Goods)
+## 1062. Reddit — Senior Manager, Mid-Market Sales (Signature Goods)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30018,7 +29738,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1073. MongoDB — Pricing & Monetization Associate
+## 1063. MongoDB — Pricing & Monetization Associate
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30046,7 +29766,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1074. Rocket Lab — Senior Quality Inspector
+## 1064. Rocket Lab — Senior Quality Inspector
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30074,11 +29794,11 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1075. Rocket Lab — Senior Technical Writer I
+## 1065. Rocket Lab — Senior Technical Writer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8201123003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8201118003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Senior Technical Writer I opportunity
 
@@ -30102,7 +29822,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1076. Robinhood — Senior Product Manager, Paid Marketing
+## 1066. Robinhood — Senior Product Manager, Paid Marketing
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30130,35 +29850,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1077. Stripe — Program Manager, Brand Studio
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8283778
-
-**Subject:** BCom/JD candidate interested in Stripe’s Program Manager, Brand Studio opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Program Manager, Brand Studio opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1078. Airbnb — Supervisor, Premium Support
+## 1067. Airbnb — Supervisor, Premium Support
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -30186,7 +29878,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1079. Reddit — Senior SRE, Site Experience
+## 1068. Stripe — Program Manager, Brand Studio
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8283778
+
+**Subject:** BCom/JD candidate interested in Stripe’s Program Manager, Brand Studio opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Program Manager, Brand Studio opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1069. Reddit — Senior SRE, Site Experience
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30214,7 +29934,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1080. Reddit — Senior Staff SRE, Site Experience
+## 1070. Reddit — Senior Staff SRE, Site Experience
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30242,7 +29962,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1081. Rocket Lab — Talent Acquisition Advisor
+## 1071. Rocket Lab — Talent Acquisition Advisor
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30270,7 +29990,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1082. Rocket Lab — Test Technician III
+## 1072. Rocket Lab — Test Technician III
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30298,7 +30018,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1083. Rocket Lab — Principal Network Engineer
+## 1073. Rocket Lab — Principal Network Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30326,7 +30046,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1084. Reddit — Senior Client Partner, Mid-Market Sales (Goods)
+## 1074. Reddit — Senior Client Partner, Mid-Market Sales (Goods)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30354,7 +30074,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1085. Reddit — Senior Product Designer, Ads
+## 1075. Reddit — Senior Product Designer, Ads
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30382,7 +30102,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1086. Reddit — Senior Product Manager, Finance Technology (Procure-to-Pay & Record-to-Report)
+## 1076. Reddit — Senior Product Manager, Finance Technology (Procure-to-Pay & Record-to-Report)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30410,7 +30130,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1087. Point72 — 2027 MI Data Research & AI Intern - APAC
+## 1077. Point72 — 2027 MI Data Research & AI Intern - APAC
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30438,7 +30158,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1088. Point72 — 2027 Trader Intern (12-week program)
+## 1078. Point72 — 2027 Trader Intern (12-week program)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30466,7 +30186,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1089. Point72 — Corporate Access Intern
+## 1079. Point72 — Corporate Access Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30494,7 +30214,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1090. Point72 — Long/Short Equity Support Research Intern, Hong Kong
+## 1080. Point72 — Long/Short Equity Support Research Intern, Hong Kong
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30522,7 +30242,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1091. Rocket Lab — Accounts Payable Specialist
+## 1081. Rocket Lab — Accounts Payable Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30550,7 +30270,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1092. Rocket Lab — Equipment Maintenance Technician II
+## 1082. Rocket Lab — Equipment Maintenance Technician II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30578,7 +30298,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1093. Rocket Lab — Senior Equipment Maintenance Technician
+## 1083. Rocket Lab — Senior Equipment Maintenance Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30606,7 +30326,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1094. Rocket Lab — Senior Inventory Coordinator I
+## 1084. Rocket Lab — Senior Inventory Coordinator I
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -30634,7 +30354,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1095. Watershed — Product support specialist
+## 1085. Watershed — Product support specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30662,7 +30382,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1096. Robinhood — Registration and Onboarding Specialist
+## 1086. Robinhood — Registration and Onboarding Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30690,7 +30410,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1097. Coinbase — Product Manager II, Payment Experiences
+## 1087. Coinbase — Product Manager II, Payment Experiences
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30718,7 +30438,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1098. Rocket Lab — Propulsion Assembly Technician III - A Shift
+## 1088. Rocket Lab — Propulsion Assembly Technician III - A Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30746,7 +30466,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1099. Watershed — Implementation lead
+## 1089. Watershed — Implementation lead
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30774,7 +30494,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1100. Connor, Clark & Lunn Financial Group — Senior Analyst, Software Development and Support
+## 1090. Connor, Clark & Lunn Financial Group — Senior Analyst, Software Development and Support
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -30802,7 +30522,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1101. Robinhood — Staff Visual Designer, Product Creative
+## 1091. Robinhood — Staff Visual Designer, Product Creative
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30830,7 +30550,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1102. Coinbase — Prime Financing Trading Analyst
+## 1092. Coinbase — Prime Financing Trading Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30858,7 +30578,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1103. Flow Traders — Executive Assistant to the Chief Executive Officer
+## 1093. Flow Traders — Executive Assistant to the Chief Executive Officer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30886,7 +30606,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1104. Rocket Lab — Mechanical Development & Test Engineer II
+## 1094. Rocket Lab — Mechanical Development & Test Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30914,7 +30634,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1105. Rocket Lab — Senior Information System Security Officer I
+## 1095. Rocket Lab — Senior Information System Security Officer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30942,7 +30662,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1106. Rocket Lab — Sourcing Specialist II
+## 1096. Rocket Lab — Sourcing Specialist II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -30970,7 +30690,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1107. Rocket Lab — Technical Project Manager - Ground Systems
+## 1097. Rocket Lab — Technical Project Manager - Ground Systems
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -30998,7 +30718,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1108. Perplexity — Content Designer
+## 1098. Perplexity — Content Designer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31026,7 +30746,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1109. Coinbase — Head of Creative Operations
+## 1099. Coinbase — Head of Creative Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31054,35 +30774,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1110. Point72 — Corporate Access Analyst
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8921982002?gh_jid=8921982002
-
-**Subject:** BCom/JD candidate interested in Point72’s Corporate Access Analyst opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Corporate Access Analyst opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1111. MongoDB — Staff Engineer, Atlas Agent Engine
+## 1100. MongoDB — Staff Engineer, Atlas Agent Engine
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -31110,7 +30802,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1112. Rocket Lab — Director, RF Payloads
+## 1101. Point72 — Corporate Access Analyst
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8921982002?gh_jid=8921982002
+
+**Subject:** BCom/JD candidate interested in Point72’s Corporate Access Analyst opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Corporate Access Analyst opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1102. Rocket Lab — Director, RF Payloads
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -31138,7 +30858,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1113. Rocket Lab — Lead, Test & Launch Operations Engineer - Vehicle
+## 1103. Rocket Lab — Lead, Test & Launch Operations Engineer - Vehicle
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31166,7 +30886,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1114. Rocket Lab — Lead, Test & Launch Operations Engineer – Avionics
+## 1104. Rocket Lab — Lead, Test & Launch Operations Engineer – Avionics
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31194,7 +30914,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1115. Rocket Lab — Senior Financial Analyst I
+## 1105. Rocket Lab — Senior Financial Analyst I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31222,7 +30942,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1116. Rocket Lab — Senior RF Radar Engineer I
+## 1106. Rocket Lab — Senior RF Radar Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -31250,7 +30970,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1117. Rocket Lab — Software Technical Project Manager - Secret Clearance
+## 1107. Rocket Lab — Software Technical Project Manager - Secret Clearance
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -31278,7 +30998,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1118. Rocket Lab — Structural Analysis Engineer II
+## 1108. Rocket Lab — Structural Analysis Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -31306,7 +31026,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1119. Rocket Lab — Test and Launch Engineer II - Vehicle
+## 1109. Rocket Lab — Test and Launch Engineer II - Vehicle
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31334,7 +31054,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1120. Palantir — Talent Program and Events Strategist
+## 1110. Palantir — Talent Program and Events Strategist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31362,7 +31082,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1121. Robinhood — Senior AI Operations Engineer, Enterprise Tech
+## 1111. Robinhood — Senior AI Operations Engineer, Enterprise Tech
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31390,7 +31110,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1122. Reddit — Senior Staff Applied Scientist, Science Platform
+## 1112. Reddit — Senior Staff Applied Scientist, Science Platform
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31418,7 +31138,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1123. Rocket Lab — Lead, Test & Launch Operations Engineer - Launch Pad
+## 1113. Rocket Lab — Lead, Test & Launch Operations Engineer - Launch Pad
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31446,7 +31166,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1124. Rocket Lab — Senior RF Radar Engineer II
+## 1114. Rocket Lab — Senior RF Radar Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -31474,7 +31194,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1125. Palantir — Sales Finance Operations Analyst
+## 1115. Palantir — Sales Finance Operations Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31502,7 +31222,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1126. Tevora — Cybersecurity Internship Summer 2027 - Enterprise Risk Management
+## 1116. Tevora — Cybersecurity Internship Summer 2027 - Enterprise Risk Management
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31530,7 +31250,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1127. Palantir — Finance Operator
+## 1117. Palantir — Finance Operator
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31558,7 +31278,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1128. Airbnb — Delivery Excellence Manager
+## 1118. Airbnb — Delivery Excellence Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31586,7 +31306,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1129. Reddit — Staff Program Manager, Human & LLM Data Annotation Operations
+## 1119. Reddit — Staff Program Manager, Human & LLM Data Annotation Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31614,7 +31334,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1130. Instacart — Program Manager, Escalation Management
+## 1120. Instacart — Program Manager, Escalation Management
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31642,7 +31362,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1131. Flow Traders — Senior Data Platform Engineer
+## 1121. Flow Traders — Senior Data Platform Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31670,7 +31390,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1132. Point72 — Fundamental Researcher, Mi-Canvas International
+## 1122. Point72 — Fundamental Researcher, Mi-Canvas International
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31698,7 +31418,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1133. Rocket Lab — GSE Mechanical Technician II
+## 1123. Rocket Lab — GSE Mechanical Technician II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31726,7 +31446,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1134. Rocket Lab — Senior Cybersecurity Engineer II -Secret Clearance
+## 1124. Rocket Lab — Senior Cybersecurity Engineer II -Secret Clearance
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -31754,7 +31474,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1135. Rocket Lab — Senior Cybersecurity Engineer I -Secret Clearance
+## 1125. Rocket Lab — Senior Cybersecurity Engineer I -Secret Clearance
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -31782,7 +31502,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1136. Rocket Lab — Senior IT Network Engineer II
+## 1126. Rocket Lab — Senior IT Network Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31810,7 +31530,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1137. Rocket Lab — Test Technician III - C Shift
+## 1127. Rocket Lab — Test Technician III - C Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31838,7 +31558,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1138. Rocket Lab — Finance Manager - Manufacturing & Supply Chain
+## 1128. Rocket Lab — Finance Manager - Manufacturing & Supply Chain
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31866,7 +31586,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1139. Rocket Lab — Senior System Administrator I
+## 1129. Rocket Lab — Senior System Administrator I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31894,7 +31614,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1140. Rocket Lab — Senior Systems Safety Engineer I
+## 1130. Rocket Lab — Senior Systems Safety Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -31922,7 +31642,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1141. Rocket Lab — Senior Systems Safety Engineer II
+## 1131. Rocket Lab — Senior Systems Safety Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -31950,7 +31670,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1142. Coinbase — Senior Enterprise Product Manager, FP&A
+## 1132. Coinbase — Senior Enterprise Product Manager, FP&A
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -31978,35 +31698,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1143. Stripe — Technical Account Manager, Crypto
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8329116
-
-**Subject:** BCom/JD candidate interested in Stripe’s Technical Account Manager, Crypto opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Technical Account Manager, Crypto opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1144. MongoDB — Senior Industry Consultant, Healthcare
+## 1133. MongoDB — Senior Industry Consultant, Healthcare
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -32034,7 +31726,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1145. Rocket Lab — Radar Systems Engineer I
+## 1134. Rocket Lab — Radar Systems Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -32062,7 +31754,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1146. Rocket Lab — RF Phased Array Engineer I
+## 1135. Rocket Lab — RF Phased Array Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32090,7 +31782,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1147. Rocket Lab — RF Phased Array Engineer II
+## 1136. Rocket Lab — RF Phased Array Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32118,7 +31810,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1148. Rocket Lab — Senior HITL Technician
+## 1137. Rocket Lab — Senior HITL Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32146,7 +31838,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1149. Rocket Lab — Senior Program Manager II - Laser Communications
+## 1138. Rocket Lab — Senior Program Manager II - Laser Communications
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32174,7 +31866,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1150. Rocket Lab — Senior Program Manager I - Laser Communications
+## 1139. Rocket Lab — Senior Program Manager I - Laser Communications
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32202,7 +31894,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1151. Rocket Lab — Senior RF Digital Payload Engineer II Pipeline
+## 1140. Rocket Lab — Senior RF Digital Payload Engineer II Pipeline
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32230,7 +31922,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1152. Rocket Lab — Senior RF Digital Payload Engineer I Pipeline
+## 1141. Rocket Lab — Senior RF Digital Payload Engineer I Pipeline
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32258,7 +31950,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1153. Rocket Lab — Senior Spacecraft Propulsion Test Engineer I
+## 1142. Rocket Lab — Senior Spacecraft Propulsion Test Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32286,7 +31978,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1154. Rocket Lab — Senior Spacecraft Propulsion Test Engineer II
+## 1143. Rocket Lab — Senior Spacecraft Propulsion Test Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32314,7 +32006,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1155. Stripe — Global Head of Specialist Solutions Architecture, Revenue Suite
+## 1144. Stripe — Global Head of Specialist Solutions Architecture, Revenue Suite
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32342,7 +32034,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1156. Watershed — Customer success manager, enterprise
+## 1145. Watershed — Customer success manager, enterprise
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32370,7 +32062,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1157. Etched — Test Architect, Factory Acceleration
+## 1146. Etched — Test Architect, Factory Acceleration
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32398,7 +32090,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1158. Robinhood — Trading Specialist
+## 1147. Robinhood — Trading Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32426,7 +32118,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1159. Stripe — Android Engineer, Identity
+## 1148. Stripe — Android Engineer, Identity
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32454,7 +32146,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1160. Stripe — iOS Engineer, Identity
+## 1149. Stripe — iOS Engineer, Identity
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32482,7 +32174,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1161. Stripe — Technical Operations Engineer
+## 1150. Stripe — Technical Operations Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32510,7 +32202,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1162. Reddit — Revenue Strategy & Operations Partner
+## 1151. Reddit — Revenue Strategy & Operations Partner
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32538,7 +32230,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1163. Reddit — Senior Director of Design, Search & Feeds
+## 1152. Reddit — Senior Director of Design, Search & Feeds
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32566,7 +32258,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1164. Coinbase — Staff Design Researcher
+## 1153. Coinbase — Staff Design Researcher
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32594,7 +32286,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1165. Reddit — Lead Product Adoption Strategist, SMB
+## 1154. Reddit — Lead Product Adoption Strategist, SMB
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32622,7 +32314,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1166. Reddit — Creative Strategist (M&E/Retail)
+## 1155. Reddit — Creative Strategist (M&E/Retail)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32650,7 +32342,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1167. MongoDB — Inside Account Executive
+## 1156. MongoDB — Inside Account Executive
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -32678,7 +32370,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1168. Rocket Lab — Lead, Planning & Fulfillment
+## 1157. Rocket Lab — Lead, Planning & Fulfillment
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -32706,119 +32398,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1169. Stripe — Engineering Manager, Sandboxes
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8301946
-
-**Subject:** BCom/JD candidate interested in Stripe’s Engineering Manager, Sandboxes opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Engineering Manager, Sandboxes opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1170. Stripe — Head of Product Sales, Payouts
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8204649
-
-**Subject:** BCom/JD candidate interested in Stripe’s Head of Product Sales, Payouts opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Head of Product Sales, Payouts opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1171. Stripe — Product Designer, Risk
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8304725
-
-**Subject:** BCom/JD candidate interested in Stripe’s Product Designer, Risk opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Product Designer, Risk opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1172. Stripe — Product Manager, Radar
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8301646
-
-**Subject:** BCom/JD candidate interested in Stripe’s Product Manager, Radar opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Product Manager, Radar opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1173. Airbnb — Product Manager, LATAM (Mexico City, Mexico)
+## 1158. Airbnb — Product Manager, LATAM (Mexico City, Mexico)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32846,7 +32426,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1174. Airbnb — Product Manager, LATAM (São Paulo, Brazil)
+## 1159. Airbnb — Product Manager, LATAM (São Paulo, Brazil)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32874,7 +32454,119 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1175. Rocket Lab — Team Lead - Electron Vehicle Development
+## 1160. Stripe — Engineering Manager, Sandboxes
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8301946
+
+**Subject:** BCom/JD candidate interested in Stripe’s Engineering Manager, Sandboxes opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Engineering Manager, Sandboxes opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1161. Stripe — Head of Product Sales, Payouts
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8204649
+
+**Subject:** BCom/JD candidate interested in Stripe’s Head of Product Sales, Payouts opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Head of Product Sales, Payouts opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1162. Stripe — Product Designer, Risk
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8304725
+
+**Subject:** BCom/JD candidate interested in Stripe’s Product Designer, Risk opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Product Designer, Risk opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1163. Stripe — Product Manager, Radar
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8301646
+
+**Subject:** BCom/JD candidate interested in Stripe’s Product Manager, Radar opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Product Manager, Radar opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1164. Rocket Lab — Team Lead - Electron Vehicle Development
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32902,7 +32594,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1176. Connor, Clark & Lunn Financial Group — Analyst, Business Process Engineering, Investment Data Architecture
+## 1165. Connor, Clark & Lunn Financial Group — Analyst, Business Process Engineering, Investment Data Architecture
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -32930,7 +32622,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1177. Flow Traders — Property & Facilities Manager (Part-Time)
+## 1166. Flow Traders — Property & Facilities Manager (Part-Time)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32958,7 +32650,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1178. Rocket Lab — Lead Inventory Coordinator
+## 1167. Rocket Lab — Lead Inventory Coordinator
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -32986,7 +32678,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1179. Reddit — Lead Forward Deployed Engineer (AI Enablement)
+## 1168. Reddit — Lead Forward Deployed Engineer (AI Enablement)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33014,7 +32706,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1180. Reddit — Senior Forward Deployed Engineer (AI Enablement)
+## 1169. Reddit — Senior Forward Deployed Engineer (AI Enablement)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33042,7 +32734,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1181. Point72 — 2028 Point72 Academy Investment Analyst Summer Internship Program - US
+## 1170. Point72 — 2028 Point72 Academy Investment Analyst Summer Internship Program - US
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33070,7 +32762,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1182. Perplexity — Global Treasury Manager, Investments & Risk
+## 1171. Perplexity — Global Treasury Manager, Investments & Risk
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33098,7 +32790,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1183. Airbnb — Senior Manager, Safety
+## 1172. Airbnb — Senior Manager, Safety
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33126,7 +32818,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1184. Flow Traders — AI Engineering Manager
+## 1173. Flow Traders — AI Engineering Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33154,7 +32846,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1185. Watershed — IT Engineer
+## 1174. Watershed — IT Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33182,7 +32874,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1186. Stripe — Engineering Manager, Self Serve Direct Onboarding
+## 1175. Stripe — Engineering Manager, Self Serve Direct Onboarding
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33210,7 +32902,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1187. The Trade Desk — Associate Growth Solutions Director
+## 1176. The Trade Desk — Associate Growth Solutions Director
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33238,7 +32930,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1188. Rocket Lab — Master HVAC Technician
+## 1177. Rocket Lab — Master HVAC Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33266,7 +32958,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1189. Rocket Lab — Senior Electrical Engineer I - Marine Operations
+## 1178. Rocket Lab — Senior Electrical Engineer I - Marine Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33294,7 +32986,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1190. Rocket Lab — Team Lead - Thermofluids Analysis
+## 1179. Rocket Lab — Team Lead - Thermofluids Analysis
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33322,7 +33014,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1191. Coinbase — Senior Product Designer, Platform
+## 1180. Coinbase — Senior Product Designer, Platform
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33350,7 +33042,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1192. Reddit — Analytics Engineer
+## 1181. Reddit — Analytics Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33378,7 +33070,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1193. Reddit — Senior Machine Learning Systems Engineer, ML Platform
+## 1182. Reddit — Senior Machine Learning Systems Engineer, ML Platform
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33406,7 +33098,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1194. Reddit — Technical Solutions Manager, App Ads
+## 1183. Reddit — Technical Solutions Manager, App Ads
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33434,7 +33126,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1195. Point72 — 2027 Summer Internship - Fundamental Researcher, Canvas
+## 1184. Point72 — 2027 Summer Internship - Fundamental Researcher, Canvas
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33462,7 +33154,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1196. Point72 — 2027 Summer Internship - Sector Analyst, Proprietary Research
+## 1185. Point72 — 2027 Summer Internship - Sector Analyst, Proprietary Research
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33490,7 +33182,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1197. Rocket Lab — Principal Integration & Test Engineer
+## 1186. Rocket Lab — Principal Integration & Test Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33518,7 +33210,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1198. Rocket Lab — Senior Integration and Test Engineer II
+## 1187. Rocket Lab — Senior Integration and Test Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33546,7 +33238,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1199. Connor, Clark & Lunn Financial Group — Manager, Enterprise Data Solutions
+## 1188. Connor, Clark & Lunn Financial Group — Manager, Enterprise Data Solutions
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -33574,7 +33266,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1200. Instacart — Senior Manager, CPG Customer Success
+## 1189. Instacart — Senior Manager, CPG Customer Success
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33602,7 +33294,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1201. Flow Traders — Digital Assets Trader
+## 1190. Flow Traders — Digital Assets Trader
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33630,7 +33322,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1202. Palantir — Deployment Strategist - US Government
+## 1191. Palantir — Deployment Strategist - US Government
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33658,7 +33350,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1203. Bosch — Information Security and Privacy Intern
+## 1192. Bosch — Information Security and Privacy Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33686,7 +33378,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1204. Reddit — Staff Android Engineer, Android Platform
+## 1193. Reddit — Staff Android Engineer, Android Platform
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33714,7 +33406,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1205. Flow Traders — HR Operations and Data Analytics Specialist
+## 1194. Flow Traders — HR Operations and Data Analytics Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33742,7 +33434,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1206. Point72 — Data Research Fellowship
+## 1195. Point72 — Data Research Fellowship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33770,7 +33462,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1207. Watershed — Customer data specialist, MX (fixed-term)
+## 1196. Watershed — Customer data specialist, MX (fixed-term)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33798,7 +33490,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1208. Rocket Lab — Reaction Wheel Assembly Technician
+## 1197. Rocket Lab — Reaction Wheel Assembly Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33826,7 +33518,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1209. Coinbase — Forward Deployed Engineer Intern (HR Technology)
+## 1198. Coinbase — Forward Deployed Engineer Intern (HR Technology)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33854,7 +33546,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1210. Stripe — Marketing Operations Manager, AMER Events
+## 1199. Stripe — Marketing Operations Manager, AMER Events
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -33882,7 +33574,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1211. Flow Traders — PhD Graduate Quantitative Researcher
+## 1200. Flow Traders — PhD Graduate Quantitative Researcher
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33910,35 +33602,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1212. Point72 — Systems Analyst, Workday Payroll
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8872002002?gh_jid=8872002002
-
-**Subject:** BCom/JD candidate interested in Point72’s Systems Analyst, Workday Payroll opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Systems Analyst, Workday Payroll opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1213. MongoDB — Associate Technical Services Engineer
+## 1201. MongoDB — Associate Technical Services Engineer
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -33966,7 +33630,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1214. Rocket Lab — GNC Engineer I
+## 1202. Point72 — Systems Analyst, Workday Payroll
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8872002002?gh_jid=8872002002
+
+**Subject:** BCom/JD candidate interested in Point72’s Systems Analyst, Workday Payroll opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Systems Analyst, Workday Payroll opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
+
+I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1203. Rocket Lab — GNC Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -33994,7 +33686,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1215. Palantir — Operations Analyst - US Government Security
+## 1204. Palantir — Operations Analyst - US Government Security
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34022,7 +33714,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1216. Etched — General Ledger Accountant - Close
+## 1205. Etched — General Ledger Accountant - Close
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34050,7 +33742,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1217. Etched — Capital Projects - Electrical Infrastructure Engineer
+## 1206. Etched — Capital Projects - Electrical Infrastructure Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34078,7 +33770,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1218. Robinhood — Internal Audit Senior Manager, Crypto
+## 1207. Robinhood — Internal Audit Senior Manager, Crypto
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34106,7 +33798,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1219. Rocket Lab — Junior Radio Frequency Engineer - Test
+## 1208. Rocket Lab — Junior Radio Frequency Engineer - Test
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34134,7 +33826,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1220. Rocket Lab — Principal Combustion Devices Engineer
+## 1209. Rocket Lab — Principal Combustion Devices Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34162,7 +33854,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1221. Robinhood — Senior Physical Security Operations Manager
+## 1210. Robinhood — Senior Physical Security Operations Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34190,7 +33882,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1222. Flow Traders — Summer Trading Internship
+## 1211. Flow Traders — Summer Trading Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34218,7 +33910,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1223. Point72 — Macro And Alternatives Trade Support Analyst
+## 1212. Point72 — Macro And Alternatives Trade Support Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34246,7 +33938,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1224. Point72 — Surveillance Associate, Japanese Language Position
+## 1213. Point72 — Surveillance Associate, Japanese Language Position
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34274,7 +33966,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1225. Point72 — Technical Business Analyst
+## 1214. Point72 — Technical Business Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34302,7 +33994,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1226. Rocket Lab — Senior Integration & Test Engineer I
+## 1215. Rocket Lab — Senior Integration & Test Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34330,7 +34022,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1227. Rocket Lab — Supplier Quality Engineer (I, II, Senior I, Senior II) - Mechanical
+## 1216. Rocket Lab — Supplier Quality Engineer (I, II, Senior I, Senior II) - Mechanical
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34358,7 +34050,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1228. Palantir — Data Engineer - Talent Acquisition Operations
+## 1217. Palantir — Data Engineer - Talent Acquisition Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34386,7 +34078,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1229. Stripe — Fraud Architect
+## 1218. Stripe — Fraud Architect
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34414,7 +34106,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1230. Stripe — Global Industry Lead, Healthcare
+## 1219. Stripe — Global Industry Lead, Healthcare
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34442,7 +34134,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1231. Stripe — Partner Marketing Leader, Alliances & Channel
+## 1220. Stripe — Partner Marketing Leader, Alliances & Channel
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34470,7 +34162,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1232. Stripe — Product Manager, Disputes
+## 1221. Stripe — Product Manager, Disputes
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34498,7 +34190,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1233. MongoDB — Senior Project Manager - Professional Services
+## 1222. MongoDB — Senior Project Manager - Professional Services
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -34526,7 +34218,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1234. Watershed — Customer data specialist, US (fixed-term)
+## 1223. Watershed — Customer data specialist, US (fixed-term)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34554,7 +34246,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1235. Stripe — SaaS Platform and AI Partner Marketing Lead
+## 1224. Stripe — SaaS Platform and AI Partner Marketing Lead
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34582,7 +34274,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1236. Reddit — Chief of Staff, Global Sales
+## 1225. Reddit — Chief of Staff, Global Sales
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34610,7 +34302,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1237. Reddit — Strategic Finance Senior Manager
+## 1226. Reddit — Strategic Finance Senior Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34638,7 +34330,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1238. The Trade Desk — Associate Trading Director
+## 1227. The Trade Desk — Associate Trading Director
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34666,7 +34358,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1239. Reddit — Senior Product Manager, Notifications
+## 1228. Reddit — Senior Product Manager, Notifications
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34694,7 +34386,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1240. Rocket Lab — Construction Project Director
+## 1229. Rocket Lab — Construction Project Director
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34722,7 +34414,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1241. Robinhood — Brokerage Operations Specialist
+## 1230. Robinhood — Brokerage Operations Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34750,7 +34442,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1242. Rocket Lab — Flight Analysis Engineer I/II
+## 1231. Rocket Lab — Flight Analysis Engineer I/II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34778,7 +34470,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1243. Watershed — Customer operations
+## 1232. Watershed — Customer operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34806,7 +34498,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1244. Rocket Lab — Senior Combustion Devices Engineer II
+## 1233. Rocket Lab — Senior Combustion Devices Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34834,11 +34526,11 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1245. Rocket Lab — Senior IT Support Analyst I
+## 1234. Rocket Lab — Senior IT Support Analyst I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8004788003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8003909003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Senior IT Support Analyst I opportunity
 
@@ -34862,7 +34554,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1246. Rocket Lab — Senior Technical Trainer
+## 1235. Rocket Lab — Senior Technical Trainer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34890,7 +34582,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1247. Rocket Lab — Spacecraft Structural Engineer I
+## 1236. Rocket Lab — Spacecraft Structural Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -34918,7 +34610,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1248. Rocket Lab — Test Operations Mechanical Technician II/III
+## 1237. Rocket Lab — Test Operations Mechanical Technician II/III
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34946,7 +34638,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1249. Robinhood — Internal Audit Senior Associate
+## 1238. Robinhood — Internal Audit Senior Associate
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -34974,7 +34666,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1250. Stripe — Partner Marketing Manager, Online & Regional Events
+## 1239. Stripe — Partner Marketing Manager, Online & Regional Events
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35002,7 +34694,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1251. Replit — Engineering Manager, Cloud Infrastructure
+## 1240. Replit — Engineering Manager, Cloud Infrastructure
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35030,7 +34722,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1252. Stripe — Integration Engineer, Professional Services
+## 1241. Stripe — Integration Engineer, Professional Services
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35058,7 +34750,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1253. Stripe — Staff Product Manager, Agentic Commerce
+## 1242. Stripe — Staff Product Manager, Agentic Commerce
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35086,7 +34778,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1254. Point72 — Macro Analyst, Market Intelligence, Europe
+## 1243. Point72 — Macro Analyst, Market Intelligence, Europe
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35114,7 +34806,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1255. Point72 — Macro Analyst, Market Intelligence, US
+## 1244. Point72 — Macro Analyst, Market Intelligence, US
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35142,7 +34834,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1256. Palantir — Security Systems Engineer
+## 1245. Palantir — Security Systems Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35170,63 +34862,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1257. Robinhood — Overnight Customer Experience Representative, Concierge
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Robinhood Careers — https://boards.greenhouse.io/robinhood/jobs/8224805?t=gh_src=&gh_jid=8224805
-
-**Subject:** BCom/JD candidate interested in Robinhood’s Overnight Customer Experience Representative, Concierge opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Overnight Customer Experience Representative, Concierge opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1258. Point72 — Equity Financing Trader, Asia Pacific
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Point72 Careers — https://boards.greenhouse.io/point72/jobs/8780028002?gh_jid=8780028002
-
-**Subject:** BCom/JD candidate interested in Point72’s Equity Financing Trader, Asia Pacific opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I work in a regulated environment, support more than 50 clients per shift, and handle confidential information under privacy and compliance procedures. My technical toolkit includes Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Equity Financing Trader, Asia Pacific opportunity. I was especially drawn to it because the work sits at the intersection of regulation, risk, governance, data, and commercial execution.
-
-I would bring a compliance-minded client-service perspective, careful handling of sensitive information, and an interest in how controls support sound business decisions. I am particularly interested in strengthening my capabilities in Compliance, Governance, and Risk.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1259. CIBC — Data Analyst Co-op
+## 1246. CIBC — Data Analyst Co-op
 
 **Eligibility note:** Check co-op enrollment — Confirm co-op program registration and work-term availability.
 
@@ -35254,7 +34890,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1260. HARMAN International — Supply Chain ESG & Compliance Analyst Intern
+## 1247. HARMAN International — Supply Chain ESG & Compliance Analyst Intern
 
 **Eligibility note:** Check U.S. authorization and class year — Review the official posting for term, education, and work-authorization details.
 
@@ -35282,7 +34918,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1261. Stellantis — Business Analytics Co-op — Aftersales, Sales & Marketing
+## 1248. Stellantis — Business Analytics Co-op — Aftersales, Sales & Marketing
 
 **Eligibility note:** Check co-op eligibility — Confirm co-op enrollment, term dates, and Canadian work authorization.
 
@@ -35310,7 +34946,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1262. CPP Investments — Director, Public & Alternative Investments, Data Platforms
+## 1249. CPP Investments — Director, Public & Alternative Investments, Data Platforms
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -35338,7 +34974,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1263. Stripe — Integration Reliability Engineer, Payments
+## 1250. Stripe — Integration Reliability Engineer, Payments
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -35366,7 +35002,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1264. Rocket Lab — Flight Dynamics Engineer II
+## 1251. Rocket Lab — Flight Dynamics Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -35394,11 +35030,11 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1265. Rocket Lab — Principal Software Security Engineer
+## 1252. Rocket Lab — Principal Software Security Engineer
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8213446003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8202734003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Principal Software Security Engineer opportunity
 
@@ -35422,7 +35058,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1266. Rocket Lab — Production Planner II
+## 1253. Rocket Lab — Production Planner II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35450,7 +35086,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1267. Rocket Lab — Senior Flight Dynamics Engineer I
+## 1254. Rocket Lab — Senior Flight Dynamics Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -35478,7 +35114,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1268. MongoDB — 2027 - AI and People Transformation Intern, NYC
+## 1255. MongoDB — 2027 - AI and People Transformation Intern, NYC
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35506,7 +35142,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1269. MongoDB — 2027 - Tax Intern, New York City
+## 1256. MongoDB — 2027 - Tax Intern, New York City
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35534,7 +35170,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1270. Rocket Lab — Electric Propulsion Engineer II
+## 1257. Rocket Lab — Electric Propulsion Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -35562,7 +35198,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1271. Rocket Lab — Master CNC Machinist
+## 1258. Rocket Lab — Master CNC Machinist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35590,7 +35226,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1272. Rocket Lab — Senior CNC Machinist
+## 1259. Rocket Lab — Senior CNC Machinist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35618,7 +35254,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1273. Rocket Lab — Senior Systems Test Engineer I
+## 1260. Rocket Lab — Senior Systems Test Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -35646,7 +35282,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1274. Rocket Lab — Senior Talent Acquisition Partner I
+## 1261. Rocket Lab — Senior Talent Acquisition Partner I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35674,7 +35310,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1275. Rocket Lab — Senior Test Technician
+## 1262. Rocket Lab — Senior Test Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35702,7 +35338,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1276. Rocket Lab — Systems Test Engineer II
+## 1263. Rocket Lab — Systems Test Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -35730,7 +35366,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1277. Rocket Lab — Talent Acquisition Partner II
+## 1264. Rocket Lab — Talent Acquisition Partner II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35758,7 +35394,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1278. Rocket Lab — Total Rewards Intern Summer 2027
+## 1265. Rocket Lab — Total Rewards Intern Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35786,7 +35422,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1279. National Capital Commission — New Jobs.gc.ca Financial Advisor
+## 1266. National Capital Commission — New Jobs.gc.ca Financial Advisor
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -35814,7 +35450,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1280. Instacart — Insights Manager
+## 1267. Instacart — Insights Manager
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -35842,7 +35478,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1281. Instacart — Insights Manager
+## 1268. Instacart — Insights Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35870,7 +35506,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1282. Rocket Lab — Mission Manager
+## 1269. Rocket Lab — Mission Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35898,7 +35534,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1283. Rocket Lab — Senior Avionics Manufacturing Technician
+## 1270. Rocket Lab — Senior Avionics Manufacturing Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35926,7 +35562,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1284. Rocket Lab — Senior Manufacturing Engineer I
+## 1271. Rocket Lab — Senior Manufacturing Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35954,7 +35590,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1285. Rocket Lab — Senior Test Engineer I – Stage Fluids and Propulsion Components
+## 1272. Rocket Lab — Senior Test Engineer I – Stage Fluids and Propulsion Components
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -35982,7 +35618,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1286. Rocket Lab — Senior Welder Fabricator
+## 1273. Rocket Lab — Senior Welder Fabricator
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36010,7 +35646,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1287. Rocket Lab — Spacecraft GNC Engineer II
+## 1274. Rocket Lab — Spacecraft GNC Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -36038,7 +35674,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1288. Rocket Lab — Test Engineer II – Stage Fluids and Propulsion Components
+## 1275. Rocket Lab — Test Engineer II – Stage Fluids and Propulsion Components
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36066,7 +35702,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1289. Cégep de Lévis — New Student job Jobillico consultant, education
+## 1276. Cégep de Lévis — New Student job Jobillico consultant, education
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -36094,7 +35730,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1290. Stripe — Product Manager, Financial Connections
+## 1277. Stripe — Product Manager, Financial Connections
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -36122,7 +35758,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1291. Rocket Lab — Quality Inspector III
+## 1278. Rocket Lab — Quality Inspector III
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36150,7 +35786,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1292. Rocket Lab — Senior Stage Fluid Systems Engineer I
+## 1279. Rocket Lab — Senior Stage Fluid Systems Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36178,7 +35814,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1293. Rocket Lab — Senior Stage Fluid Systems Engineer II
+## 1280. Rocket Lab — Senior Stage Fluid Systems Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36206,7 +35842,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1294. Rocket Lab — Senior Test and Launch Operations Engineer I
+## 1281. Rocket Lab — Senior Test and Launch Operations Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36234,7 +35870,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1295. CPP Investments — Manager, Technology Risk Management, Information & Corporate Security (12 Month Contract)
+## 1282. CPP Investments — Manager, Technology Risk Management, Information & Corporate Security (12 Month Contract)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -36262,7 +35898,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1296. Stripe — Integration Reliability Engineer, Technical Operations
+## 1283. Stripe — Integration Reliability Engineer, Technical Operations
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -36290,7 +35926,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1297. Stripe — Product Integration Reliability Engineer, Money Management
+## 1284. Stripe — Product Integration Reliability Engineer, Money Management
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -36318,7 +35954,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1298. Instacart — Sales Engineer
+## 1285. Instacart — Sales Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36346,7 +35982,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1299. MongoDB — Principal Engagement Architect
+## 1286. MongoDB — Principal Engagement Architect
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36374,7 +36010,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1300. Rocket Lab — Head of Flight Dynamics
+## 1287. Rocket Lab — Head of Flight Dynamics
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -36402,7 +36038,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1301. Rocket Lab — Ops Support Technician I
+## 1288. Rocket Lab — Ops Support Technician I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36430,7 +36066,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1302. Rocket Lab — Ops Support Technician I-III
+## 1289. Rocket Lab — Ops Support Technician I-III
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36458,7 +36094,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1303. Rocket Lab — Orbital Tube Welder- (All Levels)
+## 1290. Rocket Lab — Orbital Tube Welder- (All Levels)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36486,7 +36122,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1304. Rocket Lab — Senior Thermofluids Analyst I
+## 1291. Rocket Lab — Senior Thermofluids Analyst I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36514,7 +36150,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1305. Rocket Lab — Senior Thermofluids Analyst II
+## 1292. Rocket Lab — Senior Thermofluids Analyst II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36542,7 +36178,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1306. Rocket Lab — Fluids Technician III - B Shift
+## 1293. Rocket Lab — Fluids Technician III - B Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36570,7 +36206,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1307. Rocket Lab — Senior Metrology Technician
+## 1294. Rocket Lab — Senior Metrology Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36598,7 +36234,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1308. Lennox Island Band — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank education director
+## 1295. Lennox Island Band — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank education director
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -36626,7 +36262,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1309. Instacart — Measurement Science Manager II
+## 1296. Instacart — Measurement Science Manager II
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -36654,7 +36290,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1310. Instacart — Senior Customer Success Associate
+## 1297. Instacart — Senior Customer Success Associate
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36682,7 +36318,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1311. MongoDB — Startup Acquisition Marketing Lead
+## 1298. MongoDB — Startup Acquisition Marketing Lead
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36710,7 +36346,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1312. Rocket Lab — CNC Operator - D Shift
+## 1299. Rocket Lab — CNC Operator - D Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36738,7 +36374,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1313. Rocket Lab — Precision Cleaning Technician II - C Shift
+## 1300. Rocket Lab — Precision Cleaning Technician II - C Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36766,7 +36402,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1314. Stripe — Credit Operations Analyst
+## 1301. Stripe — Credit Operations Analyst
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -36794,7 +36430,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1315. Rocket Lab — Test and Launch Operations Engineer I
+## 1302. Rocket Lab — Test and Launch Operations Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36822,7 +36458,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1316. Rocket Lab — Dynamics and Structures Analyst
+## 1303. Rocket Lab — Dynamics and Structures Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36850,7 +36486,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1317. Rocket Lab — Production Engineer II
+## 1304. Rocket Lab — Production Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36878,7 +36514,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1318. Desjardins — Analyst, Infrastructure and Energy Transition, Corporate Banking, Desjardins Capital Markets
+## 1305. Desjardins — Analyst, Infrastructure and Energy Transition, Corporate Banking, Desjardins Capital Markets
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -36906,7 +36542,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1319. Rocket Lab — Ground Support Engineer II
+## 1306. Rocket Lab — Ground Support Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36934,7 +36570,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1320. Rocket Lab — Manufacturing Engineer II - Propulsion
+## 1307. Rocket Lab — Manufacturing Engineer II - Propulsion
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36962,7 +36598,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1321. Rocket Lab — Manufacturing Engineer I - Propulsion
+## 1308. Rocket Lab — Manufacturing Engineer I - Propulsion
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -36990,7 +36626,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1322. Rocket Lab — Senior Ground Support Engineer I
+## 1309. Rocket Lab — Senior Ground Support Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37018,7 +36654,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1323. Rocket Lab — Senior Tool Design Engineer I
+## 1310. Rocket Lab — Senior Tool Design Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37046,7 +36682,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1324. Rocket Lab — Tool Design Engineer II
+## 1311. Rocket Lab — Tool Design Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37074,7 +36710,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1325. NBCUniversal — Government Affairs Internships – Summer 2027
+## 1312. NBCUniversal — Government Affairs Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37102,7 +36738,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1326. Stripe — Account Executive, SMB Grower (French speaking)
+## 1313. Stripe — Account Executive, SMB Grower (French speaking)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -37130,7 +36766,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1327. Rocket Lab — Ground Systems Engineer II - Structures & Mechanisms
+## 1314. Rocket Lab — Ground Systems Engineer II - Structures & Mechanisms
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37158,7 +36794,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1328. Rocket Lab — Senior Ground Systems Engineer - Structures & Mechanisms
+## 1315. Rocket Lab — Senior Ground Systems Engineer - Structures & Mechanisms
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37186,7 +36822,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1329. Rocket Lab — Senior Manufacturing Engineer I - Avionics & Test
+## 1316. Rocket Lab — Senior Manufacturing Engineer I - Avionics & Test
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37214,7 +36850,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1330. Rocket Lab — Senior Manufacturing Engineer II - Avionics & Test
+## 1317. Rocket Lab — Senior Manufacturing Engineer II - Avionics & Test
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37242,7 +36878,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1331. Stripe — Implementation Consultant
+## 1318. Stripe — Implementation Consultant
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -37270,7 +36906,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1332. Stripe — Product Design Intern
+## 1319. Stripe — Product Design Intern
 
 **Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
 
@@ -37298,7 +36934,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1333. Instacart — Principal Product Manager, Ads Quality
+## 1320. Instacart — Principal Product Manager, Ads Quality
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37326,7 +36962,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1334. Instacart — Principal Product Manager, Ads Quality
+## 1321. Instacart — Principal Product Manager, Ads Quality
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -37354,11 +36990,11 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1335. Rocket Lab — Business Development Engineer I
+## 1322. Rocket Lab — Business Development Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8196889003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8196886003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Business Development Engineer I opportunity
 
@@ -37382,11 +37018,11 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1336. Rocket Lab — Business Development Engineer II
+## 1323. Rocket Lab — Business Development Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8196882003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8046979003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Business Development Engineer II opportunity
 
@@ -37410,7 +37046,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1337. Rocket Lab — Senior FPGA Engineer II
+## 1324. Rocket Lab — Senior FPGA Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37438,7 +37074,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1338. Rocket Lab — Software Product Owner
+## 1325. Rocket Lab — Software Product Owner
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37466,7 +37102,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1339. CPP Investments — Associate, Cash, Collateral & Settlements Operations (12-month contract)
+## 1326. CPP Investments — Associate, Cash, Collateral & Settlements Operations (12-month contract)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -37494,7 +37130,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1340. Airbnb — Market Manager, Spain & Portugal
+## 1327. Airbnb — Market Manager, Spain & Portugal
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37522,7 +37158,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1341. Rocket Lab — Senior Vehicle Integration and Test Technician
+## 1328. Rocket Lab — Senior Vehicle Integration and Test Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37550,7 +37186,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1342. Rocket Lab — Ground Systems Engineer II - Fluids
+## 1329. Rocket Lab — Ground Systems Engineer II - Fluids
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37578,7 +37214,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1343. Rocket Lab — Senior Ground Systems Engineer – Fluids
+## 1330. Rocket Lab — Senior Ground Systems Engineer – Fluids
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37606,7 +37242,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1344. Rocket Lab — Senior Quality Technician
+## 1331. Rocket Lab — Senior Quality Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37634,7 +37270,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1345. Connor, Clark & Lunn Financial Group — Investment Database Analyst
+## 1332. Connor, Clark & Lunn Financial Group — Investment Database Analyst
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -37662,7 +37298,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1346. Connor, Clark & Lunn Financial Group — Receptionist
+## 1333. Connor, Clark & Lunn Financial Group — Receptionist
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -37690,7 +37326,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1347. Airbnb — AirCover Specialist, Claims Experience
+## 1334. Airbnb — AirCover Specialist, Claims Experience
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37718,7 +37354,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1348. Rocket Lab — Ground Systems Engineering Intern Spring 2027
+## 1335. Rocket Lab — Ground Systems Engineering Intern Spring 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37746,7 +37382,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1349. Rocket Lab — Senior IT Systems Engineer I
+## 1336. Rocket Lab — Senior IT Systems Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -37774,7 +37410,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1350. Rocket Lab — Senior PLM Business Analyst II - Teamcenter Development
+## 1337. Rocket Lab — Senior PLM Business Analyst II - Teamcenter Development
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -37802,7 +37438,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1351. Rocket Lab — Senior Production Planner
+## 1338. Rocket Lab — Senior Production Planner
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37830,7 +37466,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1352. Connor, Clark & Lunn Financial Group — Apprentice, IT Operations
+## 1339. Connor, Clark & Lunn Financial Group — Apprentice, IT Operations
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -37858,7 +37494,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1353. Replit — Head of Corporate Affairs
+## 1340. Replit — Head of Corporate Affairs
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37886,7 +37522,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1354. Rocket Lab — Electrical Technician III
+## 1341. Rocket Lab — Electrical Technician III
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37914,7 +37550,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1355. Rocket Lab — Principal Spacecraft GNC Engineer - Secret Clearance
+## 1342. Rocket Lab — Principal Spacecraft GNC Engineer - Secret Clearance
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -37942,35 +37578,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1356. Rocket Lab — Production Planner I
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8085934003
-
-**Subject:** BCom/JD candidate interested in Rocket Lab’s Production Planner I opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. My experience at RBC has strengthened my ability to translate rules and client needs into clear, practical action, while my English, French, and Mandarin skills help me communicate across audiences.
-
-I’m reaching out about the Production Planner I opportunity. I was especially drawn to it because the role translates public policy and regulatory developments into practical business and stakeholder decisions.
-
-My combined business-law studies, multilingual communication skills, and experience translating rules into practical client guidance would provide a useful foundation for this work. I am particularly interested in strengthening my capabilities in Policy research, Regulation, and Writing.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1357. Rocket Lab — Senior CNC Machinist - C Shift
+## 1343. Rocket Lab — Senior CNC Machinist - C Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -37998,7 +37606,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1358. Rocket Lab — Senior CNC Machinist - D Shift
+## 1344. Rocket Lab — Senior CNC Machinist - D Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38026,7 +37634,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1359. Rocket Lab — Senior Electrical Technician
+## 1345. Rocket Lab — Senior Electrical Technician
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38054,7 +37662,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1360. Rocket Lab — Senior Flight Dynamics Engineer II - Secret Clearance
+## 1346. Rocket Lab — Senior Flight Dynamics Engineer II - Secret Clearance
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38082,7 +37690,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1361. Rocket Lab — Senior Flight Dynamics Engineer I - Secret Clearance
+## 1347. Rocket Lab — Senior Flight Dynamics Engineer I - Secret Clearance
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38110,7 +37718,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1362. Rocket Lab — Senior Spacecraft GNC Engineer I
+## 1348. Rocket Lab — Senior Spacecraft GNC Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38138,7 +37746,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1363. Rocket Lab — Senior Spacecraft GNC Engineer II
+## 1349. Rocket Lab — Senior Spacecraft GNC Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38166,7 +37774,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1364. Rocket Lab — Test and Launch Operations Engineer II
+## 1350. Rocket Lab — Test and Launch Operations Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38194,7 +37802,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1365. Lyft — Directeur(trice), Appels d'offres, Stratégie et tarification
+## 1351. Lyft — Directeur(trice), Appels d'offres, Stratégie et tarification
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -38222,7 +37830,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1366. MongoDB — Financial Analyst, P&T
+## 1352. MongoDB — Financial Analyst, P&T
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38250,7 +37858,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1367. Rocket Lab — Lead Manufacturing Engineer - Avionics & Test
+## 1353. Rocket Lab — Lead Manufacturing Engineer - Avionics & Test
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38278,7 +37886,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1368. Rocket Lab — Quality Engineering Intern Spring 2027
+## 1354. Rocket Lab — Quality Engineering Intern Spring 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38306,7 +37914,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1369. CPP Investments — Associate, Private & Alternative Asset Operations (12-month contract)
+## 1355. CPP Investments — Associate, Private & Alternative Asset Operations (12-month contract)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -38334,7 +37942,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1370. Rocket Lab — Avionics Test Engineer I
+## 1356. Rocket Lab — Avionics Test Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38362,7 +37970,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1371. Rocket Lab — Avionics Test Engineer II
+## 1357. Rocket Lab — Avionics Test Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38390,7 +37998,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1372. Rocket Lab — Harness Engineer I
+## 1358. Rocket Lab — Harness Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38418,7 +38026,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1373. Rocket Lab — Harness Engineer II
+## 1359. Rocket Lab — Harness Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38446,7 +38054,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1374. Rocket Lab — Principal Engineer - TS/SCI Clearance
+## 1360. Rocket Lab — Principal Engineer - TS/SCI Clearance
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38474,7 +38082,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1375. Rocket Lab — RF Test Engineer II
+## 1361. Rocket Lab — RF Test Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38502,7 +38110,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1376. Rocket Lab — Senior Mechanical Development & Test Engineer I
+## 1362. Rocket Lab — Senior Mechanical Development & Test Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38530,7 +38138,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1377. Rocket Lab — Senior Mechanical Development & Test Engineer II
+## 1363. Rocket Lab — Senior Mechanical Development & Test Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38558,7 +38166,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1378. Rocket Lab — Senior RF Test Engineer I
+## 1364. Rocket Lab — Senior RF Test Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38586,7 +38194,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1379. Rocket Lab — Senior Spacecraft Propulsion Components Engineer II
+## 1365. Rocket Lab — Senior Spacecraft Propulsion Components Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38614,7 +38222,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1380. Rocket Lab — Senior Spacecraft Propulsion Systems Engineer I
+## 1366. Rocket Lab — Senior Spacecraft Propulsion Systems Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38642,7 +38250,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1381. Rocket Lab — Senior Spacecraft Propulsion Systems Engineer II
+## 1367. Rocket Lab — Senior Spacecraft Propulsion Systems Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38670,7 +38278,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1382. Rocket Lab — Senior Spacecraft Propulsion Systems Engineer II - Secret Clearance
+## 1368. Rocket Lab — Senior Spacecraft Propulsion Systems Engineer II - Secret Clearance
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38698,7 +38306,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1383. Rocket Lab — Senior Spacecraft Propulsion Systems Engineer I - Secret Clearance
+## 1369. Rocket Lab — Senior Spacecraft Propulsion Systems Engineer I - Secret Clearance
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38726,7 +38334,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1384. Rocket Lab — Senior Systems Engineer II
+## 1370. Rocket Lab — Senior Systems Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38754,7 +38362,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1385. Rocket Lab — Senior Talent Acquisition Partner II
+## 1371. Rocket Lab — Senior Talent Acquisition Partner II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38782,7 +38390,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1386. Rocket Lab — Spacecraft Propulsion Components Engineer I
+## 1372. Rocket Lab — Spacecraft Propulsion Components Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38810,7 +38418,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1387. Rocket Lab — Spacecraft Propulsion Systems Engineer I
+## 1373. Rocket Lab — Spacecraft Propulsion Systems Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38838,7 +38446,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1388. Rocket Lab — Systems Engineer I
+## 1374. Rocket Lab — Systems Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38866,7 +38474,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1389. Rocket Lab — Systems Engineer II
+## 1375. Rocket Lab — Systems Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38894,7 +38502,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1390. Rocket Lab — Principal Systems Engineer - Mission Architecture
+## 1376. Rocket Lab — Principal Systems Engineer - Mission Architecture
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -38922,7 +38530,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1391. Rocket Lab — Senior Engineer - Test & Launch Operations
+## 1377. Rocket Lab — Senior Engineer - Test & Launch Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -38950,7 +38558,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1392. Lyft — Coordonnateur des appels d'offres
+## 1378. Lyft — Coordonnateur des appels d'offres
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -38978,7 +38586,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1393. MongoDB — Director, Brand Marketing
+## 1379. MongoDB — Director, Brand Marketing
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39006,7 +38614,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1394. Rocket Lab — Ground Systems Engineer II, Mechanical
+## 1380. Rocket Lab — Ground Systems Engineer II, Mechanical
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39034,7 +38642,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1395. Rocket Lab — Senior Manufacturing Engineer I - Assembly & Integration
+## 1381. Rocket Lab — Senior Manufacturing Engineer I - Assembly & Integration
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39062,7 +38670,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1396. Airbnb — Market Associate
+## 1382. Airbnb — Market Associate
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39090,7 +38698,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1397. Rocket Lab — Software Engineer II - Production Automation
+## 1383. Rocket Lab — Software Engineer II - Production Automation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39118,7 +38726,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1398. Rocket Lab — Production Coordinator II
+## 1384. Rocket Lab — Production Coordinator II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39146,7 +38754,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1399. Rocket Lab — Senior Weld Engineer I
+## 1385. Rocket Lab — Senior Weld Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39174,7 +38782,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1400. Instacart — Insights Manager II, Retail Insights
+## 1386. Instacart — Insights Manager II, Retail Insights
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39202,7 +38810,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1401. Rocket Lab — Senior Manufacturing Engineer I- Composites
+## 1387. Rocket Lab — Senior Manufacturing Engineer I- Composites
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39230,7 +38838,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1402. Instacart — Senior Sales Engineer
+## 1388. Instacart — Senior Sales Engineer
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -39258,7 +38866,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1403. Instacart — Senior Sales Engineer
+## 1389. Instacart — Senior Sales Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39286,7 +38894,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1404. Rocket Lab — Manager, Inventory and Logistics
+## 1390. Rocket Lab — Manager, Inventory and Logistics
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39314,7 +38922,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1405. Rocket Lab — Supply Chain Intern Summer 2027
+## 1391. Rocket Lab — Supply Chain Intern Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39342,7 +38950,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1406. Rocket Lab — Integration & Test Engineer II
+## 1392. Rocket Lab — Integration & Test Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -39370,7 +38978,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1407. Rocket Lab — Junior Ground Systems Engineer - Instrumentation & Control
+## 1393. Rocket Lab — Junior Ground Systems Engineer - Instrumentation & Control
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39398,7 +39006,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1408. Rocket Lab — Senior Manufacturing Engineer I - Fluid Systems
+## 1394. Rocket Lab — Senior Manufacturing Engineer I - Fluid Systems
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39426,7 +39034,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1409. Rocket Lab — Senior Manufacturing Engineer II - TPA
+## 1395. Rocket Lab — Senior Manufacturing Engineer II - TPA
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39454,7 +39062,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1410. Rocket Lab — Senior Structural Analyst
+## 1396. Rocket Lab — Senior Structural Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39482,7 +39090,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1411. Rocket Lab — Integration & Test Engineer I
+## 1397. Rocket Lab — Integration & Test Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -39510,7 +39118,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1412. Rocket Lab — Senior Facilities Engineer I
+## 1398. Rocket Lab — Senior Facilities Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39538,7 +39146,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1413. Rocket Lab — Senior Integrated Operations Engineer - Team Y
+## 1399. Rocket Lab — Senior Integrated Operations Engineer - Team Y
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39566,7 +39174,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1414. Rocket Lab — Junior Manufacturing Engineer
+## 1400. Rocket Lab — Junior Manufacturing Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39594,7 +39202,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1415. Stripe — Android Engineer, Terminal - CA
+## 1401. Stripe — Android Engineer, Terminal - CA
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -39622,7 +39230,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1416. MongoDB — Senior Product Security Engineer, Assessments
+## 1402. MongoDB — Senior Product Security Engineer, Assessments
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39650,7 +39258,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1417. Rocket Lab — Manufacturing Engineer II - TPA
+## 1403. Rocket Lab — Manufacturing Engineer II - TPA
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39678,7 +39286,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1418. Rocket Lab — Principal Algorithm Engineer (EO/IR Image Analysis)
+## 1404. Rocket Lab — Principal Algorithm Engineer (EO/IR Image Analysis)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39706,7 +39314,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1419. Rocket Lab — Scientist (EO/IR Image Analysis)
+## 1405. Rocket Lab — Scientist (EO/IR Image Analysis)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39734,7 +39342,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1420. Rocket Lab — Senior Algorithm Engineer II (EO/IR Image Analysis)
+## 1406. Rocket Lab — Senior Algorithm Engineer II (EO/IR Image Analysis)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39762,7 +39370,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1421. Rocket Lab — Aerospace Production Technician II
+## 1407. Rocket Lab — Aerospace Production Technician II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39790,7 +39398,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1422. Rocket Lab — Aerospace Test Technician II
+## 1408. Rocket Lab — Aerospace Test Technician II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39818,7 +39426,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1423. Rocket Lab — Aerospace Test Technician III
+## 1409. Rocket Lab — Aerospace Test Technician III
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39846,7 +39454,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1424. Rocket Lab — Assembly Integration & Test Technician II - A Shift
+## 1410. Rocket Lab — Assembly Integration & Test Technician II - A Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39874,7 +39482,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1425. Rocket Lab — Assembly Integration & Test Technician III - A Shift
+## 1411. Rocket Lab — Assembly Integration & Test Technician III - A Shift
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39902,7 +39510,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1426. Rocket Lab — Environmental Test Technician II
+## 1412. Rocket Lab — Environmental Test Technician II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -39930,7 +39538,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1427. Rocket Lab — Senior Systems Engineer II - Mission Architecture
+## 1413. Rocket Lab — Senior Systems Engineer II - Mission Architecture
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -39958,7 +39566,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1428. Rocket Lab — Senior Systems Engineer I - Mission Architecture
+## 1414. Rocket Lab — Senior Systems Engineer I - Mission Architecture
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -39986,7 +39594,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1429. Rocket Lab — Talent Acquisition Partner II - University Recruiting (Temporary)
+## 1415. Rocket Lab — Talent Acquisition Partner II - University Recruiting (Temporary)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40014,7 +39622,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1430. Rocket Lab — Lead - Operations Software
+## 1416. Rocket Lab — Lead - Operations Software
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40042,7 +39650,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1431. Rocket Lab — Manufacturing Engineer II
+## 1417. Rocket Lab — Manufacturing Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40070,7 +39678,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1432. Rocket Lab — Project Engineer
+## 1418. Rocket Lab — Project Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40098,7 +39706,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1433. Rocket Lab — Senior Dynamics Engineer
+## 1419. Rocket Lab — Senior Dynamics Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40126,7 +39734,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1434. Rocket Lab — Senior Propulsion Engineer I
+## 1420. Rocket Lab — Senior Propulsion Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40154,7 +39762,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1435. Rocket Lab — Senior Propulsion Engineer II
+## 1421. Rocket Lab — Senior Propulsion Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40182,7 +39790,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1436. Rocket Lab — Senior Propulsion Systems Analyst I
+## 1422. Rocket Lab — Senior Propulsion Systems Analyst I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40210,7 +39818,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1437. Rocket Lab — Senior Structural Analyst I
+## 1423. Rocket Lab — Senior Structural Analyst I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40238,7 +39846,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1438. Rocket Lab — Vehicle Integration Engineer II
+## 1424. Rocket Lab — Vehicle Integration Engineer II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40266,7 +39874,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1439. MongoDB — Senior Financial Analyst
+## 1425. MongoDB — Senior Financial Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40294,7 +39902,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1440. Rocket Lab — Chief Engineer, Space Payloads
+## 1426. Rocket Lab — Chief Engineer, Space Payloads
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40322,7 +39930,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1441. Rocket Lab — Development Engineer - Neutron
+## 1427. Rocket Lab — Development Engineer - Neutron
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40350,7 +39958,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1442. Rocket Lab — Graphic Designer
+## 1428. Rocket Lab — Graphic Designer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40378,7 +39986,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1443. Rocket Lab — HITL Engineer I
+## 1429. Rocket Lab — HITL Engineer I
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -40406,7 +40014,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1444. Rocket Lab — Mission Manager- TS/SCI Clearance
+## 1430. Rocket Lab — Mission Manager- TS/SCI Clearance
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40434,7 +40042,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1445. Rocket Lab — Principal Engineer, Space Payloads
+## 1431. Rocket Lab — Principal Engineer, Space Payloads
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40462,7 +40070,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1446. Rocket Lab — Senior Development Engineer - Neutron
+## 1432. Rocket Lab — Senior Development Engineer - Neutron
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40490,7 +40098,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1447. Instacart — Bilingual CX Specialist (French)
+## 1433. Instacart — Bilingual CX Specialist (French)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40518,7 +40126,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1448. Rocket Lab — People & Culture Coordinator
+## 1434. Rocket Lab — People & Culture Coordinator
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40546,7 +40154,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1449. Stripe — Head of Events, Works in Progress
+## 1435. Stripe — Head of Events, Works in Progress
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40574,7 +40182,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1450. Instacart — Account Manager
+## 1436. Instacart — Account Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40602,7 +40210,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1451. Rocket Lab — Government Operations Intern Spring 2027
+## 1437. Rocket Lab — Government Operations Intern Spring 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40630,7 +40238,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1452. Stripe — Data Analyst, Intern
+## 1438. Rocket Lab — Production Planner I
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8010670003
+
+**Subject:** BCom/JD candidate interested in Rocket Lab’s Production Planner I opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. My experience at RBC has strengthened my ability to translate rules and client needs into clear, practical action, while my English, French, and Mandarin skills help me communicate across audiences.
+
+I’m reaching out about the Production Planner I opportunity. I was especially drawn to it because the role translates public policy and regulatory developments into practical business and stakeholder decisions.
+
+My combined business-law studies, multilingual communication skills, and experience translating rules into practical client guidance would provide a useful foundation for this work. I am particularly interested in strengthening my capabilities in Policy research, Regulation, and Writing.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1439. Stripe — Data Analyst, Intern
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -40658,7 +40294,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1453. Rocket Lab — HITL Engineer II
+## 1440. Rocket Lab — HITL Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -40686,11 +40322,11 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1454. Rocket Lab — Senior Avionics Engineer I - Mission Formulation
+## 1441. Rocket Lab — Senior Avionics Engineer I - Mission Formulation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8009917003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8009916003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s Senior Avionics Engineer I - Mission Formulation opportunity
 
@@ -40714,7 +40350,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1455. Rocket Lab — Senior Spacecraft Operations Engineer I
+## 1442. Rocket Lab — Senior Spacecraft Operations Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40742,7 +40378,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1456. Rocket Lab — Test Operations Electrical Technician II/III
+## 1443. Rocket Lab — Test Operations Electrical Technician II/III
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40770,7 +40406,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1457. Rocket Lab — Development Engineer (Materials & Processes) - Neutron
+## 1444. Rocket Lab — Development Engineer (Materials & Processes) - Neutron
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40798,7 +40434,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1458. Rocket Lab — Propulsion Systems Analyst II
+## 1445. Rocket Lab — Propulsion Systems Analyst II
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40826,7 +40462,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1459. Rocket Lab — Team Lead - Unpressurised Composite Structures
+## 1446. Rocket Lab — Team Lead - Unpressurised Composite Structures
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40854,11 +40490,11 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1460. Rocket Lab — IT Support Specialist
+## 1447. Rocket Lab — IT Support Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8004692003
+**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/8005412003
 
 **Subject:** BCom/JD candidate interested in Rocket Lab’s IT Support Specialist opportunity
 
@@ -40882,7 +40518,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1461. Rocket Lab — Senior Development Engineer (Propulsion) - Electron
+## 1448. Rocket Lab — Senior Development Engineer (Propulsion) - Electron
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40910,7 +40546,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1462. Connor, Clark & Lunn Financial Group — IT Operations Specialist
+## 1449. Connor, Clark & Lunn Financial Group — IT Operations Specialist
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -40938,7 +40574,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1463. Rocket Lab — Build Engineer II / Senior Build Engineer I
+## 1450. Rocket Lab — Build Engineer II / Senior Build Engineer I
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40966,7 +40602,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1464. Rocket Lab — Systems Engineer – Configuration and Change Management
+## 1451. Rocket Lab — Systems Engineer – Configuration and Change Management
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -40994,7 +40630,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1465. Stripe — Partner Solutions Engineer, Ecosystem
+## 1452. Stripe — Partner Solutions Engineer, Ecosystem
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41022,7 +40658,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1466. Rocket Lab — Senior IT Support Specialist
+## 1453. Rocket Lab — Senior IT Support Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41050,7 +40686,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1467. Rocket Lab — Software Build Engineer
+## 1454. Rocket Lab — Software Build Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41078,7 +40714,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1468. Rocket Lab — Test Engineering Intern Spring 2027
+## 1455. Rocket Lab — Test Engineering Intern Spring 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41106,7 +40742,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1469. Rocket Lab — Spacecraft Operations Engineer II
+## 1456. Rocket Lab — Spacecraft Operations Engineer II
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -41134,63 +40770,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1470. Stripe — Editorial Director, Brand & Creative Partnerships
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8203216
-
-**Subject:** BCom/JD candidate interested in Stripe’s Editorial Director, Brand & Creative Partnerships opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. My experience at RBC has strengthened my ability to translate rules and client needs into clear, practical action, while my English, French, and Mandarin skills help me communicate across audiences.
-
-I’m reaching out about the Editorial Director, Brand & Creative Partnerships opportunity. I was especially drawn to it because the role translates public policy and regulatory developments into practical business and stakeholder decisions.
-
-My combined business-law studies, multilingual communication skills, and experience translating rules into practical client guidance would provide a useful foundation for this work. I am particularly interested in strengthening my capabilities in Policy research, Regulation, and Writing.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1471. Rocket Lab — Senior HITL Engineer I
-
-**Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
-
-**Source:** Rocket Lab Careers — https://job-boards.greenhouse.io/rocketlab/jobs/7990274003
-
-**Subject:** BCom/JD candidate interested in Rocket Lab’s Senior HITL Engineer I opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. My experience at RBC has strengthened my ability to translate rules and client needs into clear, practical action, while my English, French, and Mandarin skills help me communicate across audiences.
-
-I’m reaching out about the Senior HITL Engineer I opportunity. I was especially drawn to it because the role translates public policy and regulatory developments into practical business and stakeholder decisions.
-
-My combined business-law studies, multilingual communication skills, and experience translating rules into practical client guidance would provide a useful foundation for this work. I am particularly interested in strengthening my capabilities in Policy research, Regulation, and Writing.
-
-I recognize that the posting’s citizenship requirement may make this specific cycle unavailable to me, so I would not want to presume eligibility. Even so, I would value learning how someone with a Canadian combined business-law background can prepare for a future recruiting cycle.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1472. TikTok — Governance Strategy Intern
+## 1457. TikTok — Governance Strategy Intern
 
 **Eligibility note:** Check U.S. authorization and class year — Review the official posting for degree timing, term, and U.S. work-authorization requirements.
 
@@ -41218,7 +40798,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1473. Capital One — Commercial Internship Program
+## 1458. Capital One — Commercial Internship Program
 
 **Eligibility note:** Graduation date and sponsorship conflict — The posting requires degree completion by July 2028 or earlier and states that employment-immigration support is not available. Your 2031 graduation date conflicts with the cohort requirement.
 
@@ -41246,35 +40826,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1474. Cargill — New Student job CareerBeacon crop dusting contractor
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Government of Canada Job Bank — https://www.jobbank.gc.ca/jobsearch/jobposting/50774701?source=searchresults
-
-**Subject:** BCom/JD candidate interested in Cargill’s New Student job CareerBeacon crop dusting contractor opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the New Student job CareerBeacon crop dusting contractor opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1475. NVIDIA — Finance AI Engineering Intern - Summer 2027
+## 1459. NVIDIA — Finance AI Engineering Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41302,7 +40854,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1476. Daimler Truck — Financial Planning & Data Analytics Intern
+## 1460. Daimler Truck — Financial Planning & Data Analytics Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41330,7 +40882,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1477. Crane Co. — Finance Intern
+## 1461. Crane Co. — Finance Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41358,7 +40910,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1478. Trane Technologies — 2027 Accounting and Finance Intern
+## 1462. Trane Technologies — 2027 Accounting and Finance Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41386,35 +40938,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1479. RTX — FP&A Finance Intern (Summer 2027)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01864964?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in RTX’s FP&A Finance Intern (Summer 2027) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the FP&A Finance Intern (Summer 2027) opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
-
-I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1480. Cummins — EATON - Finance Internship (ECJV)
+## 1463. Cummins — EATON - Finance Internship (ECJV)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41442,91 +40966,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1481. Crane Co. — Finance Intern (Part-Time)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-cranecompany-careers-JR102918?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Crane Co.’s Finance Intern (Part-Time) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Finance Intern (Part-Time) opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
-
-I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1482. Motorola Solutions — Finance & Accounting Intern (2027 Internship)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68331?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Motorola Solutions’s Finance & Accounting Intern (2027 Internship) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Finance & Accounting Intern (2027 Internship) opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
-
-I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1483. Marvell — Accounting Intern, BS - Summer 2027
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604214?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Marvell’s Accounting Intern, BS - Summer 2027 opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Accounting Intern, BS - Summer 2027 opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
-
-I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1484. BorgWarner — Accounting Intern (January 2027 Start Date)
+## 1464. BorgWarner — Accounting Intern (January 2027 Start Date)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41554,7 +40994,91 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1485. Thermo Fisher Scientific — 2027 FLDP Finance Intern
+## 1465. Marvell — Accounting Intern, BS - Summer 2027
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604214?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Marvell’s Accounting Intern, BS - Summer 2027 opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Accounting Intern, BS - Summer 2027 opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
+
+I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1466. Crane Co. — Finance Intern (Part-Time)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-cranecompany-careers-JR102918?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Crane Co.’s Finance Intern (Part-Time) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Finance Intern (Part-Time) opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
+
+I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1467. RTX — FP&A Finance Intern (Summer 2027)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01864964?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in RTX’s FP&A Finance Intern (Summer 2027) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the FP&A Finance Intern (Summer 2027) opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
+
+I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1468. Thermo Fisher Scientific — 2027 FLDP Finance Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41582,7 +41106,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1486. TransUnion — Accounting Internship - Summer 2027
+## 1469. TransUnion — Accounting Internship - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41610,7 +41134,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1487. Schonfeld — 2027 Compensation Accounting Intern
+## 1470. Schonfeld — 2027 Compensation Accounting Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41638,7 +41162,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1488. NVIDIA — Accounting AI Solution Engineer Intern - Summer 2027
+## 1471. NVIDIA — Accounting AI Solution Engineer Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41666,7 +41190,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1489. ASML — Internship - Contract Management and AI
+## 1472. ASML — Internship - Contract Management and AI
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41694,7 +41218,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1490. KeyBank — Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Bellingham, WA
+## 1473. KeyBank — Summer 2027 Key Investment Services Internship (Certified Financial Planner Track) - Bellingham, WA
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41722,35 +41246,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1491. Federal Reserve System — 2027 Summer Internship Program - Credit Risk Management Intern
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-rb-frs-R-0000033874?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Federal Reserve System’s 2027 Summer Internship Program - Credit Risk Management Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the 2027 Summer Internship Program - Credit Risk Management Intern opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
-
-I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1492. State Street — State Street Investment Management - Business Architecture - 2027 Summer Internship
+## 1474. State Street — State Street Investment Management - Business Architecture - 2027 Summer Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41778,7 +41274,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1493. Stripe — AI Transformation Lead, Marketing
+## 1475. Federal Reserve System — 2027 Summer Internship Program - Credit Risk Management Intern
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-rb-frs-R-0000033874?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Federal Reserve System’s 2027 Summer Internship Program - Credit Risk Management Intern opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the 2027 Summer Internship Program - Credit Risk Management Intern opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
+
+I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1476. Cargill — New Student job CareerBeacon crop dusting contractor
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Government of Canada Job Bank — https://www.jobbank.gc.ca/jobsearch/jobposting/50774701?source=searchresults
+
+**Subject:** BCom/JD candidate interested in Cargill’s New Student job CareerBeacon crop dusting contractor opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the New Student job CareerBeacon crop dusting contractor opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1477. Stripe — AI Transformation Lead, Marketing
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41806,7 +41358,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1494. Stripe — Forward Deployed AI Accelerator, Marketing
+## 1478. Stripe — Forward Deployed AI Accelerator, Marketing
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -41834,7 +41386,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1495. Point72 — Software Engineer, Tax Technology
+## 1479. Point72 — Software Engineer, Tax Technology
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41862,7 +41414,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1496. Replit — Administrative Assistant
+## 1480. Replit — Administrative Assistant
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41890,7 +41442,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1497. Desjardins — Senior Advisor, Financial Modelling and Rating Agency Relations
+## 1481. Desjardins — Senior Advisor, Financial Modelling and Rating Agency Relations
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -41918,7 +41470,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1498. Stripe — Account Executive, Amer Platform (Growth Velocity)
+## 1482. Stripe — Account Executive, Amer Platform (Growth Velocity)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41946,7 +41498,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1499. Stripe — Marketing Strategy & Operations Lead, Global Demand, Campaigns, Field Marketing
+## 1483. Stripe — Marketing Strategy & Operations Lead, Global Demand, Campaigns, Field Marketing
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -41974,7 +41526,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1500. Replit — Japan PSE
+## 1484. Replit — Japan PSE
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42002,7 +41554,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1501. Stripe — Manager, Integration Engineering
+## 1485. Stripe — Manager, Integration Engineering
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42030,7 +41582,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1502. Stripe — Technical Operations Engineer, Revenue
+## 1486. Stripe — Technical Operations Engineer, Revenue
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42058,7 +41610,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1503. Replit — Forward Deployed Engineer (UK)
+## 1487. Replit — Forward Deployed Engineer (UK)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42086,7 +41638,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1504. Replit — Senior Manager, Demand Generation
+## 1488. Replit — Senior Manager, Demand Generation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42114,7 +41666,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1505. Desjardins — Personal Finance Advisor
+## 1489. Desjardins — Personal Finance Advisor
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42142,7 +41694,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1506. Barbara Farms Inc. — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank custom combine contractor
+## 1490. Barbara Farms Inc. — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank custom combine contractor
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42170,7 +41722,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1507. Stripe — Head of Enterprise Sales, Marketplaces
+## 1491. Stripe — Head of Enterprise Sales, Marketplaces
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42198,7 +41750,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1508. Stripe — Head of Enterprise Sales, West
+## 1492. Stripe — Head of Enterprise Sales, West
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42226,7 +41778,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1509. Ashish Tekriwal, CPA Professional Corporation — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank bookkeeper
+## 1493. Ashish Tekriwal, CPA Professional Corporation — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank bookkeeper
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42254,7 +41806,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1510. Stripe — Staff Product Manager, Custom Objects
+## 1494. Stripe — Staff Product Manager, Custom Objects
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42282,7 +41834,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1511. Point72 — 2026 Boston Career Forum - 2029 Graduate Opportunities
+## 1495. Point72 — 2026 Boston Career Forum - 2029 Graduate Opportunities
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42310,7 +41862,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1512. Municipal employer listed on CivicJobs.ca — Airport Accounting Technician - Kelowna International Airport (Kelowna, BC)
+## 1496. Municipal employer listed on CivicJobs.ca — Airport Accounting Technician - Kelowna International Airport (Kelowna, BC)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42338,7 +41890,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1513. Cargill — Student job CareerBeacon crop dusting contractor
+## 1497. Cargill — Student job CareerBeacon crop dusting contractor
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42366,7 +41918,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1514. Cargill — Student job CareerBeacon crop dusting service contractor
+## 1498. Cargill — Student job CareerBeacon crop dusting service contractor
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42394,7 +41946,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1515. Stripe — Global Head of Partner Solutions Architecture
+## 1499. Stripe — Global Head of Partner Solutions Architecture
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42422,7 +41974,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1516. Stripe — Large User Sales Managers, Platform Partnerships
+## 1500. Stripe — Large User Sales Managers, Platform Partnerships
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42450,7 +42002,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1517. Stripe — Startups Sales Manager, Platform Partnerships
+## 1501. Stripe — Startups Sales Manager, Platform Partnerships
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42478,7 +42030,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1518. Replit — SOC Engineer
+## 1502. Replit — SOC Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42506,7 +42058,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1519. Connor, Clark & Lunn Financial Group — Intern, Institutional Client Reporting
+## 1503. Connor, Clark & Lunn Financial Group — Intern, Institutional Client Reporting
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42534,7 +42086,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1520. Stripe — Head of Enterprise Sales, East
+## 1504. Stripe — Head of Enterprise Sales, East
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42562,7 +42114,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1521. Stripe — Head of Strategic Accounts, Solutions Architecture
+## 1505. Stripe — Head of Strategic Accounts, Solutions Architecture
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42590,7 +42142,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1522. NBCUniversal — Finance Internships – Summer 2027
+## 1506. NBCUniversal — Finance Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42618,7 +42170,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1523. NBCUniversal — Universal Television Entertainment Finance Transformation Internships – Summer 2027
+## 1507. NBCUniversal — Universal Television Entertainment Finance Transformation Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42646,7 +42198,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1524. Connor, Clark & Lunn Financial Group — Data Analyst
+## 1508. Connor, Clark & Lunn Financial Group — Data Analyst
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42674,7 +42226,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1525. Stripe — Account Executive, AI Sales
+## 1509. Stripe — Account Executive, AI Sales
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42702,7 +42254,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1526. Point72 — 2027 Economist Intern
+## 1510. Point72 — 2027 Economist Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42730,7 +42282,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1527. Stripe — AMER Data Analyst - Sales Strategy and Operations
+## 1511. Stripe — AMER Data Analyst - Sales Strategy and Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42758,7 +42310,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1528. Stripe — Product Design Intern
+## 1512. Stripe — Product Design Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42786,7 +42338,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1529. NBCUniversal — NBC Sports Bay Area & California - Finance Intern - Summer 2027
+## 1513. NBCUniversal — NBC Sports Bay Area & California - Finance Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42814,7 +42366,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1530. Stripe — Account Executive, Strategics
+## 1514. Stripe — Account Executive, Strategics
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42842,7 +42394,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1531. Point72 — Quantitative Developer, Risk Technology
+## 1515. Point72 — Quantitative Developer, Risk Technology
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42870,7 +42422,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1532. Stripe — Recruiting Scheduler
+## 1516. Stripe — Recruiting Scheduler
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42898,7 +42450,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1533. Eulerity — Finance [Big] Data Analyst
+## 1517. Eulerity — Finance [Big] Data Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -42926,7 +42478,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1534. Connor, Clark & Lunn Financial Group — Apprentice, Internal Communications
+## 1518. Connor, Clark & Lunn Financial Group — Apprentice, Internal Communications
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42954,7 +42506,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1535. Ubisoft — Auditeur Interne (F/H/NB)
+## 1519. Ubisoft — Auditeur Interne (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -42982,7 +42534,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1536. Stripe — Sales Manager, Billing
+## 1520. Stripe — Sales Manager, Billing
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43010,7 +42562,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1537. Etched — Strategic Buyer
+## 1521. Etched — Strategic Buyer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43038,7 +42590,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1538. Stripe — Finance & Strategy Specialist
+## 1522. Stripe — Finance & Strategy Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43066,7 +42618,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1539. Stripe — Product Marketing Manager, Subscriptions
+## 1523. Stripe — Product Marketing Manager, Subscriptions
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43094,7 +42646,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1540. Stripe — Technical Curriculum Developer, Technical Enablement
+## 1524. Stripe — Technical Curriculum Developer, Technical Enablement
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43122,7 +42674,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1541. Etched — Infrastructure Engineer, Factory Acceleration
+## 1525. Etched — Infrastructure Engineer, Factory Acceleration
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43150,7 +42702,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1542. Stripe — Creative Engineer, Stripe Creative Lab
+## 1526. Stripe — Creative Engineer, Stripe Creative Lab
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -43178,7 +42730,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1543. Point72 — IT Operations Engineer, Data Center Technology
+## 1527. Point72 — IT Operations Engineer, Data Center Technology
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43206,7 +42758,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1544. Ubisoft — Intern IT Technician (6-months contract)
+## 1528. Ubisoft — Intern IT Technician (6-months contract)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -43234,7 +42786,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1545. Koppers — Financial Data Analyst Intern
+## 1529. Koppers — Financial Data Analyst Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43262,7 +42814,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1546. Stripe — Head of AI Startups, EMEA
+## 1530. Stripe — Head of AI Startups, EMEA
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43290,7 +42842,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1547. Stripe — Staff Brand Designer, Creative Lab
+## 1531. Stripe — Staff Brand Designer, Creative Lab
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43318,7 +42870,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1548. Anduril — 2027 Finance Data Analyst Intern
+## 1532. Anduril — 2027 Finance Data Analyst Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43346,7 +42898,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1549. Stripe — Account Executive, Velocity Platforms (Hunter)
+## 1533. Stripe — Account Executive, Velocity Platforms (Hunter)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43374,7 +42926,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1550. National Information Solutions Cooperative (NISC) — Intern - Application Analyst (Financials Software)
+## 1534. National Information Solutions Cooperative (NISC) — Intern - Application Analyst (Financials Software)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43402,7 +42954,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1551. Point72 — Quantitative Developer
+## 1535. Point72 — Quantitative Developer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43430,7 +42982,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1552. Stripe — Account Executive - Bridge
+## 1536. Stripe — Account Executive - Bridge
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43458,7 +43010,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1553. Stripe — Workplace Design Coordinator
+## 1537. Stripe — Workplace Design Coordinator
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43486,7 +43038,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1554. Howden — Underwriting Intern, Cyber
+## 1538. Howden — Underwriting Intern, Cyber
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43514,7 +43066,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1555. Stripe — IT Support Engineer
+## 1539. Stripe — IT Support Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43542,7 +43094,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1556. Nissan — Financial AI Engineering Intern - Summer 2027 - Franklin, TN
+## 1540. Nissan — Financial AI Engineering Intern - Summer 2027 - Franklin, TN
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -43570,7 +43122,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1557. Stripe — Account Executive, Platforms (Grower)
+## 1541. Stripe — Account Executive, Platforms (Grower)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43598,7 +43150,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1558. Stripe — Staff Product Designer, Checkout
+## 1542. Stripe — Staff Product Designer, Checkout
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -43626,7 +43178,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1559. Point72 — Manager, International Communications
+## 1543. Point72 — Manager, International Communications
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43654,7 +43206,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1560. Etched — Inventory Manager
+## 1544. Etched — Inventory Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43682,7 +43234,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1561. Stripe — Solutions Architect, SMB
+## 1545. Stripe — Solutions Architect, SMB
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43710,7 +43262,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1562. Stripe — Critical Support Manager - Escalations
+## 1546. Stripe — Critical Support Manager - Escalations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43738,7 +43290,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1563. Stripe — Data Analyst, Intern
+## 1547. Stripe — Data Analyst, Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43766,7 +43318,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1564. Stripe — User Escalation Specialist
+## 1548. Stripe — User Escalation Specialist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43794,7 +43346,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1565. Stripe — Account Executive, Startup Platforms (Grower)
+## 1549. Stripe — Account Executive, Startup Platforms (Grower)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43822,7 +43374,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1566. Stripe — Strategy & Operations Business Partner, Solution Architecture
+## 1550. Stripe — Strategy & Operations Business Partner, Solution Architecture
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43850,7 +43402,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1567. Stripe — Finance & Strategy Analyst
+## 1551. Stripe — Finance & Strategy Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43878,7 +43430,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1568. Stripe — Product Marketing Manager, Revenue suite
+## 1552. Stripe — Product Marketing Manager, Revenue suite
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43906,7 +43458,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1569. Stripe — Renewals Analyst
+## 1553. Stripe — Renewals Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43934,35 +43486,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1570. Stripe — Design Engineer, Expansion
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Stripe Careers — https://stripe.com/jobs/search?gh_jid=8212314
-
-**Subject:** BCom/JD candidate interested in Stripe’s Design Engineer, Expansion opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Design Engineer, Expansion opportunity. I was especially drawn to it because the opportunity combines finance, regulatory discipline, analysis, and risk-conscious business judgment.
-
-I would bring experience serving clients in a regulated financial environment, strong analytical skills, and an interest in how commercial decisions interact with legal and regulatory requirements. I am particularly interested in strengthening my capabilities in Financial analysis, Risk, and Reporting.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1571. Impulse Space — Supply Chain Data Analytics Intern (Summer 2027)
+## 1554. Impulse Space — Supply Chain Data Analytics Intern (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -43990,63 +43514,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1572. T-Mobile — Summer 2027 Data Analyst Internship
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-tmobile-external-REQ383587?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in T-Mobile’s Summer 2027 Data Analyst Internship opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Summer 2027 Data Analyst Internship opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
-
-I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1573. National Interstate Insurance — Third-Party Risk & Analytics Intern (Year-Round)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-gaig-gaig-external-R9637?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in National Interstate Insurance’s Third-Party Risk & Analytics Intern (Year-Round) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Third-Party Risk & Analytics Intern (Year-Round) opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
-
-I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1574. GlobalFoundries — AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)
+## 1555. GlobalFoundries — AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44074,7 +43542,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1575. onsemi — Spring 2027 - AI & Data Analytics Intern
+## 1556. T-Mobile — Summer 2027 Data Analyst Internship
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-tmobile-external-REQ383587?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in T-Mobile’s Summer 2027 Data Analyst Internship opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Summer 2027 Data Analyst Internship opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+
+I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1557. National Interstate Insurance — Third-Party Risk & Analytics Intern (Year-Round)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-gaig-gaig-external-R9637?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in National Interstate Insurance’s Third-Party Risk & Analytics Intern (Year-Round) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Third-Party Risk & Analytics Intern (Year-Round) opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+
+I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1558. onsemi — Spring 2027 - AI & Data Analytics Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44102,63 +43626,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1576. BlackRock — 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266477?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in BlackRock’s 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
-
-I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1577. BlackRock — 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266476?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in BlackRock’s 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
-
-I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1578. TransUnion — Data Science & Analytics Internship - Summer 2027
+## 1559. TransUnion — Data Science & Analytics Internship - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44186,7 +43654,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1579. Atlantic Health System — Pharmacy (Data Analytics) Intern
+## 1560. BlackRock — 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266477?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in BlackRock’s 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+
+I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1561. BlackRock — 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266476?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in BlackRock’s 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+
+I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1562. Atlantic Health System — Pharmacy (Data Analytics) Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44214,35 +43738,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1580. Bloom Energy — Commercial Business Intelligence Intern
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25464?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Bloom Energy’s Commercial Business Intelligence Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Commercial Business Intelligence Intern opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
-
-I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1581. CME Group — Quantitative Data & AI Analytics Intern - Year Round
+## 1563. CME Group — Quantitative Data & AI Analytics Intern - Year Round
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44270,19 +43766,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1582. S&P Global — Summer Intern, Client Services, Equity Analytics Products
+## 1564. Bloom Energy — Commercial Business Intelligence Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25464?s=gh-internships-2027
 
-**Subject:** BCom/JD candidate interested in S&P Global’s Summer Intern, Client Services, Equity Analytics Products opportunity
+**Subject:** BCom/JD candidate interested in Bloom Energy’s Commercial Business Intelligence Intern opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
 
-I’m reaching out about the Summer Intern, Client Services, Equity Analytics Products opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+I’m reaching out about the Commercial Business Intelligence Intern opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
 
 I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
 
@@ -44298,35 +43794,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1583. Amgen — Grad Intern – AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-amgen-careers-R-260625?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Amgen’s Grad Intern – AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Grad Intern – AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027) opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
-
-I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1584. T-Mobile — Summer 2027 Business Intelligence Analyst Internship
+## 1565. T-Mobile — Summer 2027 Business Intelligence Analyst Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44354,19 +43822,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1585. Micron Technology — Intern - Segment Marketing Data Analyst
+## 1566. S&P Global — Summer Intern, Client Services, Equity Analytics Products
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-micron-external-JR116851?s=gh-internships-2027
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027
 
-**Subject:** BCom/JD candidate interested in Micron Technology’s Intern - Segment Marketing Data Analyst opportunity
+**Subject:** BCom/JD candidate interested in S&P Global’s Summer Intern, Client Services, Equity Analytics Products opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
 
-I’m reaching out about the Intern - Segment Marketing Data Analyst opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+I’m reaching out about the Summer Intern, Client Services, Equity Analytics Products opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
 
 I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
 
@@ -44382,7 +43850,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1586. Lumentum — Internship - Data Science & Analytics
+## 1567. Amgen — Grad Intern – AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-amgen-careers-R-260625?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Amgen’s Grad Intern – AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Grad Intern – AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027) opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+
+I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1568. Lumentum — Internship - Data Science & Analytics
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44410,7 +43906,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1587. ABB — Sales Excellence Data Analytics Intern - Summer 2027
+## 1569. ABB — Sales Excellence Data Analytics Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44438,7 +43934,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1588. Micron — Intern - Segment Marketing Data Analyst
+## 1570. Micron Technology — Intern - Segment Marketing Data Analyst
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-micron-external-JR116851?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Micron Technology’s Intern - Segment Marketing Data Analyst opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Intern - Segment Marketing Data Analyst opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+
+I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1571. Micron — Intern - Segment Marketing Data Analyst
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44466,7 +43990,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1589. Cigna — Healthcare Analytics Summer Intern - Start Date: May 24, 2027
+## 1572. Cigna — Healthcare Analytics Summer Intern - Start Date: May 24, 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44494,35 +44018,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1590. ASML — Internship - EUV Data Science and Analytics
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357717?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in ASML’s Internship - EUV Data Science and Analytics opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Internship - EUV Data Science and Analytics opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
-
-I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1591. Carrier Global — Data Analytics Intern - Summer
+## 1573. Carrier Global — Data Analytics Intern - Summer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44550,7 +44046,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1592. Vertex Pharmaceuticals — Summer Intern 2027, OSD Process Data Analytics
+## 1574. Vertex Pharmaceuticals — Summer Intern 2027, OSD Process Data Analytics
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44578,19 +44074,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1593. Philips — Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027
+## 1575. ASML — Internship - EUV Data Science and Analytics
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593012?s=gh-internships-2027
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357717?s=gh-internships-2027
 
-**Subject:** BCom/JD candidate interested in Philips’s Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027 opportunity
+**Subject:** BCom/JD candidate interested in ASML’s Internship - EUV Data Science and Analytics opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
 
-I’m reaching out about the Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027 opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+I’m reaching out about the Internship - EUV Data Science and Analytics opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
 
 I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
 
@@ -44606,7 +44102,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1594. Stanley Black & Decker — Intern, Data Analyst & BI, Summer 2027
+## 1576. Stanley Black & Decker — Intern, Data Analyst & BI, Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44634,7 +44130,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1595. Cigna — Product Analytics Summer Intern - Start Date: May 24, 2027
+## 1577. Philips — Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593012?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Philips’s Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027 opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027 opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
+
+I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1578. Cigna — Product Analytics Summer Intern - Start Date: May 24, 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44662,7 +44186,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1596. Analog Devices — Design Evaluation Engineer Intern
+## 1579. Analog Devices — Design Evaluation Engineer Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44690,7 +44214,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1597. Vertiv — Power Strategy Intern (MBA) (Summer 2027)
+## 1580. Vertiv — Power Strategy Intern (MBA) (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44718,7 +44242,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1598. American Tower — Product & Strategy Intern
+## 1581. American Tower — Product & Strategy Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44746,7 +44270,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1599. Rockwell Automation — Intern, Market Access Strategy (LCS)
+## 1582. Rockwell Automation — Intern, Market Access Strategy (LCS)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44774,7 +44298,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1600. Amgen — Graduate Intern – R&D Execution, Operations & Strategy (R&D EOS)(summer 2027)
+## 1583. Amgen — Graduate Intern – R&D Execution, Operations & Strategy (R&D EOS)(summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44802,7 +44326,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1601. CPP Investments — Director, Security Operations, Information & Corporate Security
+## 1584. CPP Investments — Director, Security Operations, Information & Corporate Security
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -44830,7 +44354,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1602. Desjardins — Project Management Internship, IT Sector, Winter 2027
+## 1585. Desjardins — Project Management Internship, IT Sector, Winter 2027
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -44858,7 +44382,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1603. Desjardins — IT project management positions
+## 1586. Desjardins — IT project management positions
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -44886,7 +44410,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1604. ServiceNow — Corporate Strategy Manager Intern - MBA
+## 1587. ServiceNow — Corporate Strategy Manager Intern - MBA
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44914,7 +44438,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1605. CPP Investments — Associate, Structured Credit
+## 1588. CPP Investments — Associate, Structured Credit
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -44942,7 +44466,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1606. WTW — Early Careers: Data Analyst Internship
+## 1589. WTW — Early Careers: Data Analyst Internship
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -44970,7 +44494,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1607. Rocket Companies — Data Analyst Intern - Summer 2027
+## 1590. Rocket Companies — Data Analyst Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -44998,7 +44522,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1608. Perplexity — Member of Technical Staff (Software Engineer, Cybersecurity Products)
+## 1591. Perplexity — Member of Technical Staff (Software Engineer, Cybersecurity Products)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45026,35 +44550,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1609. Lyft — Gestionnaire en ingénierie, Expérience Développeur - LUS
-
-**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
-
-**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8917801002?gh_jid=8917801002
-
-**Subject:** BCom/JD candidate interested in Lyft’s Gestionnaire en ingénierie, Expérience Développeur - LUS opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Gestionnaire en ingénierie, Expérience Développeur - LUS opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1610. Airbnb — Communications Intern, France
+## 1592. Airbnb — Communications Intern, France
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45082,7 +44578,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1611. Desjardins — Project lead, Project management
+## 1593. Lyft — Gestionnaire en ingénierie, Expérience Développeur - LUS
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Lyft Careers — https://app.careerpuck.com/job-board/lyft/job/8917801002?gh_jid=8917801002
+
+**Subject:** BCom/JD candidate interested in Lyft’s Gestionnaire en ingénierie, Expérience Développeur - LUS opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Gestionnaire en ingénierie, Expérience Développeur - LUS opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1594. Desjardins — Project lead, Project management
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -45110,35 +44634,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1612. The New York Times — Data Analyst Intern
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Automated Internship Engine — https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005
-
-**Subject:** BCom/JD candidate interested in The New York Times’s Data Analyst Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Data Analyst Intern opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
-
-I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1613. NBCUniversal — Sustainability Strategy Internships – Summer 2027
+## 1595. NBCUniversal — Sustainability Strategy Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45166,7 +44662,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1614. NBCUniversal — Franchise, Products & Partnerships: Communications, Marketing, Strategy Internships – Summer 2027
+## 1596. NBCUniversal — Franchise, Products & Partnerships: Communications, Marketing, Strategy Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45194,7 +44690,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1615. NBCUniversal — Studio Operations, Data Analytics Internships – Summer 2027
+## 1597. NBCUniversal — Studio Operations, Data Analytics Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45222,7 +44718,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1616. NBCUniversal — NBCUniversal International Strategy & Ad Sales Internships – Summer 2027
+## 1598. NBCUniversal — NBCUniversal International Strategy & Ad Sales Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45250,7 +44746,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1617. NBCUniversal — Universal Television Entertainment Marketing, Communications & Brand Strategy Internships – Summer 2027
+## 1599. NBCUniversal — Universal Television Entertainment Marketing, Communications & Brand Strategy Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45278,7 +44774,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1618. CPP Investments — Principal, Sustainable Energies & Infrastructure Credit
+## 1600. CPP Investments — Principal, Sustainable Energies & Infrastructure Credit
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -45306,7 +44802,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1619. CPP Investments — Senior IT Analyst, Security Operations, Information & Corporate Security
+## 1601. CPP Investments — Senior IT Analyst, Security Operations, Information & Corporate Security
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -45334,7 +44830,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1620. Samsung — ePro AI Business & Data Analyst Intern
+## 1602. Samsung — ePro AI Business & Data Analyst Intern
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -45362,7 +44858,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1621. Bosch — Motorsport Software and Data Analytics Graduate Intern
+## 1603. Bosch — Motorsport Software and Data Analytics Graduate Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45390,7 +44886,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1622. Perplexity — University Recruiter
+## 1604. Perplexity — University Recruiter
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45418,7 +44914,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1623. Centene — AI Business Strategy Intern (Undergraduate Summer 2027)
+## 1605. Centene — AI Business Strategy Intern (Undergraduate Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45446,7 +44942,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1624. Microchip Technology — Intern (Data Analyst)
+## 1606. Microchip Technology — Intern (Data Analyst)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45474,35 +44970,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1625. The New York Times — Advertising Business Data Analyst Intern
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Automated Internship Engine — https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005
-
-**Subject:** BCom/JD candidate interested in The New York Times’s Advertising Business Data Analyst Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Advertising Business Data Analyst Intern opportunity. I was especially drawn to it because the role uses analytics, reporting, and business judgment to support strategy and operating decisions.
-
-I would bring a customer-focused business perspective together with hands-on analytical tools, including Excel, Power BI, Python, SQL, and Pandas.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1626. Fussball Club Cincinnati LLC (“FC Cincinnati”) — Data Analyst Intern
+## 1607. Fussball Club Cincinnati LLC (“FC Cincinnati”) — Data Analyst Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45530,7 +44998,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1627. Centene — Portfolio Data Analyst Intern (Undergraduate - Summer 2027)
+## 1608. Centene — Portfolio Data Analyst Intern (Undergraduate - Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45558,7 +45026,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1628. Ubisoft — Marketing & Data Analytics Assistant – Internship (6-month) March 2026 (W/M/NB)
+## 1609. Ubisoft — Marketing & Data Analytics Assistant – Internship (6-month) March 2026 (W/M/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -45586,7 +45054,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1629. Ubisoft — Marketing & Data Analytics Assistant - Stage (6 mois) Mars 2027 (F/H/NB)
+## 1610. Ubisoft — Marketing & Data Analytics Assistant - Stage (6 mois) Mars 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -45614,7 +45082,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1630. Ubisoft — Localization Assistant – Stage (6 mois) Avril 2027 (F/H/NB)
+## 1611. Ubisoft — Localization Assistant – Stage (6 mois) Avril 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -45642,7 +45110,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1631. Sedgwick Claims Management Services — Data Analyst Intern
+## 1612. Sedgwick Claims Management Services — Data Analyst Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45670,7 +45138,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1632. Visa — Business Strategy Intern, Data and AI Team - Summer 2027
+## 1613. Visa — Business Strategy Intern, Data and AI Team - Summer 2027
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -45698,7 +45166,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1633. Axos Bank — Data Analyst Intern
+## 1614. Axos Bank — Data Analyst Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45726,7 +45194,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1634. Highmark Health — Summer 2027 Data Analyst enGen Undergraduate Intern
+## 1615. Highmark Health — Summer 2027 Data Analyst enGen Undergraduate Intern
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -45754,7 +45222,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1635. NVIDIA — Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027
+## 1616. NVIDIA — Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45782,7 +45250,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1636. Valmont — Operations Data Analyst Intern
+## 1617. Valmont — Operations Data Analyst Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45810,7 +45278,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1637. ConnectPrep — Data Analyst Internship
+## 1618. ConnectPrep — Data Analyst Internship
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -45838,7 +45306,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1638. ID.me — Summer Intern 2027 - Analytics Engineer Intern
+## 1619. ID.me — Summer Intern 2027 - Analytics Engineer Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45866,7 +45334,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1639. Auto-Owners Insurance — Business Intelligence Developer Internship - Summer 2027
+## 1620. Auto-Owners Insurance — Business Intelligence Developer Internship - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45894,7 +45362,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1640. WSP — Transportation Data Analyst Intern - Summer 2027
+## 1621. WSP — Transportation Data Analyst Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45922,7 +45390,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1641. Allstate Insurance Company — Arity - Data Analytics Engineer Intern
+## 1622. Allstate Insurance Company — Arity - Data Analytics Engineer Intern
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -45950,7 +45418,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1642. Airbnb — Sr. Staff Experience Designer
+## 1623. Airbnb — Sr. Staff Experience Designer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -45978,7 +45446,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1643. Airbnb — Market Coordinator (12 Month Fixed-Term Contract)
+## 1624. Airbnb — Market Coordinator (12 Month Fixed-Term Contract)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46006,7 +45474,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1644. Highmark Health — Summer 2027 Data Analyst Undergraduate Intern
+## 1625. Highmark Health — Summer 2027 Data Analyst Undergraduate Intern
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -46034,7 +45502,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1645. Eulerity — AI Intern - Office of CEO & Head of Product
+## 1626. Eulerity — AI Intern - Office of CEO & Head of Product
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46062,7 +45530,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1646. Ubisoft — CRM Strategy Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
+## 1627. Ubisoft — CRM Strategy Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -46090,7 +45558,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1647. Wustl — Data Analyst - Emergency Management Intern (PRN) - Enterprise Physical Operations
+## 1628. Wustl — Data Analyst - Emergency Management Intern (PRN) - Enterprise Physical Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46118,7 +45586,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1648. Airbnb — Senior Software Engineer, Analytics Infrastructure
+## 1629. Airbnb — Senior Software Engineer, Analytics Infrastructure
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46146,7 +45614,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1649. Airbnb — Software Engineer, Analytics Infrastructure
+## 1630. Airbnb — Software Engineer, Analytics Infrastructure
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46174,7 +45642,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1650. GlobalFoundries — Strategic Pricing & AI Analytics Intern (Summer 2027)
+## 1631. GlobalFoundries — Strategic Pricing & AI Analytics Intern (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46202,7 +45670,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1651. C&S Wholesale Grocers — IS Internship - Data Analytics & Data Science
+## 1632. C&S Wholesale Grocers — IS Internship - Data Analytics & Data Science
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46230,7 +45698,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1652. Perplexity — Member of Technical Staff (Analyst, Search Crawler)
+## 1633. Perplexity — Member of Technical Staff (Analyst, Search Crawler)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46258,7 +45726,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1653. Nissan — Digital Products & AI Strategy Intern - Summer 2027 - Franklin, TN
+## 1634. Nissan — Digital Products & AI Strategy Intern - Summer 2027 - Franklin, TN
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -46286,7 +45754,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1654. NBCUniversal — Sales Strategy & Development Intern
+## 1635. NBCUniversal — Sales Strategy & Development Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46314,7 +45782,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1655. NBCUniversal — Projects & Delivery Intern
+## 1636. NBCUniversal — Projects & Delivery Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46342,7 +45810,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1656. NBCUniversal — Film Strategy Intern
+## 1637. NBCUniversal — Film Strategy Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46370,7 +45838,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1657. NBCUniversal — Facilities & Operations Intern
+## 1638. NBCUniversal — Facilities & Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46398,7 +45866,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1658. NBCUniversal — Content Strategy & Distribution Intern
+## 1639. NBCUniversal — Content Strategy & Distribution Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46426,7 +45894,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1659. NBCUniversal — Commercial Strategy & Operations Intern
+## 1640. NBCUniversal — Commercial Strategy & Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46454,7 +45922,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1660. NBCUniversal — Consumer Products Creative Operations Intern
+## 1641. NBCUniversal — Consumer Products Creative Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46482,7 +45950,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1661. NBCUniversal — Business Solutions Intern
+## 1642. NBCUniversal — Business Solutions Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46510,7 +45978,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1662. NBCUniversal — Audience Insights & Analytics Intern
+## 1643. NBCUniversal — Audience Insights & Analytics Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46538,7 +46006,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1663. NBCUniversal — Acquired Content Distribution Strategy Intern
+## 1644. NBCUniversal — Acquired Content Distribution Strategy Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46566,7 +46034,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1664. The Federal Reserve System — Summer 2027 Intern-Data Science and Business Analytics
+## 1645. The Federal Reserve System — Summer 2027 Intern-Data Science and Business Analytics
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -46594,7 +46062,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1665. General Dynamics Information Technology — GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship
+## 1646. General Dynamics Information Technology — GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -46622,7 +46090,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1666. Airbnb — Senior Enterprise Account Manager
+## 1647. Airbnb — Senior Enterprise Account Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46650,7 +46118,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1667. Etched — Silicon Operations Program Manager
+## 1648. Etched — Silicon Operations Program Manager
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46678,7 +46146,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1668. Amazon — Finance Rotation Program — Business Unit Finance Intern
+## 1649. Amazon — Finance Rotation Program — Business Unit Finance Intern
 
 **Eligibility note:** Check U.S. authorization and class year — Review the official posting for graduation date and work-authorization policy.
 
@@ -46706,7 +46174,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1669. PepsiCo Canada — IT Analytics Co-op
+## 1650. PepsiCo Canada — IT Analytics Co-op
 
 **Eligibility note:** Check co-op eligibility — Confirm co-op registration, academic term, and Canadian work authorization.
 
@@ -46734,7 +46202,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1670. S&P Global — Ratings Operations Intern
+## 1651. S&P Global — Ratings Operations Intern
 
 **Eligibility note:** Check U.S. authorization and graduation year — Review the official posting for class year, location, and work-authorization rules.
 
@@ -46762,7 +46230,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1671. Walleye Capital — Business Operations Intern
+## 1652. Walleye Capital — Business Operations Intern
 
 **Eligibility note:** Check U.S. authorization and class year — Review the official posting for degree timing and U.S. work authorization.
 
@@ -46790,7 +46258,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1672. Lucid Motors — Product Security Engineering Intern, Summer 2027
+## 1653. Groupe ITC Inc — New On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank Client service supervisor
+
+**Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
+
+**Source:** Government of Canada Job Bank — https://www.jobbank.gc.ca/jobsearch/jobposting/50782073?source=searchresults
+
+**Subject:** BCom/JD candidate interested in Groupe ITC Inc’s New On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank Client service supervisor opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the New On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank Client service supervisor opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I plan to apply through the formal process and would appreciate your perspective on the team’s current priorities and what distinguishes interns who contribute quickly.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1654. Lucid Motors — Product Security Engineering Intern, Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46818,7 +46314,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1673. Anduril — 2027 Business Systems Engineer Intern
+## 1655. Anduril — 2027 Business Systems Engineer Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46846,7 +46342,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1674. Lightmatter — Product & Test Engineering, Intern Summer 2027
+## 1656. Lightmatter — Product & Test Engineering, Intern Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46874,7 +46370,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1675. State Street — State Street Product Management Team - Business Analyst - Summer Internship 2027
+## 1657. State Street — State Street Product Management Team - Business Analyst - Summer Internship 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46902,35 +46398,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1676. NVIDIA — PhD Research Intern, Generative AI - 2026
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2016035?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in NVIDIA’s PhD Research Intern, Generative AI - 2026 opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the PhD Research Intern, Generative AI - 2026 opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1677. NVIDIA — PhD Research Intern, Fundamental Generative AI - 2027
+## 1658. NVIDIA — PhD Research Intern, Fundamental Generative AI - 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46958,7 +46426,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1678. Cisco — Business Analyst I (Intern) United States
+## 1659. Cisco — Business Analyst I (Intern) United States
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -46986,7 +46454,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1679. Boston Scientific — R&D Research Data Science Intern
+## 1660. NVIDIA — PhD Research Intern, Generative AI - 2026
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2016035?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in NVIDIA’s PhD Research Intern, Generative AI - 2026 opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the PhD Research Intern, Generative AI - 2026 opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1661. Boston Scientific — R&D Research Data Science Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47014,7 +46510,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1680. Amgen — Grad Intern - Product Quality / Global Chemistry Manufacturing & Controls Statistician (Summer 2027)
+## 1662. Amgen — Grad Intern - Product Quality / Global Chemistry Manufacturing & Controls Statistician (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47042,35 +46538,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1681. T-Mobile — Summer 2027 Business Development, Physical & Edge AI Internship
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-tmobile-external-REQ380654?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in T-Mobile’s Summer 2027 Business Development, Physical & Edge AI Internship opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Summer 2027 Business Development, Physical & Edge AI Internship opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1682. Bosch Group — AI Research Intern – Time Series Foundation Models
+## 1663. Bosch Group — AI Research Intern – Time Series Foundation Models
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47098,7 +46566,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1683. KLA — Product Development Engineering Intern
+## 1664. KLA — Product Development Engineering Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47126,7 +46594,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1684. Bloom Energy — Manufacturing Product Engineering Intern
+## 1665. Bloom Energy — Manufacturing Product Engineering Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47154,7 +46622,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1685. Johnson Controls — Air Handling Product Management & Engineering Intern
+## 1666. Johnson Controls — Air Handling Product Management & Engineering Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47182,7 +46650,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1686. CrowdStrike — Product Engineering Intern - Falcon Guardian
+## 1667. CrowdStrike — Product Engineering Intern - Falcon Guardian
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47210,7 +46678,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1687. Microsoft — Research Intern - AI System Architecture Modeling and Performance
+## 1668. GlobalFoundries — Tapeout Engineering Business Products & Engineering Intern (Summer 2027)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604927?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in GlobalFoundries’s Tapeout Engineering Business Products & Engineering Intern (Summer 2027) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Tapeout Engineering Business Products & Engineering Intern (Summer 2027) opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1669. Microsoft — Research Intern - AI System Architecture Modeling and Performance
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47238,7 +46734,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1688. Microsoft — Research Intern - Quantum Applications
+## 1670. Microsoft — Research Intern - Quantum Applications
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47266,7 +46762,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1689. Microsoft — Research Intern - AI /Machine Learning Numerics & Efficiency
+## 1671. Microsoft — Research Intern - AI /Machine Learning Numerics & Efficiency
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47294,7 +46790,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1690. Chan Zuckerberg Biohub — AI Research Scientist Intern
+## 1672. Chan Zuckerberg Biohub — AI Research Scientist Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47322,7 +46818,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1691. Sigma Computing — Product Design Graduate Intern (Summer 2027)
+## 1673. NVIDIA — Research Intern, Spatial Intelligence - Summer 2027
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027305?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in NVIDIA’s Research Intern, Spatial Intelligence - Summer 2027 opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Research Intern, Spatial Intelligence - Summer 2027 opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1674. Sigma Computing — Product Design Graduate Intern (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47350,7 +46874,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1692. Intuitive — Learning Experience Research Intern
+## 1675. Intuitive — Learning Experience Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47378,7 +46902,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1693. Crusoe — AI Applied Research PhD Intern, Summer 2027
+## 1676. Crusoe — AI Applied Research PhD Intern, Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47406,7 +46930,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1694. Zillow — Product Design Intern
+## 1677. Zillow — Product Design Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47434,7 +46958,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1695. CrowdStrike — MBA Product Manager Intern
+## 1678. CrowdStrike — MBA Product Manager Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47462,7 +46986,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1696. Bosch Group — Robot Learning Research Intern
+## 1679. Bosch Group — Robot Learning Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47490,7 +47014,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1697. Toyota Research Institute — Future Product Innovation Research Intern, Computational Cognitive Science
+## 1680. Toyota Research Institute — Future Product Innovation Research Intern, Computational Cognitive Science
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47518,35 +47042,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1698. Entegris — Research Scientist Intern - Summer 2027
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15836?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Entegris’s Research Scientist Intern - Summer 2027 opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Research Scientist Intern - Summer 2027 opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1699. Toyota Research Institute — Research Intern, Spatial Intelligence for Robotics
+## 1681. Toyota Research Institute — Research Intern, Spatial Intelligence for Robotics
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47574,7 +47070,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1700. Bosch Group — Research Intern: Multimodal Foundation Models for Healthcare
+## 1682. Bosch Group — Research Intern: Multimodal Foundation Models for Healthcare
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47602,7 +47098,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1701. Bosch Group — Research Intern: Multimodal Sensor Foundation Models
+## 1683. Bosch Group — Research Intern: Multimodal Sensor Foundation Models
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47630,7 +47126,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1702. GM Financial — Intern - Product Owner
+## 1684. Entegris — Research Scientist Intern - Summer 2027
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15836?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Entegris’s Research Scientist Intern - Summer 2027 opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Research Scientist Intern - Summer 2027 opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1685. GM Financial — Intern - Product Owner
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47658,7 +47182,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1703. Nike — NIKE, Inc. Product Graphics Design Internship
+## 1686. Nike — NIKE, Inc. Product Graphics Design Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47686,7 +47210,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1704. Intuitive — Clinical Research Intern
+## 1687. Intuitive — Clinical Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47714,7 +47238,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1705. Entegris — Product Design R&D Intern - Summer 2027
+## 1688. Entegris — Product Design R&D Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47742,7 +47266,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1706. Rhoda AI — Research Intern
+## 1689. Rhoda AI — Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47770,7 +47294,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1707. Dell Technologies — User Experience (UX) Research Intern
+## 1690. Dell Technologies — User Experience (UX) Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47798,7 +47322,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1708. Nasdaq — Technical Research Intern - 2027 Summer Internship
+## 1691. Nasdaq — Technical Research Intern - 2027 Summer Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47826,7 +47350,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1709. Snap — 2027 Generative Media Research Intern
+## 1692. Snap — 2027 Generative Media Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47854,7 +47378,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1710. Booz Allen Hamilton — University - Summer 2027 Quantum Computing Research Intern
+## 1693. Booz Allen Hamilton — University - Summer 2027 Quantum Computing Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47882,7 +47406,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1711. Duolingo — Product Designer, Thrive Intern
+## 1694. Duolingo — Product Designer, Thrive Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47910,7 +47434,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1712. Dandy — Summer 2027 Internship - PhD Research Intern
+## 1695. Dandy — Summer 2027 Internship - PhD Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47938,7 +47462,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1713. Pivotal Software — Internship, Supply Chain Analyst (Summer 2027)
+## 1696. S&P Global — Summer Intern, Business Content Design & Production
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-spgi-spgi-careers-332657?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in S&P Global’s Summer Intern, Business Content Design & Production opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Summer Intern, Business Content Design & Production opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1697. Pivotal Software — Internship, Supply Chain Analyst (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -47966,63 +47518,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1714. Federal Reserve System — 2027 Summer Internship Program - Facilities Operations Intern
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-rb-frs-R-0000033882?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Federal Reserve System’s 2027 Summer Internship Program - Facilities Operations Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the 2027 Summer Internship Program - Facilities Operations Intern opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1715. Intel — Foundry Construction, Supply Chain and Sourcing Intern – Graduate
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-intel-external-JR0287924?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Intel’s Foundry Construction, Supply Chain and Sourcing Intern – Graduate opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Foundry Construction, Supply Chain and Sourcing Intern – Graduate opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1716. T-Mobile — Summer 2027 Fiber Technical Engineering Operations Internship
+## 1698. T-Mobile — Summer 2027 Fiber Technical Engineering Operations Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48050,7 +47546,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1717. NVIDIA — AI Operations Intern, AI Clouds - Summer 2027
+## 1699. Federal Reserve System — 2027 Summer Internship Program - Facilities Operations Intern
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-rb-frs-R-0000033882?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Federal Reserve System’s 2027 Summer Internship Program - Facilities Operations Intern opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the 2027 Summer Internship Program - Facilities Operations Intern opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1700. Intel — Foundry Construction, Supply Chain and Sourcing Intern – Graduate
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-intel-external-JR0287924?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Intel’s Foundry Construction, Supply Chain and Sourcing Intern – Graduate opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Foundry Construction, Supply Chain and Sourcing Intern – Graduate opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1701. NVIDIA — AI Operations Intern, AI Clouds - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48078,7 +47630,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1718. Trane Technologies — 2027 Operations Intern
+## 1702. Trane Technologies — 2027 Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48106,7 +47658,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1719. Sherwin-Williams — 2027 Operations Intern - Birmingham, AL
+## 1703. Sherwin-Williams — 2027 Operations Intern - Birmingham, AL
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48134,7 +47686,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1720. Sherwin-Williams — 2027 Operations Intern - Bowling Green, KY
+## 1704. Sherwin-Williams — 2027 Operations Intern - Bowling Green, KY
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48162,7 +47714,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1721. Sherwin-Williams — 2027 Supply Chain Intern - Fernley, NV
+## 1705. Sherwin-Williams — 2027 Supply Chain Intern - Fernley, NV
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48190,7 +47742,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1722. Cummins — EATON - Supply Chain Intern
+## 1706. Cummins — EATON - Supply Chain Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48218,7 +47770,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1723. Thorlabs — Summer 2027 Business Operations Internship
+## 1707. Thorlabs — Summer 2027 Business Operations Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48246,7 +47798,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1724. Anduril — 2027 Deployment Operations Intern
+## 1708. Anduril — 2027 Deployment Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48274,7 +47826,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1725. BorgWarner — Supply Chain Intern
+## 1709. BorgWarner — Supply Chain Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48302,7 +47854,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1726. Ascension — Supply Chain Integration Intern
+## 1710. Ascension — Supply Chain Integration Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48330,7 +47882,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1727. Solidigm — NAND Development Business Operations Intern
+## 1711. Solidigm — NAND Development Business Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48358,7 +47910,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1728. Booz Allen Hamilton — University - Summer 2027, Procurement and Global Supply Chain Intern
+## 1712. Booz Allen Hamilton — University - Summer 2027, Procurement and Global Supply Chain Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48386,7 +47938,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1729. Bloom Energy — Commercial Operations Intern (MBA)
+## 1713. Bloom Energy — Commercial Operations Intern (MBA)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48414,7 +47966,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1730. Bloom Energy — Commercial Operations Intern
+## 1714. Bloom Energy — Commercial Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48442,7 +47994,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1731. BAE Systems — Strategic Operations Intern, Summer 2027
+## 1715. BAE Systems — Strategic Operations Intern, Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48470,7 +48022,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1732. BAE Systems — Business Operations Intern II (Fall 2026 - Spring 2027) Part-Time
+## 1716. BAE Systems — Business Operations Intern II (Fall 2026 - Spring 2027) Part-Time
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48498,7 +48050,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1733. Moderna — 2027 Intern, TMF Systems & Operations
+## 1717. Lightmatter — Supply Chain Internship - Summer 2027
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/greenhouse-lightmatter-5475089008?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Lightmatter’s Supply Chain Internship - Summer 2027 opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Supply Chain Internship - Summer 2027 opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1718. Moderna — 2027 Intern, TMF Systems & Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48526,7 +48106,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1734. NREL — Graduate Intern – Superintelligence and Learning for Transportation Safety and Operations
+## 1719. NREL — Graduate Intern – Superintelligence and Learning for Transportation Safety and Operations
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48554,63 +48134,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1735. Cardinal Health — Business Improvement Internship (Summer 2027)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191534?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Cardinal Health’s Business Improvement Internship (Summer 2027) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Business Improvement Internship (Summer 2027) opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1736. iCapital Network — Product Management - Summer 2027 Intern
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/greenhouse-icapitalnetwork-8944694002?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in iCapital Network’s Product Management - Summer 2027 Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Product Management - Summer 2027 Intern opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1737. State Street — State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship
+## 1720. State Street — State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48638,7 +48162,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1738. State Street — State Street’s Model Risk Management - Quantitative Analyst - 2027 Summer Internship
+## 1721. State Street — State Street’s Model Risk Management - Quantitative Analyst - 2027 Summer Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48666,7 +48190,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1739. Salesforce — Summer 2027 Intern - Product Management
+## 1722. iCapital Network — Product Management - Summer 2027 Intern
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/greenhouse-icapitalnetwork-8944694002?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in iCapital Network’s Product Management - Summer 2027 Intern opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Product Management - Summer 2027 Intern opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1723. Cardinal Health — Business Improvement Internship (Summer 2027)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191534?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Cardinal Health’s Business Improvement Internship (Summer 2027) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Business Improvement Internship (Summer 2027) opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1724. Salesforce — Summer 2027 Intern - Product Management
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48694,35 +48274,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1740. JLL — Operations Summer 2027 Internship – Lansing, MI (Remote)
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-jll-jllcareers-REQ541731?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in JLL’s Operations Summer 2027 Internship – Lansing, MI (Remote) opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Operations Summer 2027 Internship – Lansing, MI (Remote) opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1741. CACI — Hardware Production Technician Intern - Summer 2027
+## 1725. CACI — Hardware Production Technician Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48750,19 +48302,19 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1742. Etched — SI/PI Intern
+## 1726. JLL — Operations Summer 2027 Internship – Lansing, MI (Remote)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
-**Source:** Etched Careers — https://jobs.ashbyhq.com/Etched/45639738-0414-43e2-a5e7-b4acc928d62d
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-jll-jllcareers-REQ541731?s=gh-internships-2027
 
-**Subject:** BCom/JD candidate interested in Etched’s SI/PI Intern opportunity
+**Subject:** BCom/JD candidate interested in JLL’s Operations Summer 2027 Internship – Lansing, MI (Remote) opportunity
 
 Dear [Name],
 
 I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
 
-I’m reaching out about the SI/PI Intern opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+I’m reaching out about the Operations Summer 2027 Internship – Lansing, MI (Remote) opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
 
 I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
 
@@ -48778,7 +48330,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1743. Desjardins — Operations Support Agent
+## 1727. Desjardins — Operations Support Agent
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -48806,7 +48358,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1744. ServiceNow — Corporate Business Development Intern - MBA
+## 1728. Etched — SI/PI Intern
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Etched Careers — https://jobs.ashbyhq.com/Etched/45639738-0414-43e2-a5e7-b4acc928d62d
+
+**Subject:** BCom/JD candidate interested in Etched’s SI/PI Intern opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the SI/PI Intern opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1729. ServiceNow — Corporate Business Development Intern - MBA
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48834,7 +48414,63 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1745. Desjardins — Senior Advisor, Operational risks
+## 1730. Biohub — AI Research Scientist Intern
+
+**Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
+
+**Source:** Automated Internship Engine — https://job-boards.greenhouse.io/biohub/jobs/8400682
+
+**Subject:** BCom/JD candidate interested in Biohub’s AI Research Scientist Intern opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the AI Research Scientist Intern opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1731. University of Wyoming — Research Scientist, Associate - Wyoming Coop Unit
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Automated Internship Engine — https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/263091
+
+**Subject:** BCom/JD candidate interested in University of Wyoming’s Research Scientist, Associate - Wyoming Coop Unit opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Research Scientist, Associate - Wyoming Coop Unit opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1732. Desjardins — Senior Advisor, Operational risks
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -48862,7 +48498,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1746. Desjardins — Senior Advisor, Business strategies
+## 1733. Desjardins — Senior Advisor, Business strategies
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -48890,7 +48526,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1747. Etched — Production Intern
+## 1734. Etched — Production Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48918,7 +48554,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1748. NBCUniversal — Program Management & Operations Internships – Summer 2027
+## 1735. NBCUniversal — Program Management & Operations Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -48946,7 +48582,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1749. Lyft — Développeur(se) Logiciel Android, Lyft Solutions Urbaines
+## 1736. Lyft — Développeur(se) Logiciel Android, Lyft Solutions Urbaines
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -48974,7 +48610,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1750. Etched — Build Engineer
+## 1737. Etched — Build Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49002,7 +48638,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1751. Bosch — Intern - Logistics (local to Lincolnton NC area)
+## 1738. Bosch — Intern - Logistics (local to Lincolnton NC area)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49030,7 +48666,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1752. Bosch — Robot Learning Research Intern
+## 1739. Bosch — Robot Learning Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49058,7 +48694,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1753. NBCUniversal — NBC News Production & Digital Editorial Internships – Summer 2027
+## 1740. NBCUniversal — NBC News Production & Digital Editorial Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49086,7 +48722,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1754. NBCUniversal — NBC 4 New York Production & Editorial Internships – Summer 2027
+## 1741. NBCUniversal — NBC 4 New York Production & Editorial Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49114,7 +48750,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1755. NBCUniversal — NBC News Bureau Internships – Summer 2027
+## 1742. NBCUniversal — NBC News Bureau Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49142,7 +48778,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1756. Ubisoft — R&D Assistant - Neural Compositing for Real-Time Graphics - INTERNSHIP (F/M/NB)
+## 1743. Toyota Research Institute — Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Automated Internship Engine — https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476
+
+**Subject:** BCom/JD candidate interested in Toyota Research Institute’s Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge) opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1744. Ubisoft — R&D Assistant - Neural Compositing for Real-Time Graphics - INTERNSHIP (F/M/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -49170,7 +48834,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1757. Ubisoft — R&D Assistant - Neural Appearance for Real-Time Graphics - INTERNSHIP (F/M/NB)
+## 1745. Ubisoft — R&D Assistant - Neural Appearance for Real-Time Graphics - INTERNSHIP (F/M/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -49198,7 +48862,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1758. ServiceNow — Inbound Product Manager (Masters Summer 2027)
+## 1746. ServiceNow — Inbound Product Manager (Masters Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49226,7 +48890,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1759. NBCUniversal — Film Production & Development Internships – Summer 2027
+## 1747. NBCUniversal — Film Production & Development Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49254,7 +48918,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1760. NBCUniversal — Universal Film Production IT Support Internships – Summer 2027
+## 1748. NBCUniversal — Universal Film Production IT Support Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49282,7 +48946,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1761. Desjardins — Administrative assistant
+## 1749. Desjardins — Administrative assistant
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -49310,7 +48974,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1762. Desjardins — Business Development Advisor
+## 1750. Desjardins — Business Development Advisor
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -49338,7 +49002,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1763. Desjardins — Product Owner, Product management
+## 1751. Desjardins — Product Owner, Product management
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -49366,7 +49030,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1764. ServiceNow — Sr Outbound Product Manager Intern (MBA Summer 2027)
+## 1752. ServiceNow — Sr Outbound Product Manager Intern (MBA Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49394,7 +49058,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1765. ServiceNow — Sr Inbound Product Manager Intern (MBA Summer 2027)
+## 1753. ServiceNow — Sr Inbound Product Manager Intern (MBA Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49422,7 +49086,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1766. ServiceNow — Strategic Operations Intern (Summer 2027 - Masters Degree)
+## 1754. ServiceNow — Strategic Operations Intern (Summer 2027 - Masters Degree)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49450,7 +49114,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1767. Bosch — AI Research Intern – Time Series Foundation Models
+## 1755. Bosch — AI Research Intern – Time Series Foundation Models
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49478,7 +49142,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1768. Argonne National Laboratory — Intern – Business Information Systems, Enterprise Software Solutions
+## 1756. Argonne National Laboratory — Intern – Business Information Systems, Enterprise Software Solutions
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -49506,7 +49170,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1769. Highmark Health — Summer 2027 Business Analysis and AI enGen Undergraduate Intern
+## 1757. Highmark Health — Summer 2027 Business Analysis and AI enGen Undergraduate Intern
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -49534,7 +49198,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1770. Etched — Infrastructure Engineer - Labs
+## 1758. Etched — Infrastructure Engineer - Labs
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49562,7 +49226,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1771. ServiceNow — Product Security Intern
+## 1759. ServiceNow — Product Security Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49590,7 +49254,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1772. Desjardins — Team Lead, Market, Rate and Liquidity Risk Modeling
+## 1760. Desjardins — Team Lead, Market, Rate and Liquidity Risk Modeling
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -49618,7 +49282,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1773. NBCUniversal — Franchise, Products & Partnerships: Creative and Product Design & Development Internships – Summer 2027
+## 1761. NBCUniversal — Franchise, Products & Partnerships: Creative and Product Design & Development Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49646,7 +49310,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1774. Toyota Research Institute — Future Product Innovation Research Intern, Human-AI Computational Design
+## 1762. Toyota Research Institute — Future Product Innovation Research Intern, Human-AI Computational Design
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49674,7 +49338,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1775. Samsung — Intern, AI System Architecture Research Scientist
+## 1763. Samsung — Intern, AI System Architecture Research Scientist
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49702,7 +49366,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1776. Toyota Research Institute — Automated Driving Advanced Development Intern, Machine Learning Research
+## 1764. Toyota Research Institute — Automated Driving Advanced Development Intern, Machine Learning Research
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49730,7 +49394,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1777. Bask Health — AI Product Intern
+## 1765. Bask Health — AI Product Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49758,7 +49422,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1778. REGENT — Cybersecurity & IT Operations Intern (Summer)
+## 1766. REGENT — Cybersecurity & IT Operations Intern (Summer)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49786,7 +49450,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1779. Toyota Research Institute — Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027)
+## 1767. Toyota Research Institute — Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49814,7 +49478,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1780. Etched — Chip Simulation Software Intern
+## 1768. Etched — Chip Simulation Software Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49842,7 +49506,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1781. NBCUniversal — NBC and Telemundo Local South Florida News Internships – Summer 2027
+## 1769. NBCUniversal — NBC and Telemundo Local South Florida News Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49870,7 +49534,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1782. NBCUniversal — Telemundo Chicago News Intern – Summer 2027
+## 1770. NBCUniversal — Telemundo Chicago News Intern – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49898,7 +49562,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1783. NBCUniversal — NBC Chicago News Intern – Summer 2027
+## 1771. NBCUniversal — NBC Chicago News Intern – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49926,35 +49590,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1784. The Aerospace Corporation — 2027 Defensive Cyber Operations Grad Intern
-
-**Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
-
-**Source:** Automated Internship Engine — https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106
-
-**Subject:** BCom/JD candidate interested in The Aerospace Corporation’s 2027 Defensive Cyber Operations Grad Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the 2027 Defensive Cyber Operations Grad Intern opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I recognize that the posting’s citizenship requirement may make this specific cycle unavailable to me, so I would not want to presume eligibility. Even so, I would value learning how someone with a Canadian combined business-law background can prepare for a future recruiting cycle.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1785. NBCUniversal — Advertising & Partnerships: Data Science Internship – Summer 2027
+## 1772. NBCUniversal — Advertising & Partnerships: Data Science Internship – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -49982,7 +49618,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1786. Analog Devices — Machine Learning for Computational Sensing Research Intern
+## 1773. Analog Devices — Machine Learning for Computational Sensing Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50010,7 +49646,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1787. NBCUniversal — NBC Local Los Angeles News Internships – Summer 2027
+## 1774. NBCUniversal — NBC Local Los Angeles News Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50038,7 +49674,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1788. NBCUniversal — NBC Local Boston News Internships – Summer 2027
+## 1775. NBCUniversal — NBC Local Boston News Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50066,7 +49702,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1789. NBCUniversal — Telemundo 44 DC News Internships – Summer 2027
+## 1776. NBCUniversal — Telemundo 44 DC News Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50094,7 +49730,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1790. NBCUniversal — NBC 4 DC News Internships – Summer 2027
+## 1777. NBCUniversal — NBC 4 DC News Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50122,7 +49758,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1791. NBCUniversal — Advertising & Partnerships: Ad Products Internships – Summer 2027
+## 1778. NBCUniversal — Advertising & Partnerships: Ad Products Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50150,7 +49786,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1792. NBCUniversal — Streaming Platforms, Product Management Internships – Summer 2027
+## 1779. NBCUniversal — Streaming Platforms, Product Management Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50178,7 +49814,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1793. NBCUniversal — Product Design Internships – Summer 2027
+## 1780. NBCUniversal — Product Design Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50206,7 +49842,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1794. NBCUniversal — Media Tech: Product & Engineering Internships – Summer 2027
+## 1781. NBCUniversal — Media Tech: Product & Engineering Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50234,7 +49870,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1795. NBCUniversal — NBC Sports Logistics & Inventory Operations Internships – Summer 2027
+## 1782. NBCUniversal — NBC Sports Logistics & Inventory Operations Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50262,7 +49898,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1796. NBCUniversal — NBC Sports Production Operations Internships – Summer 2027
+## 1783. NBCUniversal — NBC Sports Production Operations Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50290,7 +49926,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1797. NBCUniversal — Telemundo Production & Operations Internships – Summer 2027
+## 1784. NBCUniversal — Telemundo Production & Operations Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50318,7 +49954,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1798. NBCUniversal — NBC Sports Olympic Digital & Production Internships – Summer 2027
+## 1785. NBCUniversal — NBC Sports Olympic Digital & Production Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50346,7 +49982,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1799. NBCUniversal — Universal Television Entertainment Production, Development & Programming Internships – Summer 2027
+## 1786. NBCUniversal — Universal Television Entertainment Production, Development & Programming Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50374,7 +50010,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1800. SS Contracting — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank tile installer
+## 1787. SS Contracting — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank tile installer
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -50402,7 +50038,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1801. Niural — AI Product Operator Intern
+## 1788. Niural — AI Product Operator Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50430,7 +50066,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1802. T-Mobile — Summer 2027 Software Engineer HR Data Products Internship
+## 1789. T-Mobile — Summer 2027 Software Engineer HR Data Products Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50458,7 +50094,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1803. Etched — Infrastructure Engineering & Projects Intern
+## 1790. Etched — Infrastructure Engineering & Projects Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50486,7 +50122,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1804. Desjardins — Senior Actuarial Advisor, Modelling and Research Competency Centre
+## 1791. Desjardins — Senior Actuarial Advisor, Modelling and Research Competency Centre
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -50514,7 +50150,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1805. Usine de Congélation de St-Bruno inc. — Student job Jobillico production helper
+## 1792. Usine de Congélation de St-Bruno inc. — Student job Jobillico production helper
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -50542,7 +50178,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1806. NBCUniversal — NBC Sports Bay Area & California - Production Assistant Intern - Summer 2027
+## 1793. NBCUniversal — NBC Sports Bay Area & California - Production Assistant Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50570,7 +50206,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1807. Toyota Research Institute — Human-Centered AI Research Intern, Human Language Models
+## 1794. Toyota Research Institute — Human-Centered AI Research Intern, Human Language Models
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50598,7 +50234,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1808. NBCUniversal — Product Management UX Intern (Hayu)
+## 1795. Toyota Research Institute — Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI)
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Automated Internship Engine — https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b
+
+**Subject:** BCom/JD candidate interested in Toyota Research Institute’s Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI) opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
+
+I’m reaching out about the Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI) opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
+
+I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1796. NBCUniversal — Product Management UX Intern (Hayu)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50626,7 +50290,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1809. USAFacts — AI Product Intern
+## 1797. USAFacts — AI Product Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50654,7 +50318,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1810. ASML — Internship- Business Systems AI
+## 1798. ASML — Internship- Business Systems AI
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50682,7 +50346,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1811. onepot — Research Intern, Machine Learning
+## 1799. onepot — Research Intern, Machine Learning
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50710,7 +50374,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1812. Desjardins — Business analyst, Business strategies
+## 1800. Desjardins — Business analyst, Business strategies
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -50738,7 +50402,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1813. Centre d?hébergement et de soins de longue durée Côté-Jardins inc. — Student job JobsMedia.ca administrative technician
+## 1801. Centre d?hébergement et de soins de longue durée Côté-Jardins inc. — Student job JobsMedia.ca administrative technician
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -50766,7 +50430,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1814. Zoox — Software Engineer Intern, Software Platforms & Product [Summer 2027]
+## 1802. Zoox — Software Engineer Intern, Software Platforms & Product [Summer 2027]
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50794,7 +50458,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1815. General Motors — 2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning
+## 1803. General Motors — 2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50822,7 +50486,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1816. Les trois chefs — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank administration officer
+## 1804. Les trois chefs — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank administration officer
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -50850,7 +50514,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1817. HCSC — Early Careers - Cybersecurity Operations Intern
+## 1805. HCSC — Early Careers - Cybersecurity Operations Intern
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -50878,7 +50542,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1818. Etched — Core Engineering Intern
+## 1806. Etched — Core Engineering Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50906,7 +50570,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1819. Intuitive Surgical — AI Research Intern
+## 1807. Intuitive Surgical — AI Research Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50934,7 +50598,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1820. Etched — Forward Deployed Systems Engineer
+## 1808. Etched — Forward Deployed Systems Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50962,7 +50626,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1821. Atoms — AI Research Intern (BS/MS)
+## 1809. Atoms — AI Research Intern (BS/MS)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -50990,7 +50654,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1822. Great American Insurance Company — Claims Lab Developer Intern – Summer 2027
+## 1810. Great American Insurance Company — Claims Lab Developer Intern – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51018,7 +50682,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1823. Great American Insurance Company — Platform Operations Developer Intern - Summer 2027
+## 1811. Great American Insurance Company — Platform Operations Developer Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51046,7 +50710,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1824. Micron Technology — Intern - Product Yield Software Engineer
+## 1812. Micron Technology — Intern - Product Yield Software Engineer
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51074,7 +50738,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1825. Ubisoft — Conseiller·ère en acquisition de talents et mobilité interne
+## 1813. Ubisoft — Conseiller·ère en acquisition de talents et mobilité interne
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -51102,7 +50766,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1826. Highmark Health — Summer 2027 Cyber Risk Management Analyst Undergraduate Intern
+## 1814. Highmark Health — Summer 2027 Cyber Risk Management Analyst Undergraduate Intern
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -51130,7 +50794,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1827. Airbnb — Support Specialist, R1
+## 1815. Airbnb — Support Specialist, R1
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51158,35 +50822,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1828. The Aerospace Corporation — 2027 Defensive Cyber Operations Undergrad Intern
-
-**Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
-
-**Source:** Automated Internship Engine — https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011
-
-**Subject:** BCom/JD candidate interested in The Aerospace Corporation’s 2027 Defensive Cyber Operations Undergrad Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the 2027 Defensive Cyber Operations Undergrad Intern opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I recognize that the posting’s citizenship requirement may make this specific cycle unavailable to me, so I would not want to presume eligibility. Even so, I would value learning how someone with a Canadian combined business-law background can prepare for a future recruiting cycle.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1829. Ubisoft — Data Operations Assistant - Stage (6 mois) Mars 2026 (F/H/NB)
+## 1816. Ubisoft — Data Operations Assistant - Stage (6 mois) Mars 2026 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -51214,7 +50850,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1830. OpenArt AI — Early Adopter & Product Builder Intern, Creative AI
+## 1817. OpenArt AI — Early Adopter & Product Builder Intern, Creative AI
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51242,7 +50878,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1831. InfiniteQuant — Quantitative Researcher - Internship - Summer 2027
+## 1818. InfiniteQuant — Quantitative Researcher - Internship - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51270,7 +50906,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1832. Aptiv — AI Product Analyst Intern
+## 1819. Aptiv — AI Product Analyst Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51298,7 +50934,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1833. Airbnb — Senior Support Specialist, Premium
+## 1820. Airbnb — Senior Support Specialist, Premium
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51326,7 +50962,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1834. Salesforce — Summer 2027 Intern - AI Research
+## 1821. Salesforce — Summer 2027 Intern - AI Research
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51354,7 +50990,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1835. Scale AI — Machine Learning Research Intern (Summer 2027)
+## 1822. Scale AI — Machine Learning Research Intern (Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51382,7 +51018,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1836. The Allen Institute for AI — Research Internship, AI for Science
+## 1823. The Allen Institute for AI — Research Internship, AI for Science
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51410,35 +51046,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1837. Graviton — Quantitative Researcher - 2027 Summer Internship
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Automated Internship Engine — https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002
-
-**Subject:** BCom/JD candidate interested in Graviton’s Quantitative Researcher - 2027 Summer Internship opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the Quantitative Researcher - 2027 Summer Internship opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1838. Bosch — AI Research Intern: Wireless Foundation Models
+## 1824. Bosch — AI Research Intern: Wireless Foundation Models
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51466,7 +51074,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1839. Nissan — Applied AI & Business Innovation Intern - Summer 2027 - Franklin, TN
+## 1825. Nissan — Applied AI & Business Innovation Intern - Summer 2027 - Franklin, TN
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -51494,7 +51102,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1840. Jain Global — Quantitative Research Intern – Equity Arbitrage
+## 1826. Jain Global — Quantitative Research Intern – Equity Arbitrage
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51522,7 +51130,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1841. General Motors — 2027 Summer Intern, AI Research, Embodied AI (Masters)
+## 1827. General Motors — 2027 Summer Intern, AI Research, Embodied AI (Masters)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51550,7 +51158,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1842. Etched — Internal Acceleration, Engineer (ASIC)
+## 1828. Etched — Internal Acceleration, Engineer (ASIC)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51578,7 +51186,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1843. Etched — Internal Acceleration, Engineer (Hardware)
+## 1829. Etched — Internal Acceleration, Engineer (Hardware)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51606,7 +51214,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1844. Etched — Internal Acceleration, Engineer (Production)
+## 1830. Etched — Internal Acceleration, Engineer (Production)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51634,7 +51242,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1845. Etched — Internal Acceleration, Research Engineer (Production)
+## 1831. Etched — Internal Acceleration, Research Engineer (Production)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51662,7 +51270,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1846. Etched — Internal Acceleration, Engineer (Special Projects)
+## 1832. Etched — Internal Acceleration, Engineer (Special Projects)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51690,7 +51298,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1847. Nissan — AI Robotics Research Intern - Summer 2027 - Santa Clara, CA
+## 1833. Nissan — AI Robotics Research Intern - Summer 2027 - Santa Clara, CA
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51718,7 +51326,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1848. QTS — Summer 2027 Internship: Information Security Operations Analyst
+## 1834. QTS — Summer 2027 Internship: Information Security Operations Analyst
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -51746,7 +51354,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1849. JPMorganChase — 2027 AI Research Associate Program - Internship
+## 1835. JPMorganChase — 2027 AI Research Associate Program - Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51774,7 +51382,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1850. Field AI — Robotics Research, Embodied AI Intern (Spring & Summer 2027)
+## 1836. Field AI — Robotics Research, Embodied AI Intern (Spring & Summer 2027)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51802,7 +51410,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1851. NBCUniversal — Media Product Management Intern
+## 1837. NBCUniversal — Media Product Management Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51830,35 +51438,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1852. Azul Systems — IT Intern, AI and Operations
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Automated Internship Engine — https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db
-
-**Subject:** BCom/JD candidate interested in Azul Systems’s IT Intern, AI and Operations opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. In my current role, I support more than 50 clients per shift, identify needs-based financial solutions, and handle confidential information under banking privacy and compliance procedures. I also work with Excel, Power BI, Python, SQL, and Pandas.
-
-I’m reaching out about the IT Intern, AI and Operations opportunity. I was especially drawn to it because the role offers hands-on exposure to commercial analysis, operations, and cross-functional decision-making.
-
-I would bring hands-on financial-services experience, a strong commerce foundation, and a disciplined approach to analysis, communication, and follow-through. I am particularly interested in strengthening my capabilities in Business analysis, Operations, and Excel.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1853. General Motors — 2027 Summer Intern - Research and Development - AI/Machine Learning
+## 1838. General Motors — 2027 Summer Intern - Research and Development - AI/Machine Learning
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -51886,7 +51466,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1854. General Motors — 2027 Summer Intern - Research and Development - Machine Learning for Automation
+## 1839. General Motors — 2027 Summer Intern - Research and Development - Machine Learning for Automation
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -51914,7 +51494,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1855. Perplexity — Recruiting Coordinator
+## 1840. Perplexity — Recruiting Coordinator
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -51942,7 +51522,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1856. Highmark Health — Summer 2027 Artificial Intelligence (Operations) Undergraduate Intern
+## 1841. Highmark Health — Summer 2027 Artificial Intelligence (Operations) Undergraduate Intern
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -51970,7 +51550,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1857. ABB — AI Engineering, Business Systems Intern- Summer 2027
+## 1842. ABB — AI Engineering, Business Systems Intern- Summer 2027
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -51998,7 +51578,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1858. Jain Global — Quant Research Intern, Systematic Trading
+## 1843. Jain Global — Quant Research Intern, Systematic Trading
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52026,7 +51606,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1859. NBCUniversal — Social Video Intern
+## 1844. NBCUniversal — Social Video Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52054,7 +51634,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1860. NBCUniversal — Post Production Intern
+## 1845. NBCUniversal — Post Production Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52082,7 +51662,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1861. NBCUniversal — Production & Operations Intern
+## 1846. NBCUniversal — Production & Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52110,7 +51690,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1862. NBCUniversal — Key Account Management Intern
+## 1847. NBCUniversal — Key Account Management Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52138,7 +51718,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1863. NBCUniversal — IT Workplace Operations Intern
+## 1848. NBCUniversal — IT Workplace Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52166,7 +51746,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1864. NBCUniversal — Film Services Intern
+## 1849. NBCUniversal — Film Services Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52194,7 +51774,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1865. NBCUniversal — Business Licensing Intern
+## 1850. NBCUniversal — Business Licensing Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52222,7 +51802,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1866. NBCUniversal — Business Data (Film IT) Intern
+## 1851. NBCUniversal — Business Data (Film IT) Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52250,7 +51830,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1867. NBCUniversal — Acquisitions & Production Intern
+## 1852. NBCUniversal — Acquisitions & Production Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52278,7 +51858,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1868. HNTB — Intern - AI Business Process Developer (Summer 2027)
+## 1853. HNTB — Intern - AI Business Process Developer (Summer 2027)
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -52306,7 +51886,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1869. Vanguard — College to Corporate IT Internship-Risk & Security Engineer (PA)
+## 1854. Vanguard — College to Corporate IT Internship-Risk & Security Engineer (PA)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52334,7 +51914,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1870. Perplexity — Member of Technical Staff (New Grad)
+## 1855. Perplexity — Member of Technical Staff (New Grad)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52362,7 +51942,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1871. ATS EXCAVATION INC. — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank administrative assistant
+## 1856. ATS EXCAVATION INC. — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank administrative assistant
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -52390,7 +51970,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1872. RTX — Cyber Research Internship (Summer 2027) - Onsite
+## 1857. RTX — Cyber Research Internship (Summer 2027) - Onsite
 
 **Eligibility note:** U.S. citizenship requirement — The source indicates that U.S. citizenship is required.
 
@@ -52418,7 +51998,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1873. Lyft — Stagiaire en ingénierie d'industrialisation (été 2027)
+## 1858. Lyft — Stagiaire en ingénierie d'industrialisation (été 2027)
 
 **Eligibility note:** Check co-op enrollment — Confirm that your University of Ottawa program can register or approve this co-op work term.
 
@@ -52446,7 +52026,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1874. Perplexity — Member of Technical Staff, AI Products (Early Career - Industry)
+## 1859. Perplexity — Member of Technical Staff, AI Products (Early Career - Industry)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52474,7 +52054,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1875. Comcast — Business Analytics Co-op
+## 1860. Comcast — Business Analytics Co-op
 
 **Eligibility note:** Check U.S. authorization and co-op rules — Review the official posting for co-op enrollment, timing, and U.S. work authorization.
 
@@ -52502,7 +52082,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1876. MITRE — Communications Network Engineering Intern
+## 1861. MITRE — Communications Network Engineering Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52530,7 +52110,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1877. MITRE — Communications Engineering Intern
+## 1862. MITRE — Communications Engineering Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52558,7 +52138,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1878. NVIDIA — Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027
+## 1863. NVIDIA — Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52586,7 +52166,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1879. NVIDIA — Product Marketing Intern, DGX Products - Summer 2027
+## 1864. NVIDIA — Product Marketing Intern, DGX Products - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52614,7 +52194,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1880. Salesforce — Summer 2027 Intern - Product Marketing, Missionforce
+## 1865. Salesforce — Summer 2027 Intern - Product Marketing, Missionforce
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52642,7 +52222,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1881. Marvell — Product Marketing Intern, MBA - Summer 2027
+## 1866. Marvell — Product Marketing Intern, MBA - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52670,7 +52250,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1882. Samsung Semiconductor — Intern, Architecture Research Engineer (Resilient Collective Communications)
+## 1867. Samsung Semiconductor — Intern, Architecture Research Engineer (Resilient Collective Communications)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52698,35 +52278,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1883. Monolithic Power Systems — Product Marketing Engineer Intern
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1965?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Monolithic Power Systems’s Product Marketing Engineer Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I communicate with a high volume of clients, identify needs, and explain financial services clearly in a regulated setting. I also speak English, French, and Mandarin.
-
-I’m reaching out about the Product Marketing Engineer Intern opportunity. I was especially drawn to it because the opportunity combines stakeholder communication, commercial judgment, and organized program execution.
-
-I would bring trilingual client communication, team leadership, and experience maintaining service quality in fast-moving environments. I am particularly interested in strengthening my capabilities in Communications, Stakeholder service, and Program coordination.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1884. Anduril — 2027 Product Marketing Intern
+## 1868. Anduril — 2027 Product Marketing Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52754,7 +52306,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1885. Parspec — Product Marketing Manager Intern
+## 1869. Monolithic Power Systems — Product Marketing Engineer Intern
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1965?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Monolithic Power Systems’s Product Marketing Engineer Intern opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I communicate with a high volume of clients, identify needs, and explain financial services clearly in a regulated setting. I also speak English, French, and Mandarin.
+
+I’m reaching out about the Product Marketing Engineer Intern opportunity. I was especially drawn to it because the opportunity combines stakeholder communication, commercial judgment, and organized program execution.
+
+I would bring trilingual client communication, team leadership, and experience maintaining service quality in fast-moving environments. I am particularly interested in strengthening my capabilities in Communications, Stakeholder service, and Program coordination.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1870. Parspec — Product Marketing Manager Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52782,7 +52362,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1886. Stryker — Summer 2027 Internship - Sales Operations Intern - San Jose, CA
+## 1871. Stryker — Summer 2027 Internship - Sales Operations Intern - San Jose, CA
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52810,7 +52390,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1887. Formlabs — 2027 (Summer) Marketing Events Logistics Intern
+## 1872. Formlabs — 2027 (Summer) Marketing Events Logistics Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52838,7 +52418,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1888. NVIDIA — Human Resources Intern - Summer 2027
+## 1873. NVIDIA — Human Resources Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52866,7 +52446,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1889. EXP — Macy's 2027 Summer Internship, Human Resources - Compensation
+## 1874. EXP — Macy's 2027 Summer Internship, Human Resources - Compensation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52894,35 +52474,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1890. Dow Jones — Summer 2027 Internship Program -- B2B Risk Marketing Intern
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_56543?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Dow Jones’s Summer 2027 Internship Program -- B2B Risk Marketing Intern opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I communicate with a high volume of clients, identify needs, and explain financial services clearly in a regulated setting. I also speak English, French, and Mandarin.
-
-I’m reaching out about the Summer 2027 Internship Program -- B2B Risk Marketing Intern opportunity. I was especially drawn to it because the opportunity combines stakeholder communication, commercial judgment, and organized program execution.
-
-I would bring trilingual client communication, team leadership, and experience maintaining service quality in fast-moving environments. I am particularly interested in strengthening my capabilities in Communications, Stakeholder service, and Program coordination.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1891. Formlabs — 2027 (Summer) Marketing - Social Media Intern
+## 1875. Formlabs — 2027 (Summer) Marketing - Social Media Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52950,7 +52502,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1892. Bloom Energy — Sales Operations Intern
+## 1876. Dow Jones — Summer 2027 Internship Program -- B2B Risk Marketing Intern
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_56543?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in Dow Jones’s Summer 2027 Internship Program -- B2B Risk Marketing Intern opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I communicate with a high volume of clients, identify needs, and explain financial services clearly in a regulated setting. I also speak English, French, and Mandarin.
+
+I’m reaching out about the Summer 2027 Internship Program -- B2B Risk Marketing Intern opportunity. I was especially drawn to it because the opportunity combines stakeholder communication, commercial judgment, and organized program execution.
+
+I would bring trilingual client communication, team leadership, and experience maintaining service quality in fast-moving environments. I am particularly interested in strengthening my capabilities in Communications, Stakeholder service, and Program coordination.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1877. Bloom Energy — Sales Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -52978,7 +52558,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1893. Avis Budget Group — Accelerate - Marketing Intern, Paid Media - Summer 2027
+## 1878. Avis Budget Group — Accelerate - Marketing Intern, Paid Media - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53006,7 +52586,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1894. Thorlabs — Summer 2027 Technical Marketing Internship
+## 1879. Thorlabs — Summer 2027 Technical Marketing Internship
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53034,7 +52614,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1895. Crusoe — Content and Social Media Marketing Intern
+## 1880. Crusoe — Content and Social Media Marketing Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53062,7 +52642,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1896. Crusoe — Marketing Operations Intern
+## 1881. Crusoe — Marketing Operations Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53090,7 +52670,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1897. Thorlabs — Summer 2027 Internship Human Resources
+## 1882. Thorlabs — Summer 2027 Internship Human Resources
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53118,7 +52698,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1898. Anduril — 2027 Brand Marketing Intern
+## 1883. Anduril — 2027 Brand Marketing Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53146,7 +52726,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1899. AMAROK Security — Marketing Intern
+## 1884. AMAROK Security — Marketing Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53174,7 +52754,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1900. Caterpillar — 2027 Summer Corporate Internship - Human Resources
+## 1885. Caterpillar — 2027 Summer Corporate Internship - Human Resources
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53202,7 +52782,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1901. Emerson Electric — Life Sciences Marketing Intern
+## 1886. Emerson Electric — Life Sciences Marketing Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53230,35 +52810,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1902. NREL — Graduate Intern – Connected Vehicle (V2X) Communications Modeling and Traffic Simulation
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-nrel-nlr-R14564?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in NREL’s Graduate Intern – Connected Vehicle (V2X) Communications Modeling and Traffic Simulation opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I communicate with a high volume of clients, identify needs, and explain financial services clearly in a regulated setting. I also speak English, French, and Mandarin.
-
-I’m reaching out about the Graduate Intern – Connected Vehicle (V2X) Communications Modeling and Traffic Simulation opportunity. I was especially drawn to it because the opportunity combines stakeholder communication, commercial judgment, and organized program execution.
-
-I would bring trilingual client communication, team leadership, and experience maintaining service quality in fast-moving environments. I am particularly interested in strengthening my capabilities in Communications, Stakeholder service, and Program coordination.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1903. Cisco — Field Sales I (Intern) - United States
+## 1887. Cisco — Field Sales I (Intern) - United States
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53286,7 +52838,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1904. Cisco — Technical Sales I (Intern) - United States
+## 1888. Cisco — Technical Sales I (Intern) - United States
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53314,7 +52866,35 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1905. Salesforce — Summer 2027 Intern - Field Marketing, Missionforce
+## 1889. NREL — Graduate Intern – Connected Vehicle (V2X) Communications Modeling and Traffic Simulation
+
+**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
+
+**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-nrel-nlr-R14564?s=gh-internships-2027
+
+**Subject:** BCom/JD candidate interested in NREL’s Graduate Intern – Connected Vehicle (V2X) Communications Modeling and Traffic Simulation opportunity
+
+Dear [Name],
+
+I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I communicate with a high volume of clients, identify needs, and explain financial services clearly in a regulated setting. I also speak English, French, and Mandarin.
+
+I’m reaching out about the Graduate Intern – Connected Vehicle (V2X) Communications Modeling and Traffic Simulation opportunity. I was especially drawn to it because the opportunity combines stakeholder communication, commercial judgment, and organized program execution.
+
+I would bring trilingual client communication, team leadership, and experience maintaining service quality in fast-moving environments. I am particularly interested in strengthening my capabilities in Communications, Stakeholder service, and Program coordination.
+
+I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
+
+Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
+
+Best regards,
+Katherine Du
+BCom/JD Candidate, University of Ottawa
+kdu039@uottawa.ca | 613-447-2562
+linkedin.com/in/katherine-du1
+
+---
+
+## 1890. Salesforce — Summer 2027 Intern - Field Marketing, Missionforce
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53342,35 +52922,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1906. Adobe — 2027 Intern - Adobe Sales Academy BDR
-
-**Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
-
-**Source:** Zapply Internships 2027 — https://zapply.jobs/l/d/workday-adobe-external-experienced-R170977?s=gh-internships-2027
-
-**Subject:** BCom/JD candidate interested in Adobe’s 2027 Intern - Adobe Sales Academy BDR opportunity
-
-Dear [Name],
-
-I’m Katherine Du, a University of Ottawa BCom/JD candidate with a 9.5/10 CGPA and a Client Advisor at RBC. At RBC, I communicate with a high volume of clients, identify needs, and explain financial services clearly in a regulated setting. I also speak English, French, and Mandarin.
-
-I’m reaching out about the 2027 Intern - Adobe Sales Academy BDR opportunity. I was especially drawn to it because the opportunity combines stakeholder communication, commercial judgment, and organized program execution.
-
-I would bring trilingual client communication, team leadership, and experience maintaining service quality in fast-moving environments. I am particularly interested in strengthening my capabilities in Communications, Stakeholder service, and Program coordination.
-
-I am reviewing the formal requirements carefully before applying, including the U.S. work-authorization and academic-timing requirements. I would appreciate a clearer view of how the team evaluates candidates.
-
-Would you be open to a 15-minute conversation in the next two weeks? I would be grateful for the chance to hear about your experience and ask a few focused questions. I am happy to work around your schedule.
-
-Best regards,
-Katherine Du
-BCom/JD Candidate, University of Ottawa
-kdu039@uottawa.ca | 613-447-2562
-linkedin.com/in/katherine-du1
-
----
-
-## 1907. Desjardins — Advisor, Communications
+## 1891. Desjardins — Advisor, Communications
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -53398,7 +52950,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1908. MAXIMUS AKINNUOYE WINDOW CLEANING — New Hybrid Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank cleaning services sales representative
+## 1892. MAXIMUS AKINNUOYE WINDOW CLEANING — New Hybrid Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank cleaning services sales representative
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -53426,7 +52978,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1909. Novolecs inc. — New Student job Jobillico human resources assistant
+## 1893. Novolecs inc. — New Student job Jobillico human resources assistant
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -53454,7 +53006,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1910. NBCUniversal — NBC Telemundo Connecticut Sales Marketing Intern - Summer 2027
+## 1894. NBCUniversal — NBC Telemundo Connecticut Sales Marketing Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53482,7 +53034,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1911. Lyft — Gestionnaire de Programme Matériel, Lyft Solutions Urbaines
+## 1895. Lyft — Gestionnaire de Programme Matériel, Lyft Solutions Urbaines
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -53510,7 +53062,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1912. NBCUniversal — NBC Telemundo Connecticut Sales Intern - Summer 2027
+## 1896. NBCUniversal — NBC Telemundo Connecticut Sales Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53538,7 +53090,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1913. Bosch — Sales Intern
+## 1897. Bosch — Sales Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53566,7 +53118,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1914. Desjardins — Technician, Human resources
+## 1898. Desjardins — Technician, Human resources
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -53594,7 +53146,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1915. NBCUniversal — Universal Pictures Publicty & Marketing Internships – Summer 2027
+## 1899. NBCUniversal — Universal Pictures Publicty & Marketing Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53622,7 +53174,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1916. NBCUniversal — Focus Features Publicity & Marketing Internships – Summer 2027
+## 1900. NBCUniversal — Focus Features Publicity & Marketing Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53650,7 +53202,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1917. NBCUniversal — Marketing Intern (f/m/d)
+## 1901. NBCUniversal — Marketing Intern (f/m/d)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53678,7 +53230,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1918. Dropbox — Implementation Architect
+## 1902. Dropbox — Implementation Architect
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -53706,7 +53258,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1919. NBCUniversal — Human Resources & Culture Internships – Summer 2027
+## 1903. NBCUniversal — Human Resources & Culture Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53734,7 +53286,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1920. Vancouver Region Educational Services — Hybrid Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank marketing manager
+## 1904. Vancouver Region Educational Services — Hybrid Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank marketing manager
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -53762,7 +53314,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1921. Etched — Community
+## 1905. Etched — Community
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53790,7 +53342,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1922. Etched — Field Marketing
+## 1906. Etched — Field Marketing
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53818,7 +53370,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1923. Etched — Events
+## 1907. Etched — Events
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53846,7 +53398,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1924. Airbnb — Marketing & CRM Intern, Experiences
+## 1908. Airbnb — Marketing & CRM Intern, Experiences
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53874,7 +53426,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1925. Airbnb — Sales Development Intern, Services, France
+## 1909. Airbnb — Sales Development Intern, Services, France
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53902,7 +53454,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1926. Airbnb — Sales Development Intern, Services, Italy
+## 1910. Airbnb — Sales Development Intern, Services, Italy
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53930,7 +53482,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1927. Airbnb — Sales Development Intern, Services, Spain
+## 1911. Airbnb — Sales Development Intern, Services, Spain
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -53958,7 +53510,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1928. Colservices Inc — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank staff relations administrator
+## 1912. Colservices Inc — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank staff relations administrator
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -53986,7 +53538,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1929. Ubisoft — CRM Webmarketing Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
+## 1913. Ubisoft — CRM Webmarketing Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54014,7 +53566,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1930. NBCUniversal — NBCU Chicago Sales Intern – Summer 2027
+## 1914. NBCUniversal — NBCU Chicago Sales Intern – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54042,7 +53594,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1931. NBCUniversal — Creative Marketing Intern, NBCU Local Chicago – Summer 2027
+## 1915. NBCUniversal — Creative Marketing Intern, NBCU Local Chicago – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54070,7 +53622,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1932. SAVINEASY — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank retail sales associate
+## 1916. SAVINEASY — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank retail sales associate
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54098,7 +53650,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1933. SAVINEASY — Remote Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank social media content specialist
+## 1917. SAVINEASY — Remote Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank social media content specialist
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54126,7 +53678,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1934. NBCUniversal — NBC 4 New York Marketing & Digital Design Internships – Summer 2027
+## 1918. NBCUniversal — NBC 4 New York Marketing & Digital Design Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54154,7 +53706,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1935. Eulerity — Recruiting Intern - AI & Automation
+## 1919. Eulerity — Recruiting Intern - AI & Automation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54182,7 +53734,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1936. NBCUniversal — NBC News Communications, Marketing, and Research Internships – Summer 2027
+## 1920. NBCUniversal — NBC News Communications, Marketing, and Research Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54210,7 +53762,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1937. NBCUniversal — Sr. Manager, Internal Communications
+## 1921. NBCUniversal — Sr. Manager, Internal Communications
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54238,7 +53790,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1938. NBCUniversal — NBC Local Production, Editorial, and Marketing News Internships – Summer 2027
+## 1922. NBCUniversal — NBC Local Production, Editorial, and Marketing News Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54266,7 +53818,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1939. NBCUniversal — Ad Sales Sales & Sales Support Internships – Summer 2027
+## 1923. NBCUniversal — Ad Sales Sales & Sales Support Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54294,7 +53846,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1940. NBCUniversal — Ad Sales Enterprise Marketing & Communications Internships – Summer 2027
+## 1924. NBCUniversal — Ad Sales Enterprise Marketing & Communications Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54322,7 +53874,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1941. NBCUniversal — Advertising & Partnerships: Enterprise Marketing & Communications Internships – Summer 2027
+## 1925. NBCUniversal — Advertising & Partnerships: Enterprise Marketing & Communications Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54350,7 +53902,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1942. NBCUniversal — Advertising & Partnerships: Sales & Sales Support Internships – Summer 2027
+## 1926. NBCUniversal — Advertising & Partnerships: Sales & Sales Support Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54378,7 +53930,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1943. NBCUniversal — Platform Distribution & Partnerships: Business Development, Sales & Marketing Internships – Summer 2027
+## 1927. NBCUniversal — Platform Distribution & Partnerships: Business Development, Sales & Marketing Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54406,7 +53958,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1944. NBCUniversal — Universal Pictures Publicity & Marketing Internships – Summer 2027
+## 1928. NBCUniversal — Universal Pictures Publicity & Marketing Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54434,7 +53986,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1945. NBCUniversal — NBC Sports Marketing Internships – Summer 2027
+## 1929. NBCUniversal — NBC Sports Marketing Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54462,7 +54014,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1946. NBCUniversal — Telemundo News, Digital, & Marketing Internships – Summer 2027
+## 1930. NBCUniversal — Telemundo News, Digital, & Marketing Internships – Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54490,7 +54042,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1947. Motorola — Software Presales Enablement Intern - Summer Internship 2027
+## 1931. Motorola — Software Presales Enablement Intern - Summer Internship 2027
 
 **Eligibility note:** Independent U.S. authorization likely required — The source indicates no employment-immigration sponsorship; verify whether you already have qualifying U.S. authorization.
 
@@ -54518,7 +54070,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1948. Ubisoft — Event & Knowledge Management Assistant - Stage (6 mois) - Janvier 2027 (F/H/NB)
+## 1932. Ubisoft — Event & Knowledge Management Assistant - Stage (6 mois) - Janvier 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54546,7 +54098,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1949. NBCUniversal — NBC Sports Bay Area & California - Sales & Digital Media Intern - Summer 2027
+## 1933. NBCUniversal — NBC Sports Bay Area & California - Sales & Digital Media Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54574,7 +54126,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1950. NBCUniversal — NBC Sports Bay Area & California - Marketing Intern - Summer 2027
+## 1934. NBCUniversal — NBC Sports Bay Area & California - Marketing Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54602,7 +54154,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1951. Booz Allen — University, AI RAN Telecommunications Engineer Intern
+## 1935. Booz Allen — University, AI RAN Telecommunications Engineer Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54630,7 +54182,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1952. Perplexity — Member of Technical Staff (GTM Engineer, Growth)
+## 1936. Perplexity — Member of Technical Staff (GTM Engineer, Growth)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54658,7 +54210,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1953. Desjardins — Advisor, Business development and sales support
+## 1937. Desjardins — Advisor, Business development and sales support
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54686,7 +54238,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1954. Ubisoft — Historical Research Assistant - Stage (6 mois) Mars 2027 (F/H/NB)
+## 1938. Ubisoft — Historical Research Assistant - Stage (6 mois) Mars 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54714,7 +54266,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1955. Jouet KID Inc — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank commercial salesperson - wholesale
+## 1939. Jouet KID Inc — On site Direct Apply Student job Posted on Job Bank This job was posted directly by the employer on Job Bank. Job Bank commercial salesperson - wholesale
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54742,7 +54294,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1956. AECOM — Digital Infrastructure / Telecommunications Engineering Intern
+## 1940. AECOM — Digital Infrastructure / Telecommunications Engineering Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54770,7 +54322,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1957. Greystone — Salesforce Developer Intern - Summer 2027
+## 1941. Greystone — Salesforce Developer Intern - Summer 2027
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54798,7 +54350,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1958. Ubisoft — Growth Marketing Assistant – Internship (6-month) January 2027 (W/M/NB)
+## 1942. Ubisoft — Growth Marketing Assistant – Internship (6-month) January 2027 (W/M/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54826,7 +54378,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1959. Ubisoft — Growth Marketing Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)
+## 1943. Ubisoft — Growth Marketing Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54854,7 +54406,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1960. Eulerity — Product Marketing Intern - AI & Automation
+## 1944. Eulerity — Product Marketing Intern - AI & Automation
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54882,7 +54434,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1961. Ubisoft — Portfolio Management Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
+## 1945. Ubisoft — Portfolio Management Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54910,7 +54462,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1962. Ubisoft — Communication & PR Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
+## 1946. Ubisoft — Communication & PR Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54938,7 +54490,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1963. Stripe — Sales Development Representative (Spanish fluency)
+## 1947. Stripe — Sales Development Representative (Spanish fluency)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -54966,7 +54518,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1964. Ubisoft — Talent Acquisition & Campus Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)
+## 1948. Ubisoft — Talent Acquisition & Campus Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -54994,7 +54546,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1965. Ubisoft — Creator Operations Project Manager Assistant – Internship (6-month) January 2027 (W/M/NB)
+## 1949. Ubisoft — Creator Operations Project Manager Assistant – Internship (6-month) January 2027 (W/M/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -55022,7 +54574,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1966. Ubisoft — Creator Operations Project Manager Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
+## 1950. Ubisoft — Creator Operations Project Manager Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -55050,7 +54602,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1967. NBCUniversal — TV Format Sales & Production Intern
+## 1951. NBCUniversal — TV Format Sales & Production Intern
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -55078,7 +54630,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1968. NBCUniversal — Sales Intern (TV Distribution)
+## 1952. NBCUniversal — Sales Intern (TV Distribution)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -55106,7 +54658,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1969. NBCUniversal — Commercial Intern (Ad & Affiliate Sales)
+## 1953. NBCUniversal — Commercial Intern (Ad & Affiliate Sales)
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -55134,7 +54686,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1970. Ubisoft — Brand Manager Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
+## 1954. Ubisoft — Brand Manager Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
 
 **Eligibility note:** Likely match — Confirm term dates, academic registration, and Canadian work authorization on the official posting.
 
@@ -55162,7 +54714,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1971. Etched — Experiences
+## 1955. Etched — Experiences
 
 **Eligibility note:** Check U.S. requirements — Confirm class year, degree timing, citizenship, and whether independent U.S. work authorization is required.
 
@@ -55190,7 +54742,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1972. ABB — Finance Intern
+## 1956. ABB — Finance Intern
 
 **Eligibility note:** Check U.S. authorization and term — Review the official posting for graduation timing, fall availability, and U.S. work authorization.
 
@@ -55218,7 +54770,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1973. Etched — Finance Intern
+## 1957. Etched — Finance Intern
 
 **Eligibility note:** Check U.S. authorization and class year — Review the official posting for term, class year, and work-authorization rules.
 
@@ -55246,7 +54798,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1974. City of Toronto — Summer Law Student Program
+## 1958. City of Toronto — Summer Law Student Program
 
 **Eligibility note:** Future-cycle / year check — The program recruits second-year law students through the formal viLawPortal process. Monitor the applicable Law Society recruitment calendar.
 
@@ -55274,7 +54826,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1975. Santa Clara County District Attorney — 1L / 2L Law Clerk Internship
+## 1959. Santa Clara County District Attorney — 1L / 2L Law Clerk Internship
 
 **Eligibility note:** Check U.S. law-school and authorization rules — The 2L deadline is August 21, 2026, and the 1L deadline is February 5, 2027. Confirm whether a Canadian JD student may participate.
 
@@ -55302,7 +54854,7 @@ linkedin.com/in/katherine-du1
 
 ---
 
-## 1976. U.S. Department of Justice — Law Student Volunteer
+## 1960. U.S. Department of Justice — Law Student Volunteer
 
 **Eligibility note:** Citizenship and U.S.-law-school restrictions likely — Many DOJ volunteer placements require U.S. citizenship, security review, and enrollment in an accredited U.S. law school. Review each component’s requirements carefully.
 
