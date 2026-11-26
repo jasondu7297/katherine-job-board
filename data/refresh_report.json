@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T23:03:34Z",
+  "generated_at": "2026-11-26T22:57:35Z",
   "offline": false,
   "publish_blocked": false,
   "block_reasons": [],
   "seed_records": 86,
-  "dynamic_candidates_raw": 3438,
-  "dynamic_candidates_unique": 1916,
-  "total_jobs": 1950,
+  "dynamic_candidates_raw": 3504,
+  "dynamic_candidates_unique": 1976,
+  "total_jobs": 2010,
   "successful_core_sources": 13,
   "successful_source_families": [
     "ashby",
@@ -23,16 +23,16 @@
   ],
   "job_bank_completed": true,
   "status_counts": {
-    "success": 80,
+    "success": 81,
     "empty": 26,
     "skipped": 56,
-    "error": 63
+    "error": 62
   },
   "family_counts": {
     "government_canada": {
       "sources": 48,
-      "retrieved": 144,
-      "accepted": 43,
+      "retrieved": 161,
+      "accepted": 52,
       "errors": 10
     },
     "adzuna": {
@@ -43,8 +43,8 @@
     },
     "ashby": {
       "sources": 16,
-      "retrieved": 2074,
-      "accepted": 755,
+      "retrieved": 2078,
+      "accepted": 756,
       "errors": 5
     },
     "careeronestop": {
@@ -55,7 +55,7 @@
     },
     "civicjobs": {
       "sources": 1,
-      "retrieved": 496,
+      "retrieved": 497,
       "accepted": 1,
       "errors": 0
     },
@@ -67,8 +67,8 @@
     },
     "greenhouse": {
       "sources": 34,
-      "retrieved": 5663,
-      "accepted": 1933,
+      "retrieved": 5660,
+      "accepted": 1939,
       "errors": 8
     },
     "jooble": {
@@ -85,26 +85,26 @@
     },
     "lever": {
       "sources": 15,
-      "retrieved": 1181,
+      "retrieved": 1179,
       "accepted": 144,
       "errors": 12
     },
     "public_feeds": {
       "sources": 3,
-      "retrieved": 323,
-      "accepted": 323,
+      "retrieved": 318,
+      "accepted": 318,
       "errors": 0
     },
     "smartrecruiters": {
       "sources": 8,
-      "retrieved": 2142,
-      "accepted": 145,
+      "retrieved": 2147,
+      "accepted": 148,
       "errors": 0
     },
     "successfactors": {
       "sources": 2,
-      "retrieved": 72,
-      "accepted": 35,
+      "retrieved": 80,
+      "accepted": 40,
       "errors": 0
     },
     "the_muse": {
@@ -115,9 +115,9 @@
     },
     "workday": {
       "sources": 25,
-      "retrieved": 365,
-      "accepted": 47,
-      "errors": 23
+      "retrieved": 613,
+      "accepted": 94,
+      "errors": 22
     }
   },
   "source_runs": [
@@ -129,7 +129,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 5510,
+      "duration_ms": 4381,
       "error": null,
       "note": "HTML fallback"
     },
@@ -138,10 +138,10 @@
       "family": "government_canada",
       "tier": "core",
       "status": "success",
-      "retrieved": 117,
+      "retrieved": 125,
       "accepted": 16,
       "pages": 5,
-      "duration_ms": 13263,
+      "duration_ms": 4111,
       "error": null,
       "note": "HTML fallback"
     },
@@ -153,7 +153,7 @@
       "retrieved": 4,
       "accepted": 4,
       "pages": 2,
-      "duration_ms": 7366,
+      "duration_ms": 5460,
       "error": null,
       "note": "HTML fallback"
     },
@@ -165,7 +165,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 2,
-      "duration_ms": 7104,
+      "duration_ms": 5083,
       "error": null,
       "note": "HTML fallback"
     },
@@ -177,7 +177,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 2,
-      "duration_ms": 11194,
+      "duration_ms": 5426,
       "error": null,
       "note": "HTML fallback"
     },
@@ -189,7 +189,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 3949,
+      "duration_ms": 3732,
       "error": null,
       "note": "HTML fallback"
     },
@@ -201,7 +201,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 3530,
+      "duration_ms": 3881,
       "error": null,
       "note": "HTML fallback"
     },
@@ -213,7 +213,7 @@
       "retrieved": 2,
       "accepted": 2,
       "pages": 2,
-      "duration_ms": 9986,
+      "duration_ms": 4682,
       "error": null,
       "note": "HTML fallback"
     },
@@ -225,7 +225,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 3771,
+      "duration_ms": 3737,
       "error": null,
       "note": "HTML fallback"
     },
@@ -237,7 +237,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 2,
-      "duration_ms": 5343,
+      "duration_ms": 5274,
       "error": null,
       "note": "HTML fallback"
     },
@@ -249,7 +249,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 2,
-      "duration_ms": 7255,
+      "duration_ms": 4779,
       "error": null,
       "note": "HTML fallback"
     },
@@ -261,7 +261,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 4342,
+      "duration_ms": 3889,
       "error": null,
       "note": "HTML fallback"
     },
@@ -270,10 +270,10 @@
       "family": "government_canada",
       "tier": "standard",
       "status": "success",
-      "retrieved": 1,
-      "accepted": 1,
+      "retrieved": 2,
+      "accepted": 2,
       "pages": 2,
-      "duration_ms": 6488,
+      "duration_ms": 5304,
       "error": null,
       "note": "HTML fallback"
     },
@@ -285,7 +285,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 3668,
+      "duration_ms": 3816,
       "error": null,
       "note": "HTML fallback"
     },
@@ -294,10 +294,10 @@
       "family": "government_canada",
       "tier": "standard",
       "status": "success",
-      "retrieved": 3,
-      "accepted": 3,
+      "retrieved": 11,
+      "accepted": 11,
       "pages": 2,
-      "duration_ms": 5552,
+      "duration_ms": 5219,
       "error": null,
       "note": "HTML fallback"
     },
@@ -309,7 +309,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 4565,
+      "duration_ms": 4165,
       "error": null,
       "note": "HTML fallback"
     },
@@ -321,7 +321,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 4116,
+      "duration_ms": 3605,
       "error": null,
       "note": "HTML fallback"
     },
@@ -333,7 +333,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 5821,
+      "duration_ms": 4154,
       "error": null,
       "note": "HTML fallback"
     },
@@ -345,7 +345,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 2,
-      "duration_ms": 7772,
+      "duration_ms": 4674,
       "error": null,
       "note": "HTML fallback"
     },
@@ -357,7 +357,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 3794,
+      "duration_ms": 4517,
       "error": null,
       "note": "HTML fallback"
     },
@@ -369,7 +369,7 @@
       "retrieved": 2,
       "accepted": 2,
       "pages": 2,
-      "duration_ms": 4698,
+      "duration_ms": 5549,
       "error": null,
       "note": "HTML fallback"
     },
@@ -381,7 +381,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 3979,
+      "duration_ms": 3861,
       "error": null,
       "note": "HTML fallback"
     },
@@ -393,7 +393,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 4904,
+      "duration_ms": 4338,
       "error": null,
       "note": "HTML fallback"
     },
@@ -405,7 +405,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 842,
+      "duration_ms": 763,
       "error": null,
       "note": "HTML fallback"
     },
@@ -417,7 +417,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 692,
+      "duration_ms": 813,
       "error": null,
       "note": "HTML fallback"
     },
@@ -429,7 +429,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 2066,
+      "duration_ms": 876,
       "error": null,
       "note": "HTML fallback"
     },
@@ -441,7 +441,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 701,
+      "duration_ms": 762,
       "error": null,
       "note": "HTML fallback"
     },
@@ -453,7 +453,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 864,
+      "duration_ms": 888,
       "error": null,
       "note": "HTML fallback"
     },
@@ -465,7 +465,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 49839,
+      "duration_ms": 49680,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)\"))",
       "note": null
     },
@@ -477,7 +477,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 49702,
+      "duration_ms": 49355,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/public-service-commission/jobs/services/recruitment/students/research-affiliate-program.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)\"))",
       "note": null
     },
@@ -489,7 +489,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 49788,
+      "duration_ms": 49556,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/public-service-commission/jobs/services/recruitment/students/coop-internship.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)\"))",
       "note": null
     },
@@ -501,7 +501,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 49754,
+      "duration_ms": 49374,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/services/jobs/youth.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)\"))",
       "note": null
     },
@@ -513,7 +513,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 442,
+      "duration_ms": 521,
       "error": null,
       "note": null
     },
@@ -525,7 +525,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 501,
+      "duration_ms": 695,
       "error": null,
       "note": null
     },
@@ -537,7 +537,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 49718,
+      "duration_ms": 49470,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/revenue-agency/corporate/careers-cra/browse-job-types/student-graduate-hiring.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)\"))",
       "note": null
     },
@@ -549,7 +549,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 97,
+      "duration_ms": 136,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://nrc.canada.ca/en/corporate/careers/nrc-student-employment-program",
       "note": null
     },
@@ -561,7 +561,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 393,
+      "duration_ms": 430,
       "error": null,
       "note": null
     },
@@ -573,7 +573,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 49754,
+      "duration_ms": 49413,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/employment-social-development/services/student-work-placements-wage-subsidies.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)\"))",
       "note": null
     },
@@ -585,7 +585,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 315,
+      "duration_ms": 580,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.bankofcanada.ca/careers/students-and-recent-graduates/",
       "note": null
     },
@@ -597,7 +597,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 507,
+      "duration_ms": 634,
       "error": null,
       "note": null
     },
@@ -609,7 +609,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 565,
+      "duration_ms": 633,
       "error": "RefreshError: Program page loaded but required identifying text was absent",
       "note": null
     },
@@ -621,7 +621,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 612,
+      "duration_ms": 610,
       "error": null,
       "note": null
     },
@@ -633,7 +633,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 377,
+      "duration_ms": 368,
       "error": null,
       "note": null
     },
@@ -645,7 +645,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 346,
+      "duration_ms": 579,
       "error": null,
       "note": null
     },
@@ -657,7 +657,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 391,
+      "duration_ms": 489,
       "error": null,
       "note": null
     },
@@ -669,7 +669,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 3384,
+      "duration_ms": 15489,
       "error": null,
       "note": null
     },
@@ -681,7 +681,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 157,
+      "duration_ms": 299,
       "error": null,
       "note": null
     },
@@ -693,7 +693,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 49713,
+      "duration_ms": 49345,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.canada.ca', port=443): Max retries exceeded with url: /en/canadian-coast-guard/services/search-rescue/inshore-rescue-boat-service/apply-student-program-how.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=16)\"))",
       "note": null
     },
@@ -942,10 +942,10 @@
       "family": "ashby",
       "tier": "standard",
       "status": "success",
-      "retrieved": 78,
-      "accepted": 72,
+      "retrieved": 77,
+      "accepted": 71,
       "pages": 1,
-      "duration_ms": 2321,
+      "duration_ms": 3438,
       "error": null,
       "note": null
     },
@@ -957,7 +957,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 53,
+      "duration_ms": 110,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/anthropic",
       "note": null
     },
@@ -969,7 +969,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 120,
+      "duration_ms": 147,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/brex",
       "note": null
     },
@@ -981,7 +981,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 134,
+      "duration_ms": 93,
       "error": null,
       "note": null
     },
@@ -993,7 +993,7 @@
       "retrieved": 117,
       "accepted": 55,
       "pages": 1,
-      "duration_ms": 2231,
+      "duration_ms": 1684,
       "error": null,
       "note": null
     },
@@ -1005,7 +1005,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 175,
+      "duration_ms": 162,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/glean",
       "note": null
     },
@@ -1014,10 +1014,10 @@
       "family": "ashby",
       "tier": "standard",
       "status": "success",
-      "retrieved": 388,
-      "accepted": 147,
+      "retrieved": 391,
+      "accepted": 148,
       "pages": 1,
-      "duration_ms": 5111,
+      "duration_ms": 4371,
       "error": null,
       "note": null
     },
@@ -1029,7 +1029,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 143,
+      "duration_ms": 107,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/intercom",
       "note": null
     },
@@ -1041,7 +1041,7 @@
       "retrieved": 30,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 226,
+      "duration_ms": 740,
       "error": null,
       "note": null
     },
@@ -1053,7 +1053,7 @@
       "retrieved": 174,
       "accepted": 21,
       "pages": 1,
-      "duration_ms": 3177,
+      "duration_ms": 4723,
       "error": null,
       "note": null
     },
@@ -1065,7 +1065,7 @@
       "retrieved": 876,
       "accepted": 323,
       "pages": 1,
-      "duration_ms": 8481,
+      "duration_ms": 11088,
       "error": null,
       "note": null
     },
@@ -1074,10 +1074,10 @@
       "family": "ashby",
       "tier": "standard",
       "status": "success",
-      "retrieved": 149,
+      "retrieved": 150,
       "accepted": 48,
       "pages": 1,
-      "duration_ms": 2966,
+      "duration_ms": 3432,
       "error": null,
       "note": null
     },
@@ -1089,7 +1089,7 @@
       "retrieved": 183,
       "accepted": 63,
       "pages": 1,
-      "duration_ms": 3635,
+      "duration_ms": 5092,
       "error": null,
       "note": null
     },
@@ -1101,7 +1101,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 102,
+      "duration_ms": 123,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/remote",
       "note": null
     },
@@ -1113,7 +1113,7 @@
       "retrieved": 38,
       "accepted": 15,
       "pages": 1,
-      "duration_ms": 249,
+      "duration_ms": 749,
       "error": null,
       "note": null
     },
@@ -1122,10 +1122,10 @@
       "family": "ashby",
       "tier": "standard",
       "status": "success",
-      "retrieved": 41,
-      "accepted": 11,
+      "retrieved": 42,
+      "accepted": 12,
       "pages": 1,
-      "duration_ms": 927,
+      "duration_ms": 943,
       "error": null,
       "note": null
     },
@@ -1254,10 +1254,10 @@
       "family": "civicjobs",
       "tier": "standard",
       "status": "success",
-      "retrieved": 496,
+      "retrieved": 497,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 612,
+      "duration_ms": 331,
       "error": null,
       "note": null
     },
@@ -1269,7 +1269,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 208,
+      "duration_ms": 128,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.ftc.gov/about-ftc/bureaus-offices/bureau-competition/careers-bureau-competition/legal-internships",
       "note": null
     },
@@ -1281,7 +1281,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 251,
+      "duration_ms": 216,
       "error": null,
       "note": null
     },
@@ -1293,7 +1293,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 49,
+      "duration_ms": 208,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://careers.state.gov/interns-fellows/student-internship-program/",
       "note": null
     },
@@ -1305,7 +1305,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 264,
+      "duration_ms": 211,
       "error": null,
       "note": null
     },
@@ -1482,10 +1482,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 213,
+      "retrieved": 216,
       "accepted": 31,
       "pages": 1,
-      "duration_ms": 2314,
+      "duration_ms": 2377,
       "error": null,
       "note": null
     },
@@ -1494,10 +1494,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 198,
-      "accepted": 109,
+      "retrieved": 202,
+      "accepted": 112,
       "pages": 1,
-      "duration_ms": 2737,
+      "duration_ms": 1989,
       "error": null,
       "note": null
     },
@@ -1509,7 +1509,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 145,
+      "duration_ms": 124,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/applyboard/jobs?content=true",
       "note": null
     },
@@ -1518,10 +1518,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 110,
+      "retrieved": 107,
       "accepted": 10,
       "pages": 1,
-      "duration_ms": 1254,
+      "duration_ms": 1458,
       "error": null,
       "note": null
     },
@@ -1533,7 +1533,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 116,
+      "duration_ms": 134,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/clio/jobs?content=true",
       "note": null
     },
@@ -1542,10 +1542,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "empty",
-      "retrieved": 523,
+      "retrieved": 528,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 1405,
+      "duration_ms": 1698,
       "error": null,
       "note": null
     },
@@ -1557,7 +1557,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 82,
+      "duration_ms": 120,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cohere/jobs?content=true",
       "note": null
     },
@@ -1566,10 +1566,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 257,
-      "accepted": 61,
+      "retrieved": 256,
+      "accepted": 60,
       "pages": 1,
-      "duration_ms": 2707,
+      "duration_ms": 2503,
       "error": null,
       "note": null
     },
@@ -1581,7 +1581,7 @@
       "retrieved": 73,
       "accepted": 50,
       "pages": 1,
-      "duration_ms": 414,
+      "duration_ms": 388,
       "error": null,
       "note": null
     },
@@ -1593,7 +1593,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 135,
+      "duration_ms": 145,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs?content=true",
       "note": null
     },
@@ -1602,10 +1602,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 392,
+      "retrieved": 391,
       "accepted": 132,
       "pages": 1,
-      "duration_ms": 4670,
+      "duration_ms": 6774,
       "error": null,
       "note": null
     },
@@ -1617,7 +1617,7 @@
       "retrieved": 402,
       "accepted": 103,
       "pages": 1,
-      "duration_ms": 6444,
+      "duration_ms": 9017,
       "error": null,
       "note": null
     },
@@ -1629,7 +1629,7 @@
       "retrieved": 51,
       "accepted": 4,
       "pages": 1,
-      "duration_ms": 691,
+      "duration_ms": 815,
       "error": null,
       "note": null
     },
@@ -1641,7 +1641,7 @@
       "retrieved": 12,
       "accepted": 7,
       "pages": 1,
-      "duration_ms": 421,
+      "duration_ms": 419,
       "error": null,
       "note": null
     },
@@ -1653,7 +1653,7 @@
       "retrieved": 44,
       "accepted": 30,
       "pages": 1,
-      "duration_ms": 574,
+      "duration_ms": 479,
       "error": null,
       "note": null
     },
@@ -1665,7 +1665,7 @@
       "retrieved": 128,
       "accepted": 64,
       "pages": 1,
-      "duration_ms": 2739,
+      "duration_ms": 3994,
       "error": null,
       "note": null
     },
@@ -1677,7 +1677,7 @@
       "retrieved": 97,
       "accepted": 31,
       "pages": 1,
-      "duration_ms": 1138,
+      "duration_ms": 1512,
       "error": null,
       "note": null
     },
@@ -1689,7 +1689,7 @@
       "retrieved": 144,
       "accepted": 63,
       "pages": 1,
-      "duration_ms": 1804,
+      "duration_ms": 1763,
       "error": null,
       "note": null
     },
@@ -1698,10 +1698,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 422,
+      "retrieved": 421,
       "accepted": 48,
       "pages": 1,
-      "duration_ms": 4333,
+      "duration_ms": 5984,
       "error": null,
       "note": null
     },
@@ -1710,10 +1710,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 366,
+      "retrieved": 360,
       "accepted": 56,
       "pages": 1,
-      "duration_ms": 3344,
+      "duration_ms": 5766,
       "error": null,
       "note": null
     },
@@ -1725,7 +1725,7 @@
       "retrieved": 30,
       "accepted": 30,
       "pages": 1,
-      "duration_ms": 1749,
+      "duration_ms": 2331,
       "error": null,
       "note": null
     },
@@ -1734,10 +1734,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 166,
+      "retrieved": 167,
       "accepted": 51,
       "pages": 1,
-      "duration_ms": 1809,
+      "duration_ms": 1943,
       "error": null,
       "note": null
     },
@@ -1749,7 +1749,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 220,
+      "duration_ms": 125,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/plaid/jobs?content=true",
       "note": null
     },
@@ -1759,9 +1759,9 @@
       "tier": "standard",
       "status": "success",
       "retrieved": 200,
-      "accepted": 80,
+      "accepted": 81,
       "pages": 1,
-      "duration_ms": 528,
+      "duration_ms": 1762,
       "error": null,
       "note": null
     },
@@ -1773,7 +1773,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 169,
+      "duration_ms": 165,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/pointclickcare/jobs?content=true",
       "note": null
     },
@@ -1782,10 +1782,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 148,
-      "accepted": 67,
+      "retrieved": 149,
+      "accepted": 68,
       "pages": 1,
-      "duration_ms": 1683,
+      "duration_ms": 2053,
       "error": null,
       "note": null
     },
@@ -1794,10 +1794,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 161,
+      "retrieved": 162,
       "accepted": 52,
       "pages": 1,
-      "duration_ms": 1855,
+      "duration_ms": 1880,
       "error": null,
       "note": null
     },
@@ -1806,10 +1806,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 551,
-      "accepted": 487,
+      "retrieved": 553,
+      "accepted": 490,
       "pages": 1,
-      "duration_ms": 7645,
+      "duration_ms": 9430,
       "error": null,
       "note": null
     },
@@ -1818,10 +1818,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 76,
+      "retrieved": 73,
       "accepted": 25,
       "pages": 1,
-      "duration_ms": 349,
+      "duration_ms": 1374,
       "error": null,
       "note": null
     },
@@ -1830,10 +1830,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 772,
+      "retrieved": 768,
       "accepted": 232,
       "pages": 1,
-      "duration_ms": 2422,
+      "duration_ms": 6213,
       "error": null,
       "note": null
     },
@@ -1842,10 +1842,10 @@
       "family": "greenhouse",
       "tier": "standard",
       "status": "success",
-      "retrieved": 126,
-      "accepted": 109,
+      "retrieved": 125,
+      "accepted": 108,
       "pages": 1,
-      "duration_ms": 1369,
+      "duration_ms": 3111,
       "error": null,
       "note": null
     },
@@ -1857,7 +1857,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 158,
+      "duration_ms": 146,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/twosigma/jobs?content=true",
       "note": null
     },
@@ -1869,7 +1869,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 101,
+      "duration_ms": 93,
       "error": null,
       "note": null
     },
@@ -1881,7 +1881,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 81,
+      "duration_ms": 123,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/wealthsimple/jobs?content=true",
       "note": null
     },
@@ -2037,7 +2037,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 157,
+      "duration_ms": 185,
       "error": null,
       "note": null
     },
@@ -2049,7 +2049,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 778,
+      "duration_ms": 866,
       "error": null,
       "note": null
     },
@@ -2061,7 +2061,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 2629,
+      "duration_ms": 622,
       "error": null,
       "note": null
     },
@@ -2073,7 +2073,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 559,
+      "duration_ms": 1204,
       "error": null,
       "note": null
     },
@@ -2085,7 +2085,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 932,
+      "duration_ms": 963,
       "error": null,
       "note": null
     },
@@ -2097,7 +2097,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 174,
+      "duration_ms": 220,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fasken.com/en/careers",
       "note": null
     },
@@ -2109,7 +2109,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 344,
+      "duration_ms": 592,
       "error": null,
       "note": null
     },
@@ -2121,7 +2121,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 3812,
+      "duration_ms": 3926,
       "error": "RetryError: HTTPSConnectionPool(host='www.mccarthy.ca', port=443): Max retries exceeded with url: /en/careers/students (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2133,7 +2133,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 89,
+      "duration_ms": 267,
       "error": null,
       "note": null
     },
@@ -2145,7 +2145,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 513,
+      "duration_ms": 747,
       "error": null,
       "note": null
     },
@@ -2157,7 +2157,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 1892,
+      "duration_ms": 3177,
       "error": null,
       "note": null
     },
@@ -2169,7 +2169,7 @@
       "retrieved": 1,
       "accepted": 1,
       "pages": 1,
-      "duration_ms": 1139,
+      "duration_ms": 972,
       "error": null,
       "note": null
     },
@@ -2181,7 +2181,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 240,
+      "duration_ms": 382,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anduril?mode=json",
       "note": null
     },
@@ -2193,7 +2193,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 166,
+      "duration_ms": 216,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/bench?mode=json",
       "note": null
     },
@@ -2205,7 +2205,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 333,
+      "duration_ms": 310,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/canva?mode=json",
       "note": null
     },
@@ -2217,7 +2217,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 357,
+      "duration_ms": 305,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/chainalysis?mode=json",
       "note": null
     },
@@ -2229,7 +2229,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 174,
+      "duration_ms": 257,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/freshbooks?mode=json",
       "note": null
     },
@@ -2241,7 +2241,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 245,
+      "duration_ms": 299,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/gusto?mode=json",
       "note": null
     },
@@ -2253,7 +2253,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 207,
+      "duration_ms": 402,
       "error": null,
       "note": null
     },
@@ -2265,7 +2265,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 195,
+      "duration_ms": 206,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/hootsuite?mode=json",
       "note": null
     },
@@ -2277,7 +2277,7 @@
       "retrieved": 305,
       "accepted": 96,
       "pages": 1,
-      "duration_ms": 1238,
+      "duration_ms": 6782,
       "error": null,
       "note": null
     },
@@ -2289,7 +2289,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 248,
+      "duration_ms": 383,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/samsara?mode=json",
       "note": null
     },
@@ -2301,7 +2301,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 297,
+      "duration_ms": 1124,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/seatgeek?mode=json",
       "note": null
     },
@@ -2313,7 +2313,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 183,
+      "duration_ms": 260,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/upwork?mode=json",
       "note": null
     },
@@ -2322,10 +2322,10 @@
       "family": "lever",
       "tier": "standard",
       "status": "success",
-      "retrieved": 876,
+      "retrieved": 874,
       "accepted": 48,
       "pages": 1,
-      "duration_ms": 6926,
+      "duration_ms": 7590,
       "error": null,
       "note": null
     },
@@ -2337,7 +2337,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 537,
+      "duration_ms": 506,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/yelp?mode=json",
       "note": null
     },
@@ -2349,7 +2349,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 176,
+      "duration_ms": 281,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/ecobee?mode=json",
       "note": null
     },
@@ -2361,7 +2361,7 @@
       "retrieved": 146,
       "accepted": 146,
       "pages": 1,
-      "duration_ms": 218,
+      "duration_ms": 157,
       "error": null,
       "note": null
     },
@@ -2373,7 +2373,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 177,
+      "duration_ms": 317,
       "error": null,
       "note": null
     },
@@ -2382,10 +2382,10 @@
       "family": "public_feeds",
       "tier": "standard",
       "status": "success",
-      "retrieved": 177,
-      "accepted": 177,
+      "retrieved": 172,
+      "accepted": 172,
       "pages": 1,
-      "duration_ms": 191,
+      "duration_ms": 205,
       "error": null,
       "note": null
     },
@@ -2395,9 +2395,9 @@
       "tier": "standard",
       "status": "success",
       "retrieved": 500,
-      "accepted": 1,
+      "accepted": 4,
       "pages": 5,
-      "duration_ms": 4011,
+      "duration_ms": 2617,
       "error": null,
       "note": null
     },
@@ -2406,10 +2406,10 @@
       "family": "smartrecruiters",
       "tier": "standard",
       "status": "empty",
-      "retrieved": 416,
+      "retrieved": 419,
       "accepted": 0,
       "pages": 5,
-      "duration_ms": 3044,
+      "duration_ms": 2316,
       "error": null,
       "note": null
     },
@@ -2421,7 +2421,7 @@
       "retrieved": 500,
       "accepted": 115,
       "pages": 5,
-      "duration_ms": 3769,
+      "duration_ms": 2894,
       "error": null,
       "note": null
     },
@@ -2433,7 +2433,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 508,
+      "duration_ms": 329,
       "error": null,
       "note": null
     },
@@ -2445,7 +2445,7 @@
       "retrieved": 500,
       "accepted": 7,
       "pages": 5,
-      "duration_ms": 3142,
+      "duration_ms": 2215,
       "error": null,
       "note": null
     },
@@ -2457,7 +2457,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 449,
+      "duration_ms": 310,
       "error": null,
       "note": null
     },
@@ -2466,10 +2466,10 @@
       "family": "smartrecruiters",
       "tier": "standard",
       "status": "success",
-      "retrieved": 226,
+      "retrieved": 228,
       "accepted": 22,
       "pages": 3,
-      "duration_ms": 1715,
+      "duration_ms": 1087,
       "error": null,
       "note": null
     },
@@ -2481,7 +2481,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 1,
-      "duration_ms": 569,
+      "duration_ms": 328,
       "error": null,
       "note": null
     },
@@ -2490,10 +2490,10 @@
       "family": "successfactors",
       "tier": "standard",
       "status": "success",
-      "retrieved": 30,
-      "accepted": 14,
+      "retrieved": 34,
+      "accepted": 17,
       "pages": 2,
-      "duration_ms": 696,
+      "duration_ms": 881,
       "error": null,
       "note": null
     },
@@ -2502,10 +2502,10 @@
       "family": "successfactors",
       "tier": "standard",
       "status": "success",
-      "retrieved": 42,
-      "accepted": 21,
+      "retrieved": 46,
+      "accepted": 23,
       "pages": 2,
-      "duration_ms": 925,
+      "duration_ms": 935,
       "error": null,
       "note": null
     },
@@ -2517,7 +2517,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 282,
+      "duration_ms": 314,
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.themuse.com/api/public/jobs?page=1&level=Internship",
       "note": null
     },
@@ -2529,7 +2529,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5673,
+      "duration_ms": 5767,
       "error": "RetryError: HTTPSConnectionPool(host='407etr.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/407etr/407_ETR_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2541,7 +2541,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5711,
+      "duration_ms": 5662,
       "error": "RetryError: HTTPSConnectionPool(host='abb.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/abb/external_career_page/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2553,7 +2553,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5789,
+      "duration_ms": 5722,
       "error": "RetryError: HTTPSConnectionPool(host='bmo.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/bmo/Campus/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2561,13 +2561,13 @@
       "name": "Workday: Brookfield",
       "family": "workday",
       "tier": "standard",
-      "status": "error",
-      "retrieved": 0,
-      "accepted": 0,
-      "pages": 0,
-      "duration_ms": 3798,
-      "error": "RetryError: HTTPSConnectionPool(host='brookfield.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/brookfield/brookfield/jobs (Caused by ResponseError('too many 429 error responses'))",
-      "note": null
+      "status": "success",
+      "retrieved": 249,
+      "accepted": 48,
+      "pages": 15,
+      "duration_ms": 16089,
+      "error": null,
+      "note": "Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
     },
     {
       "name": "Workday: CIBC Campus",
@@ -2577,7 +2577,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 6026,
+      "duration_ms": 6063,
       "error": "RetryError: HTTPSConnectionPool(host='cibc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cibc/campus/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2586,10 +2586,10 @@
       "family": "workday",
       "tier": "standard",
       "status": "success",
-      "retrieved": 69,
-      "accepted": 9,
+      "retrieved": 72,
+      "accepted": 10,
       "pages": 7,
-      "duration_ms": 2870,
+      "duration_ms": 2876,
       "error": null,
       "note": "Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
     },
@@ -2601,7 +2601,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 3883,
+      "duration_ms": 4379,
       "error": "RetryError: HTTPSConnectionPool(host='comcast.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/comcast/Comcast_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2610,10 +2610,10 @@
       "family": "workday",
       "tier": "standard",
       "status": "success",
-      "retrieved": 296,
-      "accepted": 38,
+      "retrieved": 292,
+      "accepted": 36,
       "pages": 18,
-      "duration_ms": 9790,
+      "duration_ms": 9988,
       "error": null,
       "note": "Targeted Workday queries: intern, student, co-op, summer analyst, summer associate"
     },
@@ -2625,7 +2625,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 9164,
+      "duration_ms": 6176,
       "error": "RetryError: HTTPSConnectionPool(host='harman.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/harman/HARMAN/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2637,7 +2637,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5695,
+      "duration_ms": 5831,
       "error": "RetryError: HTTPSConnectionPool(host='intactfc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/intactfc/intactfc/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2649,7 +2649,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5956,
+      "duration_ms": 6027,
       "error": "RetryError: HTTPSConnectionPool(host='interac.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/interac/Interac/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2661,7 +2661,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5718,
+      "duration_ms": 5700,
       "error": "RetryError: HTTPSConnectionPool(host='manulife.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/manulife/MFCJH_Jobs/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2673,7 +2673,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5969,
+      "duration_ms": 6070,
       "error": "RetryError: HTTPSConnectionPool(host='mlse.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/mlse/MLSE_Opportunities/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2685,7 +2685,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5696,
+      "duration_ms": 5689,
       "error": "RetryError: HTTPSConnectionPool(host='mckesson.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/mckesson/External_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2697,7 +2697,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5677,
+      "duration_ms": 5700,
       "error": "RetryError: HTTPSConnectionPool(host='olg.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/olg/Careers-Students/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2709,7 +2709,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5708,
+      "duration_ms": 5752,
       "error": "RetryError: HTTPSConnectionPool(host='omers.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/omers/OMERS_External/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2721,7 +2721,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5762,
+      "duration_ms": 5774,
       "error": "RetryError: HTTPSConnectionPool(host='otppb.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/otppb/OntarioTeachers_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2733,7 +2733,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5687,
+      "duration_ms": 5615,
       "error": "RetryError: HTTPSConnectionPool(host='investpsp.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/investpsp/psp_careers/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2745,7 +2745,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5764,
+      "duration_ms": 5638,
       "error": "RetryError: HTTPSConnectionPool(host='rbc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/rbc/RBCEARLYTALENT1/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2757,7 +2757,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 4057,
+      "duration_ms": 6932,
       "error": "RetryError: HTTPSConnectionPool(host='spgi.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/spgi/SPGI_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2769,7 +2769,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 4259,
+      "duration_ms": 8462,
       "error": "RetryError: HTTPSConnectionPool(host='sonyglobal.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/sonyglobal/SonyGlobalCareers/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2781,7 +2781,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5781,
+      "duration_ms": 5533,
       "error": "RetryError: HTTPSConnectionPool(host='sunlife.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/sunlife/Campus/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2793,7 +2793,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 7194,
+      "duration_ms": 5598,
       "error": "RetryError: HTTPSConnectionPool(host='td.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/td/TD_Bank_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2805,7 +2805,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 5722,
+      "duration_ms": 5808,
       "error": "RetryError: HTTPSConnectionPool(host='tmx.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/tmx/TMX_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     },
@@ -2817,7 +2817,7 @@
       "retrieved": 0,
       "accepted": 0,
       "pages": 0,
-      "duration_ms": 3845,
+      "duration_ms": 10317,
       "error": "RetryError: HTTPSConnectionPool(host='thomsonreuters.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/thomsonreuters/External_Career_Site/jobs (Caused by ResponseError('too many 429 error responses'))",
       "note": null
     }
@@ -2994,10 +2994,6 @@
     {
       "source": "Workday: BMO Campus",
       "error": "RetryError: HTTPSConnectionPool(host='bmo.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/bmo/Campus/jobs (Caused by ResponseError('too many 429 error responses'))"
-    },
-    {
-      "source": "Workday: Brookfield",
-      "error": "RetryError: HTTPSConnectionPool(host='brookfield.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/brookfield/brookfield/jobs (Caused by ResponseError('too many 429 error responses'))"
     },
     {
       "source": "Workday: CIBC Campus",
